@@ -1,0 +1,21 @@
+MISSÃO CIÊNCIAS WEB V3
+
+CONTEÚDO
+- 210 perguntas geradas de 70 fatos pedagógicos presentes no material até a página 93.
+- 6 imagens individuais.
+- 3 níveis, XP, medalhas e painel local dos responsáveis.
+- PIN inicial do painel: 1234.
+
+PUBLICAR EM UM LINK ÚNICO - OPÇÃO MAIS RÁPIDA
+1. Acesse https://app.netlify.com/drop
+2. Arraste este ZIP ou a pasta extraída.
+3. O serviço fornecerá um endereço público no formato nome.netlify.app.
+4. No painel do projeto, altere o nome do site para personalizar o link disponível.
+
+PUBLICAR NO GITHUB PAGES
+1. Crie um repositório público.
+2. Envie todos os arquivos para a raiz da branch main.
+3. Settings > Pages > Deploy from a branch > main > /(root) > Save.
+
+IMPORTANTE
+O site é estático. Nome e desempenho ficam no navegador de cada família e não são centralizados. Para contas sincronizadas entre dispositivos seria necessário adicionar banco de dados, autenticação e política de privacidade.
