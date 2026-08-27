@@ -1,0 +1,23 @@
+ALFAGAMES - HISTÓRIA E GEOGRAFIA
+
+ARQUIVOS A SUBSTITUIR:
+- index.html
+- app.js
+- styles.css
+
+ARQUIVO NOVO:
+- historia-geografia-questions.json
+
+NÃO SUBSTITUA NEM APAGUE:
+- questions.json
+- imagens JPG existentes
+
+O app.js carrega o banco atual de Ciências e acrescenta o novo banco de História e Geografia. A chave localStorage agData foi preservada, portanto nome, XP e progresso existentes permanecem no mesmo navegador.
+
+CONTEÚDO:
+- História: 6 mundos, 93 fatos/perguntas-base em três níveis
+- Geografia: 4 mundos, 87 fatos/perguntas-base em três níveis
+- Total novo: 180 perguntas
+
+PUBLICAÇÃO:
+Envie os quatro arquivos para a raiz do repositório alfagames, faça commit, aguarde o GitHub Pages e teste em aba anônima antes de avisar os pais.
