@@ -1,0 +1,224 @@
+{
+  "disciplina": "portugues",
+  "titulo": "Caça-palavras de Português",
+  "serie": "1º ano do Ensino Fundamental",
+  "tamanho_grade": 11,
+  "quantidade_por_rodada": 8,
+  "observacao": "As palavras aparecem sem acentos na grade, mas são exibidas corretamente na lista.",
+  "categorias": {
+    "alfabeto": {
+      "titulo": "Alfabeto e sons",
+      "emoji": "🔤"
+    },
+    "palavras": {
+      "titulo": "Formação de palavras",
+      "emoji": "📝"
+    },
+    "leitura": {
+      "titulo": "Leitura e textos",
+      "emoji": "📖"
+    },
+    "escrita": {
+      "titulo": "Escrita e pontuação",
+      "emoji": "✏️"
+    },
+    "linguagem": {
+      "titulo": "Comunicação",
+      "emoji": "💬"
+    }
+  },
+  "palavras": [
+    {
+      "palavra": "ALFABETO",
+      "exibicao": "ALFABETO",
+      "categoria": "alfabeto",
+      "dica": "Conjunto de letras usadas para escrever palavras."
+    },
+    {
+      "palavra": "LETRA",
+      "exibicao": "LETRA",
+      "categoria": "alfabeto",
+      "dica": "Cada sinal que faz parte do alfabeto."
+    },
+    {
+      "palavra": "VOGAL",
+      "exibicao": "VOGAL",
+      "categoria": "alfabeto",
+      "dica": "Nome dado às letras A, E, I, O e U."
+    },
+    {
+      "palavra": "CONSOANTE",
+      "exibicao": "CONSOANTE",
+      "categoria": "alfabeto",
+      "dica": "Letra do alfabeto que não é vogal."
+    },
+    {
+      "palavra": "SOM",
+      "exibicao": "SOM",
+      "categoria": "alfabeto",
+      "dica": "Aquilo que percebemos ao pronunciar uma letra ou palavra."
+    },
+    {
+      "palavra": "RIMA",
+      "exibicao": "RIMA",
+      "categoria": "alfabeto",
+      "dica": "Semelhança de sons no final de palavras."
+    },
+    {
+      "palavra": "SILABA",
+      "exibicao": "SÍLABA",
+      "categoria": "palavras",
+      "dica": "Parte sonora de uma palavra pronunciada de uma vez."
+    },
+    {
+      "palavra": "PALAVRA",
+      "exibicao": "PALAVRA",
+      "categoria": "palavras",
+      "dica": "Conjunto de letras ou sílabas que possui significado."
+    },
+    {
+      "palavra": "NOME",
+      "exibicao": "NOME",
+      "categoria": "palavras",
+      "dica": "Palavra usada para identificar pessoas, animais, lugares ou objetos."
+    },
+    {
+      "palavra": "FRASE",
+      "exibicao": "FRASE",
+      "categoria": "palavras",
+      "dica": "Conjunto de palavras que comunica uma ideia."
+    },
+    {
+      "palavra": "TEXTO",
+      "exibicao": "TEXTO",
+      "categoria": "leitura",
+      "dica": "Conjunto organizado de palavras e frases."
+    },
+    {
+      "palavra": "TITULO",
+      "exibicao": "TÍTULO",
+      "categoria": "leitura",
+      "dica": "Nome que apresenta um texto ou uma história."
+    },
+    {
+      "palavra": "AUTOR",
+      "exibicao": "AUTOR",
+      "categoria": "leitura",
+      "dica": "Pessoa que escreve uma obra ou um texto."
+    },
+    {
+      "palavra": "LEITOR",
+      "exibicao": "LEITOR",
+      "categoria": "leitura",
+      "dica": "Pessoa que realiza a leitura."
+    },
+    {
+      "palavra": "LIVRO",
+      "exibicao": "LIVRO",
+      "categoria": "leitura",
+      "dica": "Objeto que reúne páginas com textos e imagens."
+    },
+    {
+      "palavra": "CONTO",
+      "exibicao": "CONTO",
+      "categoria": "leitura",
+      "dica": "Narrativa geralmente curta."
+    },
+    {
+      "palavra": "POEMA",
+      "exibicao": "POEMA",
+      "categoria": "leitura",
+      "dica": "Texto que pode apresentar versos, ritmo e rimas."
+    },
+    {
+      "palavra": "VERSO",
+      "exibicao": "VERSO",
+      "categoria": "leitura",
+      "dica": "Cada linha que compõe um poema."
+    },
+    {
+      "palavra": "QUADRINHO",
+      "exibicao": "QUADRINHO",
+      "categoria": "leitura",
+      "dica": "História contada com imagens, falas e sequências de cenas."
+    },
+    {
+      "palavra": "IMAGEM",
+      "exibicao": "IMAGEM",
+      "categoria": "leitura",
+      "dica": "Representação visual que pode acompanhar um texto."
+    },
+    {
+      "palavra": "LER",
+      "exibicao": "LER",
+      "categoria": "leitura",
+      "dica": "Compreender letras, palavras, frases e textos."
+    },
+    {
+      "palavra": "ESCREVER",
+      "exibicao": "ESCREVER",
+      "categoria": "escrita",
+      "dica": "Registrar letras e palavras para comunicar ideias."
+    },
+    {
+      "palavra": "CADERNO",
+      "exibicao": "CADERNO",
+      "categoria": "escrita",
+      "dica": "Material usado para registrar atividades e textos."
+    },
+    {
+      "palavra": "LAPIS",
+      "exibicao": "LÁPIS",
+      "categoria": "escrita",
+      "dica": "Objeto usado para escrever ou desenhar."
+    },
+    {
+      "palavra": "PONTO",
+      "exibicao": "PONTO",
+      "categoria": "escrita",
+      "dica": "Sinal que pode indicar o final de uma frase."
+    },
+    {
+      "palavra": "VIRGULA",
+      "exibicao": "VÍRGULA",
+      "categoria": "escrita",
+      "dica": "Sinal de pontuação usado para pequenas pausas e separações."
+    },
+    {
+      "palavra": "PERGUNTA",
+      "exibicao": "PERGUNTA",
+      "categoria": "linguagem",
+      "dica": "Frase usada quando desejamos obter uma resposta."
+    },
+    {
+      "palavra": "RESPOSTA",
+      "exibicao": "RESPOSTA",
+      "categoria": "linguagem",
+      "dica": "Aquilo que dizemos ou escrevemos após uma pergunta."
+    },
+    {
+      "palavra": "FALA",
+      "exibicao": "FALA",
+      "categoria": "linguagem",
+      "dica": "Forma oral de comunicar uma mensagem."
+    },
+    {
+      "palavra": "OUVIR",
+      "exibicao": "OUVIR",
+      "categoria": "linguagem",
+      "dica": "Prestar atenção ao que é dito ou aos sons."
+    },
+    {
+      "palavra": "MENSAGEM",
+      "exibicao": "MENSAGEM",
+      "categoria": "linguagem",
+      "dica": "Informação enviada de uma pessoa para outra."
+    },
+    {
+      "palavra": "IDEIA",
+      "exibicao": "IDEIA",
+      "categoria": "linguagem",
+      "dica": "Pensamento que pode ser comunicado por fala, escrita ou imagem."
+    }
+  ]
+}

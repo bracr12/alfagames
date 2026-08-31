@@ -1,0 +1,228 @@
+{
+  "disciplina": "matematica",
+  "titulo": "Caça-números e palavras de Matemática",
+  "serie": "1º ano do Ensino Fundamental",
+  "tamanho_grade": 11,
+  "quantidade_por_rodada": 8,
+  "observacao": "As palavras aparecem sem acentos na grade.",
+  "categorias": {
+    "numeros": {
+      "titulo": "Números e quantidades",
+      "emoji": "🔢"
+    },
+    "operacoes": {
+      "titulo": "Operações",
+      "emoji": "➕"
+    },
+    "formas": {
+      "titulo": "Formas geométricas",
+      "emoji": "🔷"
+    },
+    "medidas": {
+      "titulo": "Medidas e comparação",
+      "emoji": "📏"
+    },
+    "tempo": {
+      "titulo": "Tempo e calendário",
+      "emoji": "🕐"
+    },
+    "posicao": {
+      "titulo": "Posição e localização",
+      "emoji": "🧭"
+    }
+  },
+  "palavras": [
+    {
+      "palavra": "NUMERO",
+      "exibicao": "NÚMERO",
+      "categoria": "numeros",
+      "dica": "Usamos para representar quantidades e ordenar elementos."
+    },
+    {
+      "palavra": "ZERO",
+      "exibicao": "ZERO",
+      "categoria": "numeros",
+      "dica": "Número que representa nenhuma quantidade."
+    },
+    {
+      "palavra": "UM",
+      "exibicao": "UM",
+      "categoria": "numeros",
+      "dica": "Primeiro número natural depois do zero."
+    },
+    {
+      "palavra": "DOIS",
+      "exibicao": "DOIS",
+      "categoria": "numeros",
+      "dica": "Quantidade representada por 2."
+    },
+    {
+      "palavra": "DEZ",
+      "exibicao": "DEZ",
+      "categoria": "numeros",
+      "dica": "Quantidade formada por uma dezena."
+    },
+    {
+      "palavra": "DEZENA",
+      "exibicao": "DEZENA",
+      "categoria": "numeros",
+      "dica": "Grupo formado por dez unidades."
+    },
+    {
+      "palavra": "UNIDADE",
+      "exibicao": "UNIDADE",
+      "categoria": "numeros",
+      "dica": "Cada elemento contado separadamente."
+    },
+    {
+      "palavra": "CONTAR",
+      "exibicao": "CONTAR",
+      "categoria": "numeros",
+      "dica": "Dizer os números em uma sequência para descobrir uma quantidade."
+    },
+    {
+      "palavra": "SOMA",
+      "exibicao": "SOMA",
+      "categoria": "operacoes",
+      "dica": "Operação usada para juntar ou acrescentar quantidades."
+    },
+    {
+      "palavra": "MAIS",
+      "exibicao": "MAIS",
+      "categoria": "operacoes",
+      "dica": "Palavra associada à adição."
+    },
+    {
+      "palavra": "JUNTAR",
+      "exibicao": "JUNTAR",
+      "categoria": "operacoes",
+      "dica": "Reunir quantidades em um mesmo grupo."
+    },
+    {
+      "palavra": "TOTAL",
+      "exibicao": "TOTAL",
+      "categoria": "operacoes",
+      "dica": "Resultado obtido depois de reunir todas as quantidades."
+    },
+    {
+      "palavra": "MENOS",
+      "exibicao": "MENOS",
+      "categoria": "operacoes",
+      "dica": "Palavra associada à retirada de uma quantidade."
+    },
+    {
+      "palavra": "TIRAR",
+      "exibicao": "TIRAR",
+      "categoria": "operacoes",
+      "dica": "Retirar elementos de um grupo."
+    },
+    {
+      "palavra": "IGUAL",
+      "exibicao": "IGUAL",
+      "categoria": "operacoes",
+      "dica": "Indica que dois valores têm o mesmo resultado."
+    },
+    {
+      "palavra": "CIRCULO",
+      "exibicao": "CÍRCULO",
+      "categoria": "formas",
+      "dica": "Forma redonda que não possui lados."
+    },
+    {
+      "palavra": "QUADRADO",
+      "exibicao": "QUADRADO",
+      "categoria": "formas",
+      "dica": "Forma com quatro lados do mesmo tamanho."
+    },
+    {
+      "palavra": "TRIANGULO",
+      "exibicao": "TRIÂNGULO",
+      "categoria": "formas",
+      "dica": "Forma geométrica com três lados."
+    },
+    {
+      "palavra": "RETANGULO",
+      "exibicao": "RETÂNGULO",
+      "categoria": "formas",
+      "dica": "Forma com quatro lados e quatro cantos."
+    },
+    {
+      "palavra": "LADO",
+      "exibicao": "LADO",
+      "categoria": "formas",
+      "dica": "Parte que forma o contorno de algumas figuras geométricas."
+    },
+    {
+      "palavra": "MAIOR",
+      "exibicao": "MAIOR",
+      "categoria": "medidas",
+      "dica": "Indica a quantidade ou medida que supera outra."
+    },
+    {
+      "palavra": "MENOR",
+      "exibicao": "MENOR",
+      "categoria": "medidas",
+      "dica": "Indica a quantidade ou medida que fica abaixo de outra."
+    },
+    {
+      "palavra": "ALTO",
+      "exibicao": "ALTO",
+      "categoria": "medidas",
+      "dica": "Palavra usada para comparar alturas."
+    },
+    {
+      "palavra": "BAIXO",
+      "exibicao": "BAIXO",
+      "categoria": "medidas",
+      "dica": "Palavra usada para indicar menor altura."
+    },
+    {
+      "palavra": "LONGO",
+      "exibicao": "LONGO",
+      "categoria": "medidas",
+      "dica": "Indica maior comprimento."
+    },
+    {
+      "palavra": "CURTO",
+      "exibicao": "CURTO",
+      "categoria": "medidas",
+      "dica": "Indica menor comprimento."
+    },
+    {
+      "palavra": "DIA",
+      "exibicao": "DIA",
+      "categoria": "tempo",
+      "dica": "Período que pode ser organizado no calendário."
+    },
+    {
+      "palavra": "SEMANA",
+      "exibicao": "SEMANA",
+      "categoria": "tempo",
+      "dica": "Período formado por sete dias."
+    },
+    {
+      "palavra": "MES",
+      "exibicao": "MÊS",
+      "categoria": "tempo",
+      "dica": "Parte do ano registrada no calendário."
+    },
+    {
+      "palavra": "ANTES",
+      "exibicao": "ANTES",
+      "categoria": "posicao",
+      "dica": "Indica algo que vem primeiro."
+    },
+    {
+      "palavra": "DEPOIS",
+      "exibicao": "DEPOIS",
+      "categoria": "posicao",
+      "dica": "Indica algo que vem em seguida."
+    },
+    {
+      "palavra": "ENTRE",
+      "exibicao": "ENTRE",
+      "categoria": "posicao",
+      "dica": "Indica uma posição no meio de dois elementos."
+    }
+  ]
+}
