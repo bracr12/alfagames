@@ -2249,4 +2249,185 @@
     "answer": 0,
     "explanation": "Usamos igual a quando duas quantidades têm o mesmo valor."
   }
+],
+{
+  "subject": "matematica",
+  "world": "mat-dados",
+  "topic": "Organização de dados",
+  "level": "Fácil",
+  "prompt": "Qual recurso organiza informações em linhas e colunas?",
+  "options": [
+    "Tabela",
+    "Relógio",
+    "Régua",
+    "Balança"
+  ],
+  "answer": 0,
+  "explanation": "Uma tabela pode organizar informações em linhas e colunas."
+},
+{
+  "subject": "matematica",
+  "world": "mat-dados",
+  "topic": "Organização de dados",
+  "level": "Médio",
+  "prompt": "Em qual recurso podemos organizar informações em linhas e colunas?",
+  "options": [
+    "Calendário",
+    "Tabela",
+    "Relógio",
+    "Termômetro"
+  ],
+  "answer": 1,
+  "explanation": "Uma tabela ajuda a organizar e comparar informações."
+},
+{
+  "subject": "matematica",
+  "world": "mat-dados",
+  "topic": "Organização de dados",
+  "level": "Desafio",
+  "prompt": "Qual recurso facilita a comparação de dados coletados em uma pesquisa?",
+  "options": [
+    "Mapa",
+    "Régua",
+    "Tabela",
+    "Relógio"
+  ],
+  "answer": 2,
+  "explanation": "Uma tabela permite organizar e comparar os dados de uma pesquisa."
+},
+{
+  "subject": "matematica",
+  "world": "mat-dados",
+  "topic": "Leitura de gráficos",
+  "level": "Fácil",
+  "prompt": "Em um gráfico, qual coluna representa a maior quantidade?",
+  "options": [
+    "A coluna mais alta",
+    "A coluna mais baixa",
+    "A coluna mais estreita",
+    "Todas as colunas"
+  ],
+  "answer": 0,
+  "explanation": "Em um gráfico de colunas, a coluna mais alta representa a maior quantidade."
+},
+{
+  "subject": "matematica",
+  "world": "mat-dados",
+  "topic": "Leitura de gráficos",
+  "level": "Médio",
+  "prompt": "A coluna das maçãs é mais alta do que a coluna das bananas. O que isso significa?",
+  "options": [
+    "Mais pessoas escolheram bananas",
+    "Mais pessoas escolheram maçãs",
+    "As duas frutas receberam a mesma quantidade",
+    "Ninguém escolheu maçãs"
+  ],
+  "answer": 1,
+  "explanation": "A coluna mais alta indica que mais pessoas escolheram maçãs."
+},
+{
+  "subject": "matematica",
+  "world": "mat-dados",
+  "topic": "Leitura de gráficos",
+  "level": "Desafio",
+  "prompt": "A coluna azul tem 8 marcações e a coluna verde tem 5. Qual coluna representa a maior quantidade?",
+  "options": [
+    "A coluna verde",
+    "As duas representam a mesma quantidade",
+    "A coluna azul",
+    "Não é possível comparar"
+  ],
+  "answer": 2,
+  "explanation": "Oito é maior que cinco. Por isso, a coluna azul representa a maior quantidade."
+},
+{
+  "subject": "matematica",
+  "world": "mat-dados",
+  "topic": "Contagem e registros",
+  "level": "Fácil",
+  "prompt": "Uma pesquisa registrou 5 votos para maçã e 3 para banana. Qual fruta recebeu mais votos?",
+  "options": [
+    "Maçã",
+    "Banana",
+    "As duas receberam a mesma quantidade",
+    "Nenhuma das duas"
+  ],
+  "answer": 0,
+  "explanation": "A maçã recebeu 5 votos e a banana recebeu 3. Portanto, a maçã recebeu mais votos."
+},
+{
+  "subject": "matematica",
+  "world": "mat-dados",
+  "topic": "Contagem e registros",
+  "level": "Médio",
+  "prompt": "Uma tabela registra 4 gatos, 7 cães e 2 pássaros. Qual animal aparece em maior quantidade?",
+  "options": [
+    "Gatos",
+    "Pássaros",
+    "Cães",
+    "Todos aparecem na mesma quantidade"
+  ],
+  "answer": 2,
+  "explanation": "Os cães aparecem 7 vezes, que é a maior quantidade."
+},
+{
+  "subject": "matematica",
+  "world": "mat-dados",
+  "topic": "Contagem e registros",
+  "level": "Desafio",
+  "prompt": "Uma pesquisa recebeu 6 votos para azul, 3 para verde e 5 para amarelo. Qual foi a cor menos escolhida?",
+  "options": [
+    "Azul",
+    "Amarelo",
+    "Verde",
+    "As três cores receberam a mesma quantidade"
+  ],
+  "answer": 2,
+  "explanation": "A cor verde recebeu 3 votos, que é a menor quantidade."
+},
+{
+  "subject": "matematica",
+  "world": "mat-dados",
+  "topic": "Comparação de dados",
+  "level": "Fácil",
+  "prompt": "João tem 4 carrinhos e Ana tem 6. Quem possui mais carrinhos?",
+  "options": [
+    "João",
+    "Ana",
+    "Os dois possuem a mesma quantidade",
+    "Não é possível saber"
+  ],
+  "answer": 1,
+  "explanation": "Ana possui 6 carrinhos, enquanto João possui 4."
+},
+{
+  "subject": "matematica",
+  "world": "mat-dados",
+  "topic": "Comparação de dados",
+  "level": "Médio",
+  "prompt": "Um gráfico mostra 9 livros de histórias e 6 livros de Ciências. Qual categoria possui menos livros?",
+  "options": [
+    "Livros de histórias",
+    "Livros de Ciências",
+    "As duas possuem a mesma quantidade",
+    "Nenhuma possui livros"
+  ],
+  "answer": 1,
+  "explanation": "Seis é menor que nove. Portanto, há menos livros de Ciências."
+},
+{
+  "subject": "matematica",
+  "world": "mat-dados",
+  "topic": "Comparação de dados",
+  "level": "Desafio",
+  "prompt": "Uma tabela apresenta 8 votos para futebol e 8 votos para natação. O que podemos concluir?",
+  "options": [
+    "Futebol recebeu mais votos",
+    "Natação recebeu mais votos",
+    "As duas atividades receberam a mesma quantidade de votos",
+    "Nenhuma atividade recebeu votos"
+  ],
+  "answer": 2,
+  "explanation": "As duas atividades receberam 8 votos. Portanto, as quantidades são iguais."
+}
 ]
