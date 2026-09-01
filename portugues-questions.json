@@ -1,0 +1,2252 @@
+[
+  {
+    "subject": "portugues",
+    "world": "port-alfabeto",
+    "topic": "Alfabeto e letras",
+    "level": "Fácil",
+    "prompt": "Quantas letras possui o alfabeto português?",
+    "options": [
+      "26",
+      "23",
+      "30",
+      "24"
+    ],
+    "answer": 0,
+    "explanation": "O alfabeto português possui 26 letras."
+  },
+  {
+    "subject": "portugues",
+    "world": "port-alfabeto",
+    "topic": "Alfabeto e letras",
+    "level": "Médio",
+    "prompt": "Pense com atenção: Quantas letras possui o alfabeto português?",
+    "options": [
+      "30",
+      "23",
+      "26",
+      "24"
+    ],
+    "answer": 2,
+    "explanation": "O alfabeto português possui 26 letras."
+  },
+  {
+    "subject": "portugues",
+    "world": "port-alfabeto",
+    "topic": "Alfabeto e letras",
+    "level": "Desafio",
+    "prompt": "Desafio: Quantas letras possui o alfabeto português?",
+    "options": [
+      "24",
+      "30",
+      "23",
+      "26"
+    ],
+    "answer": 3,
+    "explanation": "O alfabeto português possui 26 letras."
+  },
+  {
+    "subject": "portugues",
+    "world": "port-alfabeto",
+    "topic": "Alfabeto e letras",
+    "level": "Fácil",
+    "prompt": "Qual letra vem depois de A?",
+    "options": [
+      "B",
+      "E",
+      "D",
+      "C"
+    ],
+    "answer": 0,
+    "explanation": "No alfabeto, a letra B vem depois da letra A."
+  },
+  {
+    "subject": "portugues",
+    "world": "port-alfabeto",
+    "topic": "Alfabeto e letras",
+    "level": "Médio",
+    "prompt": "Pense com atenção: Qual letra vem depois de A?",
+    "options": [
+      "C",
+      "B",
+      "E",
+      "D"
+    ],
+    "answer": 1,
+    "explanation": "No alfabeto, a letra B vem depois da letra A."
+  },
+  {
+    "subject": "portugues",
+    "world": "port-alfabeto",
+    "topic": "Alfabeto e letras",
+    "level": "Desafio",
+    "prompt": "Desafio: Qual letra vem depois de A?",
+    "options": [
+      "B",
+      "E",
+      "D",
+      "C"
+    ],
+    "answer": 0,
+    "explanation": "No alfabeto, a letra B vem depois da letra A."
+  },
+  {
+    "subject": "portugues",
+    "world": "port-alfabeto",
+    "topic": "Alfabeto e letras",
+    "level": "Fácil",
+    "prompt": "Qual letra vem antes de D?",
+    "options": [
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "answer": 1,
+    "explanation": "No alfabeto, a letra C vem antes da letra D."
+  },
+  {
+    "subject": "portugues",
+    "world": "port-alfabeto",
+    "topic": "Alfabeto e letras",
+    "level": "Médio",
+    "prompt": "Pense com atenção: Qual letra vem antes de D?",
+    "options": [
+      "E",
+      "C",
+      "B",
+      "D"
+    ],
+    "answer": 1,
+    "explanation": "No alfabeto, a letra C vem antes da letra D."
+  },
+  {
+    "subject": "portugues",
+    "world": "port-alfabeto",
+    "topic": "Alfabeto e letras",
+    "level": "Desafio",
+    "prompt": "Desafio: Qual letra vem antes de D?",
+    "options": [
+      "B",
+      "E",
+      "C",
+      "D"
+    ],
+    "answer": 2,
+    "explanation": "No alfabeto, a letra C vem antes da letra D."
+  },
+  {
+    "subject": "portugues",
+    "world": "port-alfabeto",
+    "topic": "Vogais",
+    "level": "Fácil",
+    "prompt": "Qual alternativa apresenta apenas vogais?",
+    "options": [
+      "B, C, D, F, G",
+      "A, E, I, O, U",
+      "M, N, O, P, Q",
+      "A, B, C, D, E"
+    ],
+    "answer": 1,
+    "explanation": "As vogais são A, E, I, O e U."
+  },
+  {
+    "subject": "portugues",
+    "world": "port-alfabeto",
+    "topic": "Vogais",
+    "level": "Médio",
+    "prompt": "Pense com atenção: Qual alternativa apresenta apenas vogais?",
+    "options": [
+      "A, B, C, D, E",
+      "A, E, I, O, U",
+      "B, C, D, F, G",
+      "M, N, O, P, Q"
+    ],
+    "answer": 1,
+    "explanation": "As vogais são A, E, I, O e U."
+  },
+  {
+    "subject": "portugues",
+    "world": "port-alfabeto",
+    "topic": "Vogais",
+    "level": "Desafio",
+    "prompt": "Desafio: Qual alternativa apresenta apenas vogais?",
+    "options": [
+      "M, N, O, P, Q",
+      "A, B, C, D, E",
+      "B, C, D, F, G",
+      "A, E, I, O, U"
+    ],
+    "answer": 3,
+    "explanation": "As vogais são A, E, I, O e U."
+  },
+  {
+    "subject": "portugues",
+    "world": "port-alfabeto",
+    "topic": "Consoantes",
+    "level": "Fácil",
+    "prompt": "Qual destas letras é uma consoante?",
+    "options": [
+      "E",
+      "B",
+      "I",
+      "A"
+    ],
+    "answer": 1,
+    "explanation": "A letra B é uma consoante."
+  },
+  {
+    "subject": "portugues",
+    "world": "port-alfabeto",
+    "topic": "Consoantes",
+    "level": "Médio",
+    "prompt": "Pense com atenção: Qual destas letras é uma consoante?",
+    "options": [
+      "A",
+      "I",
+      "E",
+      "B"
+    ],
+    "answer": 3,
+    "explanation": "A letra B é uma consoante."
+  },
+  {
+    "subject": "portugues",
+    "world": "port-alfabeto",
+    "topic": "Consoantes",
+    "level": "Desafio",
+    "prompt": "Desafio: Qual destas letras é uma consoante?",
+    "options": [
+      "B",
+      "I",
+      "E",
+      "A"
+    ],
+    "answer": 0,
+    "explanation": "A letra B é uma consoante."
+  },
+  {
+    "subject": "portugues",
+    "world": "port-alfabeto",
+    "topic": "Letras",
+    "level": "Fácil",
+    "prompt": "Com qual letra começa a palavra BOLA?",
+    "options": [
+      "A",
+      "B",
+      "O",
+      "L"
+    ],
+    "answer": 1,
+    "explanation": "A palavra BOLA começa com a letra B."
+  },
+  {
+    "subject": "portugues",
+    "world": "port-alfabeto",
+    "topic": "Letras",
+    "level": "Médio",
+    "prompt": "Pense com atenção: Com qual letra começa a palavra BOLA?",
+    "options": [
+      "A",
+      "B",
+      "L",
+      "O"
+    ],
+    "answer": 1,
+    "explanation": "A palavra BOLA começa com a letra B."
+  },
+  {
+    "subject": "portugues",
+    "world": "port-alfabeto",
+    "topic": "Letras",
+    "level": "Desafio",
+    "prompt": "Desafio: Com qual letra começa a palavra BOLA?",
+    "options": [
+      "A",
+      "L",
+      "O",
+      "B"
+    ],
+    "answer": 3,
+    "explanation": "A palavra BOLA começa com a letra B."
+  },
+  {
+    "subject": "portugues",
+    "world": "port-alfabeto",
+    "topic": "Letras",
+    "level": "Fácil",
+    "prompt": "Com qual letra termina a palavra CASA?",
+    "options": [
+      "O",
+      "S",
+      "A",
+      "C"
+    ],
+    "answer": 2,
+    "explanation": "A palavra CASA termina com a letra A."
+  },
+  {
+    "subject": "portugues",
+    "world": "port-alfabeto",
+    "topic": "Letras",
+    "level": "Médio",
+    "prompt": "Pense com atenção: Com qual letra termina a palavra CASA?",
+    "options": [
+      "S",
+      "C",
+      "O",
+      "A"
+    ],
+    "answer": 3,
+    "explanation": "A palavra CASA termina com a letra A."
+  },
+  {
+    "subject": "portugues",
+    "world": "port-alfabeto",
+    "topic": "Letras",
+    "level": "Desafio",
+    "prompt": "Desafio: Com qual letra termina a palavra CASA?",
+    "options": [
+      "O",
+      "A",
+      "S",
+      "C"
+    ],
+    "answer": 1,
+    "explanation": "A palavra CASA termina com a letra A."
+  },
+  {
+    "subject": "portugues",
+    "world": "port-alfabeto",
+    "topic": "Ordem alfabética",
+    "level": "Fácil",
+    "prompt": "Qual palavra aparece primeiro em ordem alfabética?",
+    "options": [
+      "DADO",
+      "BOLA",
+      "ABELHA",
+      "CASA"
+    ],
+    "answer": 2,
+    "explanation": "A palavra ABELHA começa com A e aparece primeiro em ordem alfabética."
+  },
+  {
+    "subject": "portugues",
+    "world": "port-alfabeto",
+    "topic": "Ordem alfabética",
+    "level": "Médio",
+    "prompt": "Pense com atenção: Qual palavra aparece primeiro em ordem alfabética?",
+    "options": [
+      "BOLA",
+      "CASA",
+      "DADO",
+      "ABELHA"
+    ],
+    "answer": 3,
+    "explanation": "A palavra ABELHA começa com A e aparece primeiro em ordem alfabética."
+  },
+  {
+    "subject": "portugues",
+    "world": "port-alfabeto",
+    "topic": "Ordem alfabética",
+    "level": "Desafio",
+    "prompt": "Desafio: Qual palavra aparece primeiro em ordem alfabética?",
+    "options": [
+      "BOLA",
+      "DADO",
+      "ABELHA",
+      "CASA"
+    ],
+    "answer": 2,
+    "explanation": "A palavra ABELHA começa com A e aparece primeiro em ordem alfabética."
+  },
+  {
+    "subject": "portugues",
+    "world": "port-alfabeto",
+    "topic": "Sons",
+    "level": "Fácil",
+    "prompt": "Qual palavra começa com o mesmo som de PATO?",
+    "options": [
+      "SAPO",
+      "MALA",
+      "PANELA",
+      "BOLA"
+    ],
+    "answer": 2,
+    "explanation": "PATO e PANELA começam com o som da letra P."
+  },
+  {
+    "subject": "portugues",
+    "world": "port-alfabeto",
+    "topic": "Sons",
+    "level": "Médio",
+    "prompt": "Pense com atenção: Qual palavra começa com o mesmo som de PATO?",
+    "options": [
+      "PANELA",
+      "BOLA",
+      "SAPO",
+      "MALA"
+    ],
+    "answer": 0,
+    "explanation": "PATO e PANELA começam com o som da letra P."
+  },
+  {
+    "subject": "portugues",
+    "world": "port-alfabeto",
+    "topic": "Sons",
+    "level": "Desafio",
+    "prompt": "Desafio: Qual palavra começa com o mesmo som de PATO?",
+    "options": [
+      "PANELA",
+      "BOLA",
+      "SAPO",
+      "MALA"
+    ],
+    "answer": 0,
+    "explanation": "PATO e PANELA começam com o som da letra P."
+  },
+  {
+    "subject": "portugues",
+    "world": "port-alfabeto",
+    "topic": "Rimas",
+    "level": "Fácil",
+    "prompt": "Qual palavra rima com GATO?",
+    "options": [
+      "CASA",
+      "BOLA",
+      "MESA",
+      "PATO"
+    ],
+    "answer": 3,
+    "explanation": "GATO e PATO possuem sons semelhantes no final."
+  },
+  {
+    "subject": "portugues",
+    "world": "port-alfabeto",
+    "topic": "Rimas",
+    "level": "Médio",
+    "prompt": "Pense com atenção: Qual palavra rima com GATO?",
+    "options": [
+      "BOLA",
+      "CASA",
+      "MESA",
+      "PATO"
+    ],
+    "answer": 3,
+    "explanation": "GATO e PATO possuem sons semelhantes no final."
+  },
+  {
+    "subject": "portugues",
+    "world": "port-alfabeto",
+    "topic": "Rimas",
+    "level": "Desafio",
+    "prompt": "Desafio: Qual palavra rima com GATO?",
+    "options": [
+      "CASA",
+      "MESA",
+      "BOLA",
+      "PATO"
+    ],
+    "answer": 3,
+    "explanation": "GATO e PATO possuem sons semelhantes no final."
+  },
+  {
+    "subject": "portugues",
+    "world": "port-silabas",
+    "topic": "Sílabas",
+    "level": "Fácil",
+    "prompt": "Quantas sílabas tem a palavra CASA?",
+    "options": [
+      "1",
+      "3",
+      "4",
+      "2"
+    ],
+    "answer": 3,
+    "explanation": "A palavra CASA pode ser separada em CA-SA, com duas sílabas."
+  },
+  {
+    "subject": "portugues",
+    "world": "port-silabas",
+    "topic": "Sílabas",
+    "level": "Médio",
+    "prompt": "Pense com atenção: Quantas sílabas tem a palavra CASA?",
+    "options": [
+      "1",
+      "3",
+      "2",
+      "4"
+    ],
+    "answer": 2,
+    "explanation": "A palavra CASA pode ser separada em CA-SA, com duas sílabas."
+  },
+  {
+    "subject": "portugues",
+    "world": "port-silabas",
+    "topic": "Sílabas",
+    "level": "Desafio",
+    "prompt": "Desafio: Quantas sílabas tem a palavra CASA?",
+    "options": [
+      "2",
+      "1",
+      "4",
+      "3"
+    ],
+    "answer": 0,
+    "explanation": "A palavra CASA pode ser separada em CA-SA, com duas sílabas."
+  },
+  {
+    "subject": "portugues",
+    "world": "port-silabas",
+    "topic": "Sílabas",
+    "level": "Fácil",
+    "prompt": "Qual é a primeira sílaba de BONECA?",
+    "options": [
+      "CA",
+      "NE",
+      "BE",
+      "BO"
+    ],
+    "answer": 3,
+    "explanation": "A palavra BONECA começa com a sílaba BO."
+  },
+  {
+    "subject": "portugues",
+    "world": "port-silabas",
+    "topic": "Sílabas",
+    "level": "Médio",
+    "prompt": "Pense com atenção: Qual é a primeira sílaba de BONECA?",
+    "options": [
+      "CA",
+      "NE",
+      "BE",
+      "BO"
+    ],
+    "answer": 3,
+    "explanation": "A palavra BONECA começa com a sílaba BO."
+  },
+  {
+    "subject": "portugues",
+    "world": "port-silabas",
+    "topic": "Sílabas",
+    "level": "Desafio",
+    "prompt": "Desafio: Qual é a primeira sílaba de BONECA?",
+    "options": [
+      "BE",
+      "BO",
+      "NE",
+      "CA"
+    ],
+    "answer": 1,
+    "explanation": "A palavra BONECA começa com a sílaba BO."
+  },
+  {
+    "subject": "portugues",
+    "world": "port-silabas",
+    "topic": "Sílabas",
+    "level": "Fácil",
+    "prompt": "Qual é a última sílaba de JANELA?",
+    "options": [
+      "LE",
+      "JA",
+      "LA",
+      "NE"
+    ],
+    "answer": 2,
+    "explanation": "A palavra JANELA termina com a sílaba LA."
+  },
+  {
+    "subject": "portugues",
+    "world": "port-silabas",
+    "topic": "Sílabas",
+    "level": "Médio",
+    "prompt": "Pense com atenção: Qual é a última sílaba de JANELA?",
+    "options": [
+      "JA",
+      "NE",
+      "LE",
+      "LA"
+    ],
+    "answer": 3,
+    "explanation": "A palavra JANELA termina com a sílaba LA."
+  },
+  {
+    "subject": "portugues",
+    "world": "port-silabas",
+    "topic": "Sílabas",
+    "level": "Desafio",
+    "prompt": "Desafio: Qual é a última sílaba de JANELA?",
+    "options": [
+      "LA",
+      "LE",
+      "NE",
+      "JA"
+    ],
+    "answer": 0,
+    "explanation": "A palavra JANELA termina com a sílaba LA."
+  },
+  {
+    "subject": "portugues",
+    "world": "port-silabas",
+    "topic": "Formação de palavras",
+    "level": "Fácil",
+    "prompt": "Quais sílabas formam a palavra SAPO?",
+    "options": [
+      "SA + PO",
+      "SA + TO",
+      "SO + PA",
+      "PA + SO"
+    ],
+    "answer": 0,
+    "explanation": "As sílabas SA e PO formam a palavra SAPO."
+  },
+  {
+    "subject": "portugues",
+    "world": "port-silabas",
+    "topic": "Formação de palavras",
+    "level": "Médio",
+    "prompt": "Pense com atenção: Quais sílabas formam a palavra SAPO?",
+    "options": [
+      "SA + PO",
+      "SO + PA",
+      "SA + TO",
+      "PA + SO"
+    ],
+    "answer": 0,
+    "explanation": "As sílabas SA e PO formam a palavra SAPO."
+  },
+  {
+    "subject": "portugues",
+    "world": "port-silabas",
+    "topic": "Formação de palavras",
+    "level": "Desafio",
+    "prompt": "Desafio: Quais sílabas formam a palavra SAPO?",
+    "options": [
+      "PA + SO",
+      "SA + PO",
+      "SA + TO",
+      "SO + PA"
+    ],
+    "answer": 1,
+    "explanation": "As sílabas SA e PO formam a palavra SAPO."
+  },
+  {
+    "subject": "portugues",
+    "world": "port-silabas",
+    "topic": "Formação de palavras",
+    "level": "Fácil",
+    "prompt": "Quais sílabas formam a palavra MALA?",
+    "options": [
+      "ME + LA",
+      "LA + MA",
+      "MA + LA",
+      "MA + LO"
+    ],
+    "answer": 2,
+    "explanation": "As sílabas MA e LA formam a palavra MALA."
+  },
+  {
+    "subject": "portugues",
+    "world": "port-silabas",
+    "topic": "Formação de palavras",
+    "level": "Médio",
+    "prompt": "Pense com atenção: Quais sílabas formam a palavra MALA?",
+    "options": [
+      "LA + MA",
+      "ME + LA",
+      "MA + LO",
+      "MA + LA"
+    ],
+    "answer": 3,
+    "explanation": "As sílabas MA e LA formam a palavra MALA."
+  },
+  {
+    "subject": "portugues",
+    "world": "port-silabas",
+    "topic": "Formação de palavras",
+    "level": "Desafio",
+    "prompt": "Desafio: Quais sílabas formam a palavra MALA?",
+    "options": [
+      "MA + LO",
+      "ME + LA",
+      "MA + LA",
+      "LA + MA"
+    ],
+    "answer": 2,
+    "explanation": "As sílabas MA e LA formam a palavra MALA."
+  },
+  {
+    "subject": "portugues",
+    "world": "port-silabas",
+    "topic": "Sílabas",
+    "level": "Fácil",
+    "prompt": "Qual palavra possui três sílabas?",
+    "options": [
+      "PÃO",
+      "BONECA",
+      "CASA",
+      "SOL"
+    ],
+    "answer": 1,
+    "explanation": "BONECA pode ser separada em BO-NE-CA."
+  },
+  {
+    "subject": "portugues",
+    "world": "port-silabas",
+    "topic": "Sílabas",
+    "level": "Médio",
+    "prompt": "Pense com atenção: Qual palavra possui três sílabas?",
+    "options": [
+      "PÃO",
+      "BONECA",
+      "CASA",
+      "SOL"
+    ],
+    "answer": 1,
+    "explanation": "BONECA pode ser separada em BO-NE-CA."
+  },
+  {
+    "subject": "portugues",
+    "world": "port-silabas",
+    "topic": "Sílabas",
+    "level": "Desafio",
+    "prompt": "Desafio: Qual palavra possui três sílabas?",
+    "options": [
+      "CASA",
+      "SOL",
+      "PÃO",
+      "BONECA"
+    ],
+    "answer": 3,
+    "explanation": "BONECA pode ser separada em BO-NE-CA."
+  },
+  {
+    "subject": "portugues",
+    "world": "port-silabas",
+    "topic": "Sílabas",
+    "level": "Fácil",
+    "prompt": "Qual palavra possui uma sílaba?",
+    "options": [
+      "CASA",
+      "SOL",
+      "BOLA",
+      "MENINO"
+    ],
+    "answer": 1,
+    "explanation": "SOL é uma palavra monossílaba."
+  },
+  {
+    "subject": "portugues",
+    "world": "port-silabas",
+    "topic": "Sílabas",
+    "level": "Médio",
+    "prompt": "Pense com atenção: Qual palavra possui uma sílaba?",
+    "options": [
+      "MENINO",
+      "CASA",
+      "BOLA",
+      "SOL"
+    ],
+    "answer": 3,
+    "explanation": "SOL é uma palavra monossílaba."
+  },
+  {
+    "subject": "portugues",
+    "world": "port-silabas",
+    "topic": "Sílabas",
+    "level": "Desafio",
+    "prompt": "Desafio: Qual palavra possui uma sílaba?",
+    "options": [
+      "BOLA",
+      "CASA",
+      "MENINO",
+      "SOL"
+    ],
+    "answer": 3,
+    "explanation": "SOL é uma palavra monossílaba."
+  },
+  {
+    "subject": "portugues",
+    "world": "port-silabas",
+    "topic": "Formação de palavras",
+    "level": "Fácil",
+    "prompt": "Qual sílaba devemos juntar a CA para formar a palavra CASA?",
+    "options": [
+      "TA",
+      "PA",
+      "LA",
+      "SA"
+    ],
+    "answer": 3,
+    "explanation": "As sílabas CA e SA formam CASA."
+  },
+  {
+    "subject": "portugues",
+    "world": "port-silabas",
+    "topic": "Formação de palavras",
+    "level": "Médio",
+    "prompt": "Pense com atenção: Qual sílaba devemos juntar a CA para formar a palavra CASA?",
+    "options": [
+      "PA",
+      "TA",
+      "LA",
+      "SA"
+    ],
+    "answer": 3,
+    "explanation": "As sílabas CA e SA formam CASA."
+  },
+  {
+    "subject": "portugues",
+    "world": "port-silabas",
+    "topic": "Formação de palavras",
+    "level": "Desafio",
+    "prompt": "Desafio: Qual sílaba devemos juntar a CA para formar a palavra CASA?",
+    "options": [
+      "LA",
+      "TA",
+      "PA",
+      "SA"
+    ],
+    "answer": 3,
+    "explanation": "As sílabas CA e SA formam CASA."
+  },
+  {
+    "subject": "portugues",
+    "world": "port-silabas",
+    "topic": "Formação de palavras",
+    "level": "Fácil",
+    "prompt": "Qual sílaba devemos juntar a BO para formar a palavra BOLA?",
+    "options": [
+      "TA",
+      "SA",
+      "CA",
+      "LA"
+    ],
+    "answer": 3,
+    "explanation": "As sílabas BO e LA formam BOLA."
+  },
+  {
+    "subject": "portugues",
+    "world": "port-silabas",
+    "topic": "Formação de palavras",
+    "level": "Médio",
+    "prompt": "Pense com atenção: Qual sílaba devemos juntar a BO para formar a palavra BOLA?",
+    "options": [
+      "CA",
+      "TA",
+      "LA",
+      "SA"
+    ],
+    "answer": 2,
+    "explanation": "As sílabas BO e LA formam BOLA."
+  },
+  {
+    "subject": "portugues",
+    "world": "port-silabas",
+    "topic": "Formação de palavras",
+    "level": "Desafio",
+    "prompt": "Desafio: Qual sílaba devemos juntar a BO para formar a palavra BOLA?",
+    "options": [
+      "LA",
+      "SA",
+      "TA",
+      "CA"
+    ],
+    "answer": 0,
+    "explanation": "As sílabas BO e LA formam BOLA."
+  },
+  {
+    "subject": "portugues",
+    "world": "port-silabas",
+    "topic": "Sílabas",
+    "level": "Fácil",
+    "prompt": "Como se separa a palavra MENINO?",
+    "options": [
+      "MEN-IN-O",
+      "ME-NI-NO",
+      "M-E-NINO",
+      "ME-NIN-O"
+    ],
+    "answer": 1,
+    "explanation": "A separação silábica é ME-NI-NO."
+  },
+  {
+    "subject": "portugues",
+    "world": "port-silabas",
+    "topic": "Sílabas",
+    "level": "Médio",
+    "prompt": "Pense com atenção: Como se separa a palavra MENINO?",
+    "options": [
+      "ME-NI-NO",
+      "ME-NIN-O",
+      "MEN-IN-O",
+      "M-E-NINO"
+    ],
+    "answer": 0,
+    "explanation": "A separação silábica é ME-NI-NO."
+  },
+  {
+    "subject": "portugues",
+    "world": "port-silabas",
+    "topic": "Sílabas",
+    "level": "Desafio",
+    "prompt": "Desafio: Como se separa a palavra MENINO?",
+    "options": [
+      "MEN-IN-O",
+      "M-E-NINO",
+      "ME-NIN-O",
+      "ME-NI-NO"
+    ],
+    "answer": 3,
+    "explanation": "A separação silábica é ME-NI-NO."
+  },
+  {
+    "subject": "portugues",
+    "world": "port-palavras",
+    "topic": "Palavras",
+    "level": "Fácil",
+    "prompt": "Qual palavra nomeia um animal?",
+    "options": [
+      "LÁPIS",
+      "GATO",
+      "ESCOLA",
+      "MESA"
+    ],
+    "answer": 1,
+    "explanation": "GATO é o nome de um animal."
+  },
+  {
+    "subject": "portugues",
+    "world": "port-palavras",
+    "topic": "Palavras",
+    "level": "Médio",
+    "prompt": "Pense com atenção: Qual palavra nomeia um animal?",
+    "options": [
+      "ESCOLA",
+      "LÁPIS",
+      "MESA",
+      "GATO"
+    ],
+    "answer": 3,
+    "explanation": "GATO é o nome de um animal."
+  },
+  {
+    "subject": "portugues",
+    "world": "port-palavras",
+    "topic": "Palavras",
+    "level": "Desafio",
+    "prompt": "Desafio: Qual palavra nomeia um animal?",
+    "options": [
+      "GATO",
+      "MESA",
+      "ESCOLA",
+      "LÁPIS"
+    ],
+    "answer": 0,
+    "explanation": "GATO é o nome de um animal."
+  },
+  {
+    "subject": "portugues",
+    "world": "port-palavras",
+    "topic": "Palavras",
+    "level": "Fácil",
+    "prompt": "Qual palavra nomeia um lugar?",
+    "options": [
+      "CADERNO",
+      "ESCOLA",
+      "CACHORRO",
+      "AZUL"
+    ],
+    "answer": 1,
+    "explanation": "ESCOLA é o nome de um lugar."
+  },
+  {
+    "subject": "portugues",
+    "world": "port-palavras",
+    "topic": "Palavras",
+    "level": "Médio",
+    "prompt": "Pense com atenção: Qual palavra nomeia um lugar?",
+    "options": [
+      "ESCOLA",
+      "CADERNO",
+      "AZUL",
+      "CACHORRO"
+    ],
+    "answer": 0,
+    "explanation": "ESCOLA é o nome de um lugar."
+  },
+  {
+    "subject": "portugues",
+    "world": "port-palavras",
+    "topic": "Palavras",
+    "level": "Desafio",
+    "prompt": "Desafio: Qual palavra nomeia um lugar?",
+    "options": [
+      "ESCOLA",
+      "CADERNO",
+      "AZUL",
+      "CACHORRO"
+    ],
+    "answer": 0,
+    "explanation": "ESCOLA é o nome de um lugar."
+  },
+  {
+    "subject": "portugues",
+    "world": "port-palavras",
+    "topic": "Palavras",
+    "level": "Fácil",
+    "prompt": "Qual palavra nomeia um objeto?",
+    "options": [
+      "LÁPIS",
+      "PARQUE",
+      "MENINO",
+      "BONITO"
+    ],
+    "answer": 0,
+    "explanation": "LÁPIS é o nome de um objeto."
+  },
+  {
+    "subject": "portugues",
+    "world": "port-palavras",
+    "topic": "Palavras",
+    "level": "Médio",
+    "prompt": "Pense com atenção: Qual palavra nomeia um objeto?",
+    "options": [
+      "BONITO",
+      "PARQUE",
+      "MENINO",
+      "LÁPIS"
+    ],
+    "answer": 3,
+    "explanation": "LÁPIS é o nome de um objeto."
+  },
+  {
+    "subject": "portugues",
+    "world": "port-palavras",
+    "topic": "Palavras",
+    "level": "Desafio",
+    "prompt": "Desafio: Qual palavra nomeia um objeto?",
+    "options": [
+      "MENINO",
+      "BONITO",
+      "LÁPIS",
+      "PARQUE"
+    ],
+    "answer": 2,
+    "explanation": "LÁPIS é o nome de um objeto."
+  },
+  {
+    "subject": "portugues",
+    "world": "port-palavras",
+    "topic": "Singular e plural",
+    "level": "Fácil",
+    "prompt": "Qual é o plural de BOLA?",
+    "options": [
+      "BOLÃO",
+      "BOLAES",
+      "BOLAZ",
+      "BOLAS"
+    ],
+    "answer": 3,
+    "explanation": "O plural de BOLA é BOLAS."
+  },
+  {
+    "subject": "portugues",
+    "world": "port-palavras",
+    "topic": "Singular e plural",
+    "level": "Médio",
+    "prompt": "Pense com atenção: Qual é o plural de BOLA?",
+    "options": [
+      "BOLAS",
+      "BOLAZ",
+      "BOLAES",
+      "BOLÃO"
+    ],
+    "answer": 0,
+    "explanation": "O plural de BOLA é BOLAS."
+  },
+  {
+    "subject": "portugues",
+    "world": "port-palavras",
+    "topic": "Singular e plural",
+    "level": "Desafio",
+    "prompt": "Desafio: Qual é o plural de BOLA?",
+    "options": [
+      "BOLAS",
+      "BOLAZ",
+      "BOLAES",
+      "BOLÃO"
+    ],
+    "answer": 0,
+    "explanation": "O plural de BOLA é BOLAS."
+  },
+  {
+    "subject": "portugues",
+    "world": "port-palavras",
+    "topic": "Singular e plural",
+    "level": "Fácil",
+    "prompt": "Qual palavra está no singular?",
+    "options": [
+      "CASAS",
+      "FLORES",
+      "CASA",
+      "LIVROS"
+    ],
+    "answer": 2,
+    "explanation": "CASA indica uma unidade e está no singular."
+  },
+  {
+    "subject": "portugues",
+    "world": "port-palavras",
+    "topic": "Singular e plural",
+    "level": "Médio",
+    "prompt": "Pense com atenção: Qual palavra está no singular?",
+    "options": [
+      "CASA",
+      "CASAS",
+      "FLORES",
+      "LIVROS"
+    ],
+    "answer": 0,
+    "explanation": "CASA indica uma unidade e está no singular."
+  },
+  {
+    "subject": "portugues",
+    "world": "port-palavras",
+    "topic": "Singular e plural",
+    "level": "Desafio",
+    "prompt": "Desafio: Qual palavra está no singular?",
+    "options": [
+      "LIVROS",
+      "FLORES",
+      "CASA",
+      "CASAS"
+    ],
+    "answer": 2,
+    "explanation": "CASA indica uma unidade e está no singular."
+  },
+  {
+    "subject": "portugues",
+    "world": "port-palavras",
+    "topic": "Ações",
+    "level": "Fácil",
+    "prompt": "Qual palavra indica uma ação?",
+    "options": [
+      "BONITO",
+      "CASA",
+      "CORRER",
+      "AZUL"
+    ],
+    "answer": 2,
+    "explanation": "CORRER indica uma ação."
+  },
+  {
+    "subject": "portugues",
+    "world": "port-palavras",
+    "topic": "Ações",
+    "level": "Médio",
+    "prompt": "Pense com atenção: Qual palavra indica uma ação?",
+    "options": [
+      "CASA",
+      "CORRER",
+      "AZUL",
+      "BONITO"
+    ],
+    "answer": 1,
+    "explanation": "CORRER indica uma ação."
+  },
+  {
+    "subject": "portugues",
+    "world": "port-palavras",
+    "topic": "Ações",
+    "level": "Desafio",
+    "prompt": "Desafio: Qual palavra indica uma ação?",
+    "options": [
+      "CASA",
+      "AZUL",
+      "BONITO",
+      "CORRER"
+    ],
+    "answer": 3,
+    "explanation": "CORRER indica uma ação."
+  },
+  {
+    "subject": "portugues",
+    "world": "port-palavras",
+    "topic": "Características",
+    "level": "Fácil",
+    "prompt": "Qual palavra pode indicar uma característica?",
+    "options": [
+      "ESCOLA",
+      "CADERNO",
+      "CORRER",
+      "BONITO"
+    ],
+    "answer": 3,
+    "explanation": "BONITO pode indicar uma característica."
+  },
+  {
+    "subject": "portugues",
+    "world": "port-palavras",
+    "topic": "Características",
+    "level": "Médio",
+    "prompt": "Pense com atenção: Qual palavra pode indicar uma característica?",
+    "options": [
+      "BONITO",
+      "CORRER",
+      "CADERNO",
+      "ESCOLA"
+    ],
+    "answer": 0,
+    "explanation": "BONITO pode indicar uma característica."
+  },
+  {
+    "subject": "portugues",
+    "world": "port-palavras",
+    "topic": "Características",
+    "level": "Desafio",
+    "prompt": "Desafio: Qual palavra pode indicar uma característica?",
+    "options": [
+      "CADERNO",
+      "ESCOLA",
+      "CORRER",
+      "BONITO"
+    ],
+    "answer": 3,
+    "explanation": "BONITO pode indicar uma característica."
+  },
+  {
+    "subject": "portugues",
+    "world": "port-palavras",
+    "topic": "Palavras",
+    "level": "Fácil",
+    "prompt": "Qual palavra está escrita corretamente?",
+    "options": [
+      "CHUBA",
+      "SUVA",
+      "XUVA",
+      "CHUVA"
+    ],
+    "answer": 3,
+    "explanation": "A palavra CHUVA é escrita com CH e V."
+  },
+  {
+    "subject": "portugues",
+    "world": "port-palavras",
+    "topic": "Palavras",
+    "level": "Médio",
+    "prompt": "Pense com atenção: Qual palavra está escrita corretamente?",
+    "options": [
+      "XUVA",
+      "CHUBA",
+      "CHUVA",
+      "SUVA"
+    ],
+    "answer": 2,
+    "explanation": "A palavra CHUVA é escrita com CH e V."
+  },
+  {
+    "subject": "portugues",
+    "world": "port-palavras",
+    "topic": "Palavras",
+    "level": "Desafio",
+    "prompt": "Desafio: Qual palavra está escrita corretamente?",
+    "options": [
+      "CHUVA",
+      "CHUBA",
+      "SUVA",
+      "XUVA"
+    ],
+    "answer": 0,
+    "explanation": "A palavra CHUVA é escrita com CH e V."
+  },
+  {
+    "subject": "portugues",
+    "world": "port-palavras",
+    "topic": "Palavras",
+    "level": "Fácil",
+    "prompt": "Qual palavra nomeia o animal que mia?",
+    "options": [
+      "LIVRO",
+      "LÁPIS",
+      "GATO",
+      "SOL"
+    ],
+    "answer": 2,
+    "explanation": "O gato é um animal que mia."
+  },
+  {
+    "subject": "portugues",
+    "world": "port-palavras",
+    "topic": "Palavras",
+    "level": "Médio",
+    "prompt": "Pense com atenção: Qual palavra nomeia o animal que mia?",
+    "options": [
+      "GATO",
+      "LIVRO",
+      "SOL",
+      "LÁPIS"
+    ],
+    "answer": 0,
+    "explanation": "O gato é um animal que mia."
+  },
+  {
+    "subject": "portugues",
+    "world": "port-palavras",
+    "topic": "Palavras",
+    "level": "Desafio",
+    "prompt": "Desafio: Qual palavra nomeia o animal que mia?",
+    "options": [
+      "LIVRO",
+      "LÁPIS",
+      "SOL",
+      "GATO"
+    ],
+    "answer": 3,
+    "explanation": "O gato é um animal que mia."
+  },
+  {
+    "subject": "portugues",
+    "world": "port-palavras",
+    "topic": "Palavras",
+    "level": "Fácil",
+    "prompt": "Qual objeto possui páginas e pode ser lido?",
+    "options": [
+      "SAPATO",
+      "COPO",
+      "LIVRO",
+      "GARFO"
+    ],
+    "answer": 2,
+    "explanation": "LIVRO completa corretamente a frase."
+  },
+  {
+    "subject": "portugues",
+    "world": "port-palavras",
+    "topic": "Palavras",
+    "level": "Médio",
+    "prompt": "Pense com atenção: Qual objeto possui páginas e pode ser lido?",
+    "options": [
+      "COPO",
+      "GARFO",
+      "SAPATO",
+      "LIVRO"
+    ],
+    "answer": 3,
+    "explanation": "LIVRO completa corretamente a frase."
+  },
+  {
+    "subject": "portugues",
+    "world": "port-palavras",
+    "topic": "Palavras",
+    "level": "Desafio",
+    "prompt": "Desafio: Qual objeto possui páginas e pode ser lido?",
+    "options": [
+      "COPO",
+      "GARFO",
+      "SAPATO",
+      "LIVRO"
+    ],
+    "answer": 3,
+    "explanation": "LIVRO completa corretamente a frase."
+  },
+  {
+    "subject": "portugues",
+    "world": "port-frases",
+    "topic": "Frases",
+    "level": "Fácil",
+    "prompt": "Qual alternativa apresenta uma frase completa?",
+    "options": [
+      "Menina a.",
+      "Brinca menina a",
+      "A brinca.",
+      "A menina brinca."
+    ],
+    "answer": 3,
+    "explanation": "A menina brinca é uma frase com sentido completo."
+  },
+  {
+    "subject": "portugues",
+    "world": "port-frases",
+    "topic": "Frases",
+    "level": "Médio",
+    "prompt": "Pense com atenção: Qual alternativa apresenta uma frase completa?",
+    "options": [
+      "A brinca.",
+      "A menina brinca.",
+      "Menina a.",
+      "Brinca menina a"
+    ],
+    "answer": 1,
+    "explanation": "A menina brinca é uma frase com sentido completo."
+  },
+  {
+    "subject": "portugues",
+    "world": "port-frases",
+    "topic": "Frases",
+    "level": "Desafio",
+    "prompt": "Desafio: Qual alternativa apresenta uma frase completa?",
+    "options": [
+      "Menina a.",
+      "A menina brinca.",
+      "A brinca.",
+      "Brinca menina a"
+    ],
+    "answer": 1,
+    "explanation": "A menina brinca é uma frase com sentido completo."
+  },
+  {
+    "subject": "portugues",
+    "world": "port-frases",
+    "topic": "Frases",
+    "level": "Fácil",
+    "prompt": "Qual frase é uma pergunta?",
+    "options": [
+      "O livro está aqui.",
+      "Onde está o livro?",
+      "Que livro bonito!",
+      "Pegue o livro."
+    ],
+    "answer": 1,
+    "explanation": "O ponto de interrogação indica uma pergunta."
+  },
+  {
+    "subject": "portugues",
+    "world": "port-frases",
+    "topic": "Frases",
+    "level": "Médio",
+    "prompt": "Pense com atenção: Qual frase é uma pergunta?",
+    "options": [
+      "Pegue o livro.",
+      "Que livro bonito!",
+      "Onde está o livro?",
+      "O livro está aqui."
+    ],
+    "answer": 2,
+    "explanation": "O ponto de interrogação indica uma pergunta."
+  },
+  {
+    "subject": "portugues",
+    "world": "port-frases",
+    "topic": "Frases",
+    "level": "Desafio",
+    "prompt": "Desafio: Qual frase é uma pergunta?",
+    "options": [
+      "O livro está aqui.",
+      "Pegue o livro.",
+      "Onde está o livro?",
+      "Que livro bonito!"
+    ],
+    "answer": 2,
+    "explanation": "O ponto de interrogação indica uma pergunta."
+  },
+  {
+    "subject": "portugues",
+    "world": "port-frases",
+    "topic": "Pontuação",
+    "level": "Fácil",
+    "prompt": "Qual sinal usamos no final de uma pergunta?",
+    "options": [
+      "Vírgula",
+      "Dois-pontos",
+      "Ponto de interrogação",
+      "Ponto de exclamação"
+    ],
+    "answer": 2,
+    "explanation": "O ponto de interrogação é usado no final de perguntas."
+  },
+  {
+    "subject": "portugues",
+    "world": "port-frases",
+    "topic": "Pontuação",
+    "level": "Médio",
+    "prompt": "Pense com atenção: Qual sinal usamos no final de uma pergunta?",
+    "options": [
+      "Vírgula",
+      "Ponto de interrogação",
+      "Dois-pontos",
+      "Ponto de exclamação"
+    ],
+    "answer": 1,
+    "explanation": "O ponto de interrogação é usado no final de perguntas."
+  },
+  {
+    "subject": "portugues",
+    "world": "port-frases",
+    "topic": "Pontuação",
+    "level": "Desafio",
+    "prompt": "Desafio: Qual sinal usamos no final de uma pergunta?",
+    "options": [
+      "Dois-pontos",
+      "Vírgula",
+      "Ponto de exclamação",
+      "Ponto de interrogação"
+    ],
+    "answer": 3,
+    "explanation": "O ponto de interrogação é usado no final de perguntas."
+  },
+  {
+    "subject": "portugues",
+    "world": "port-frases",
+    "topic": "Pontuação",
+    "level": "Fácil",
+    "prompt": "Qual sinal pode indicar surpresa ou entusiasmo?",
+    "options": [
+      "Ponto de exclamação",
+      "Vírgula",
+      "Hífen",
+      "Ponto de interrogação"
+    ],
+    "answer": 0,
+    "explanation": "O ponto de exclamação pode indicar surpresa ou entusiasmo."
+  },
+  {
+    "subject": "portugues",
+    "world": "port-frases",
+    "topic": "Pontuação",
+    "level": "Médio",
+    "prompt": "Pense com atenção: Qual sinal pode indicar surpresa ou entusiasmo?",
+    "options": [
+      "Ponto de interrogação",
+      "Ponto de exclamação",
+      "Hífen",
+      "Vírgula"
+    ],
+    "answer": 1,
+    "explanation": "O ponto de exclamação pode indicar surpresa ou entusiasmo."
+  },
+  {
+    "subject": "portugues",
+    "world": "port-frases",
+    "topic": "Pontuação",
+    "level": "Desafio",
+    "prompt": "Desafio: Qual sinal pode indicar surpresa ou entusiasmo?",
+    "options": [
+      "Ponto de interrogação",
+      "Hífen",
+      "Ponto de exclamação",
+      "Vírgula"
+    ],
+    "answer": 2,
+    "explanation": "O ponto de exclamação pode indicar surpresa ou entusiasmo."
+  },
+  {
+    "subject": "portugues",
+    "world": "port-frases",
+    "topic": "Pontuação",
+    "level": "Fácil",
+    "prompt": "Qual sinal geralmente indica o final de uma frase afirmativa?",
+    "options": [
+      "Parênteses",
+      "Vírgula",
+      "Ponto de interrogação",
+      "Ponto final"
+    ],
+    "answer": 3,
+    "explanation": "O ponto final encerra uma frase afirmativa."
+  },
+  {
+    "subject": "portugues",
+    "world": "port-frases",
+    "topic": "Pontuação",
+    "level": "Médio",
+    "prompt": "Pense com atenção: Qual sinal geralmente indica o final de uma frase afirmativa?",
+    "options": [
+      "Ponto de interrogação",
+      "Ponto final",
+      "Vírgula",
+      "Parênteses"
+    ],
+    "answer": 1,
+    "explanation": "O ponto final encerra uma frase afirmativa."
+  },
+  {
+    "subject": "portugues",
+    "world": "port-frases",
+    "topic": "Pontuação",
+    "level": "Desafio",
+    "prompt": "Desafio: Qual sinal geralmente indica o final de uma frase afirmativa?",
+    "options": [
+      "Parênteses",
+      "Ponto de interrogação",
+      "Ponto final",
+      "Vírgula"
+    ],
+    "answer": 2,
+    "explanation": "O ponto final encerra uma frase afirmativa."
+  },
+  {
+    "subject": "portugues",
+    "world": "port-frases",
+    "topic": "Frases",
+    "level": "Fácil",
+    "prompt": "Qual frase está na ordem correta?",
+    "options": [
+      "O corre cachorro.",
+      "O cachorro corre.",
+      "Cachorro o corre.",
+      "Corre o cachorro o."
+    ],
+    "answer": 1,
+    "explanation": "O cachorro corre está organizada e possui sentido."
+  },
+  {
+    "subject": "portugues",
+    "world": "port-frases",
+    "topic": "Frases",
+    "level": "Médio",
+    "prompt": "Pense com atenção: Qual frase está na ordem correta?",
+    "options": [
+      "Cachorro o corre.",
+      "O cachorro corre.",
+      "Corre o cachorro o.",
+      "O corre cachorro."
+    ],
+    "answer": 1,
+    "explanation": "O cachorro corre está organizada e possui sentido."
+  },
+  {
+    "subject": "portugues",
+    "world": "port-frases",
+    "topic": "Frases",
+    "level": "Desafio",
+    "prompt": "Desafio: Qual frase está na ordem correta?",
+    "options": [
+      "Cachorro o corre.",
+      "O corre cachorro.",
+      "Corre o cachorro o.",
+      "O cachorro corre."
+    ],
+    "answer": 3,
+    "explanation": "O cachorro corre está organizada e possui sentido."
+  },
+  {
+    "subject": "portugues",
+    "world": "port-frases",
+    "topic": "Frases",
+    "level": "Fácil",
+    "prompt": "Qual palavra completa corretamente a frase “A borboleta ...”?",
+    "options": [
+      "azulmente",
+      "mesa",
+      "livro",
+      "voa"
+    ],
+    "answer": 3,
+    "explanation": "A palavra voa indica a ação da borboleta."
+  },
+  {
+    "subject": "portugues",
+    "world": "port-frases",
+    "topic": "Frases",
+    "level": "Médio",
+    "prompt": "Pense com atenção: Qual palavra completa corretamente a frase “A borboleta ...”?",
+    "options": [
+      "livro",
+      "voa",
+      "azulmente",
+      "mesa"
+    ],
+    "answer": 1,
+    "explanation": "A palavra voa indica a ação da borboleta."
+  },
+  {
+    "subject": "portugues",
+    "world": "port-frases",
+    "topic": "Frases",
+    "level": "Desafio",
+    "prompt": "Desafio: Qual palavra completa corretamente a frase “A borboleta ...”?",
+    "options": [
+      "azulmente",
+      "voa",
+      "mesa",
+      "livro"
+    ],
+    "answer": 1,
+    "explanation": "A palavra voa indica a ação da borboleta."
+  },
+  {
+    "subject": "portugues",
+    "world": "port-frases",
+    "topic": "Frases",
+    "level": "Fácil",
+    "prompt": "Qual palavra completa corretamente a frase “O Sol é ...”?",
+    "options": [
+      "quente",
+      "corre",
+      "escola",
+      "caderno"
+    ],
+    "answer": 0,
+    "explanation": "Quente é uma característica que pode ser atribuída ao Sol."
+  },
+  {
+    "subject": "portugues",
+    "world": "port-frases",
+    "topic": "Frases",
+    "level": "Médio",
+    "prompt": "Pense com atenção: Qual palavra completa corretamente a frase “O Sol é ...”?",
+    "options": [
+      "corre",
+      "quente",
+      "escola",
+      "caderno"
+    ],
+    "answer": 1,
+    "explanation": "Quente é uma característica que pode ser atribuída ao Sol."
+  },
+  {
+    "subject": "portugues",
+    "world": "port-frases",
+    "topic": "Frases",
+    "level": "Desafio",
+    "prompt": "Desafio: Qual palavra completa corretamente a frase “O Sol é ...”?",
+    "options": [
+      "escola",
+      "caderno",
+      "quente",
+      "corre"
+    ],
+    "answer": 2,
+    "explanation": "Quente é uma característica que pode ser atribuída ao Sol."
+  },
+  {
+    "subject": "portugues",
+    "world": "port-frases",
+    "topic": "Uso de maiúsculas",
+    "level": "Fácil",
+    "prompt": "Como deve começar uma frase?",
+    "options": [
+      "Com vírgula",
+      "Com letra maiúscula",
+      "Com letra sempre minúscula",
+      "Com número"
+    ],
+    "answer": 1,
+    "explanation": "Uma frase deve começar com letra maiúscula."
+  },
+  {
+    "subject": "portugues",
+    "world": "port-frases",
+    "topic": "Uso de maiúsculas",
+    "level": "Médio",
+    "prompt": "Pense com atenção: Como deve começar uma frase?",
+    "options": [
+      "Com vírgula",
+      "Com letra maiúscula",
+      "Com número",
+      "Com letra sempre minúscula"
+    ],
+    "answer": 1,
+    "explanation": "Uma frase deve começar com letra maiúscula."
+  },
+  {
+    "subject": "portugues",
+    "world": "port-frases",
+    "topic": "Uso de maiúsculas",
+    "level": "Desafio",
+    "prompt": "Desafio: Como deve começar uma frase?",
+    "options": [
+      "Com vírgula",
+      "Com letra maiúscula",
+      "Com número",
+      "Com letra sempre minúscula"
+    ],
+    "answer": 1,
+    "explanation": "Uma frase deve começar com letra maiúscula."
+  },
+  {
+    "subject": "portugues",
+    "world": "port-frases",
+    "topic": "Espaçamento",
+    "level": "Fácil",
+    "prompt": "O que usamos para separar as palavras em uma frase?",
+    "options": [
+      "Espaço",
+      "Ponto em todas as palavras",
+      "Hífen sempre",
+      "Nenhuma separação"
+    ],
+    "answer": 0,
+    "explanation": "Usamos espaços para separar as palavras de uma frase."
+  },
+  {
+    "subject": "portugues",
+    "world": "port-frases",
+    "topic": "Espaçamento",
+    "level": "Médio",
+    "prompt": "Pense com atenção: O que usamos para separar as palavras em uma frase?",
+    "options": [
+      "Ponto em todas as palavras",
+      "Espaço",
+      "Hífen sempre",
+      "Nenhuma separação"
+    ],
+    "answer": 1,
+    "explanation": "Usamos espaços para separar as palavras de uma frase."
+  },
+  {
+    "subject": "portugues",
+    "world": "port-frases",
+    "topic": "Espaçamento",
+    "level": "Desafio",
+    "prompt": "Desafio: O que usamos para separar as palavras em uma frase?",
+    "options": [
+      "Ponto em todas as palavras",
+      "Hífen sempre",
+      "Espaço",
+      "Nenhuma separação"
+    ],
+    "answer": 2,
+    "explanation": "Usamos espaços para separar as palavras de uma frase."
+  },
+  {
+    "subject": "portugues",
+    "world": "port-leitura",
+    "topic": "Leitura",
+    "level": "Fácil",
+    "prompt": "Quem escreve uma história é chamado de quê?",
+    "options": [
+      "Ilustrador sempre",
+      "Personagem",
+      "Leitor",
+      "Autor"
+    ],
+    "answer": 3,
+    "explanation": "O autor é a pessoa que escreve a história."
+  },
+  {
+    "subject": "portugues",
+    "world": "port-leitura",
+    "topic": "Leitura",
+    "level": "Médio",
+    "prompt": "Pense com atenção: Quem escreve uma história é chamado de quê?",
+    "options": [
+      "Ilustrador sempre",
+      "Leitor",
+      "Personagem",
+      "Autor"
+    ],
+    "answer": 3,
+    "explanation": "O autor é a pessoa que escreve a história."
+  },
+  {
+    "subject": "portugues",
+    "world": "port-leitura",
+    "topic": "Leitura",
+    "level": "Desafio",
+    "prompt": "Desafio: Quem escreve uma história é chamado de quê?",
+    "options": [
+      "Personagem",
+      "Leitor",
+      "Ilustrador sempre",
+      "Autor"
+    ],
+    "answer": 3,
+    "explanation": "O autor é a pessoa que escreve a história."
+  },
+  {
+    "subject": "portugues",
+    "world": "port-leitura",
+    "topic": "Leitura",
+    "level": "Fácil",
+    "prompt": "Quem lê um texto é chamado de quê?",
+    "options": [
+      "Título",
+      "Autor",
+      "Personagem",
+      "Leitor"
+    ],
+    "answer": 3,
+    "explanation": "O leitor é a pessoa que realiza a leitura."
+  },
+  {
+    "subject": "portugues",
+    "world": "port-leitura",
+    "topic": "Leitura",
+    "level": "Médio",
+    "prompt": "Pense com atenção: Quem lê um texto é chamado de quê?",
+    "options": [
+      "Personagem",
+      "Autor",
+      "Leitor",
+      "Título"
+    ],
+    "answer": 2,
+    "explanation": "O leitor é a pessoa que realiza a leitura."
+  },
+  {
+    "subject": "portugues",
+    "world": "port-leitura",
+    "topic": "Leitura",
+    "level": "Desafio",
+    "prompt": "Desafio: Quem lê um texto é chamado de quê?",
+    "options": [
+      "Personagem",
+      "Autor",
+      "Leitor",
+      "Título"
+    ],
+    "answer": 2,
+    "explanation": "O leitor é a pessoa que realiza a leitura."
+  },
+  {
+    "subject": "portugues",
+    "world": "port-leitura",
+    "topic": "Textos",
+    "level": "Fácil",
+    "prompt": "Para que serve o título de um texto?",
+    "options": [
+      "Para substituir todas as frases",
+      "Para indicar a resposta correta",
+      "Para esconder o assunto",
+      "Para apresentar o assunto ou nome do texto"
+    ],
+    "answer": 3,
+    "explanation": "O título apresenta o texto e pode indicar seu assunto."
+  },
+  {
+    "subject": "portugues",
+    "world": "port-leitura",
+    "topic": "Textos",
+    "level": "Médio",
+    "prompt": "Pense com atenção: Para que serve o título de um texto?",
+    "options": [
+      "Para apresentar o assunto ou nome do texto",
+      "Para substituir todas as frases",
+      "Para indicar a resposta correta",
+      "Para esconder o assunto"
+    ],
+    "answer": 0,
+    "explanation": "O título apresenta o texto e pode indicar seu assunto."
+  },
+  {
+    "subject": "portugues",
+    "world": "port-leitura",
+    "topic": "Textos",
+    "level": "Desafio",
+    "prompt": "Desafio: Para que serve o título de um texto?",
+    "options": [
+      "Para apresentar o assunto ou nome do texto",
+      "Para esconder o assunto",
+      "Para substituir todas as frases",
+      "Para indicar a resposta correta"
+    ],
+    "answer": 0,
+    "explanation": "O título apresenta o texto e pode indicar seu assunto."
+  },
+  {
+    "subject": "portugues",
+    "world": "port-leitura",
+    "topic": "Textos",
+    "level": "Fácil",
+    "prompt": "O que pode ajudar a compreender uma história além das palavras?",
+    "options": [
+      "As imagens",
+      "Somente a capa fechada",
+      "A cor da mesa",
+      "O número da página apenas"
+    ],
+    "answer": 0,
+    "explanation": "As imagens podem complementar as informações do texto."
+  },
+  {
+    "subject": "portugues",
+    "world": "port-leitura",
+    "topic": "Textos",
+    "level": "Médio",
+    "prompt": "Pense com atenção: O que pode ajudar a compreender uma história além das palavras?",
+    "options": [
+      "A cor da mesa",
+      "O número da página apenas",
+      "Somente a capa fechada",
+      "As imagens"
+    ],
+    "answer": 3,
+    "explanation": "As imagens podem complementar as informações do texto."
+  },
+  {
+    "subject": "portugues",
+    "world": "port-leitura",
+    "topic": "Textos",
+    "level": "Desafio",
+    "prompt": "Desafio: O que pode ajudar a compreender uma história além das palavras?",
+    "options": [
+      "Somente a capa fechada",
+      "As imagens",
+      "A cor da mesa",
+      "O número da página apenas"
+    ],
+    "answer": 1,
+    "explanation": "As imagens podem complementar as informações do texto."
+  },
+  {
+    "subject": "portugues",
+    "world": "port-leitura",
+    "topic": "Textos",
+    "level": "Fácil",
+    "prompt": "Qual texto costuma apresentar versos e rimas?",
+    "options": [
+      "Mapa",
+      "Lista de compras",
+      "Calendário",
+      "Poema"
+    ],
+    "answer": 3,
+    "explanation": "O poema pode apresentar versos, ritmo e rimas."
+  },
+  {
+    "subject": "portugues",
+    "world": "port-leitura",
+    "topic": "Textos",
+    "level": "Médio",
+    "prompt": "Pense com atenção: Qual texto costuma apresentar versos e rimas?",
+    "options": [
+      "Lista de compras",
+      "Calendário",
+      "Poema",
+      "Mapa"
+    ],
+    "answer": 2,
+    "explanation": "O poema pode apresentar versos, ritmo e rimas."
+  },
+  {
+    "subject": "portugues",
+    "world": "port-leitura",
+    "topic": "Textos",
+    "level": "Desafio",
+    "prompt": "Desafio: Qual texto costuma apresentar versos e rimas?",
+    "options": [
+      "Mapa",
+      "Poema",
+      "Lista de compras",
+      "Calendário"
+    ],
+    "answer": 1,
+    "explanation": "O poema pode apresentar versos, ritmo e rimas."
+  },
+  {
+    "subject": "portugues",
+    "world": "port-leitura",
+    "topic": "Textos",
+    "level": "Fácil",
+    "prompt": "Como chamamos cada linha de um poema?",
+    "options": [
+      "Capa",
+      "Título",
+      "Verso",
+      "Parágrafo"
+    ],
+    "answer": 2,
+    "explanation": "Cada linha de um poema é chamada de verso."
+  },
+  {
+    "subject": "portugues",
+    "world": "port-leitura",
+    "topic": "Textos",
+    "level": "Médio",
+    "prompt": "Pense com atenção: Como chamamos cada linha de um poema?",
+    "options": [
+      "Capa",
+      "Título",
+      "Verso",
+      "Parágrafo"
+    ],
+    "answer": 2,
+    "explanation": "Cada linha de um poema é chamada de verso."
+  },
+  {
+    "subject": "portugues",
+    "world": "port-leitura",
+    "topic": "Textos",
+    "level": "Desafio",
+    "prompt": "Desafio: Como chamamos cada linha de um poema?",
+    "options": [
+      "Parágrafo",
+      "Capa",
+      "Título",
+      "Verso"
+    ],
+    "answer": 3,
+    "explanation": "Cada linha de um poema é chamada de verso."
+  },
+  {
+    "subject": "portugues",
+    "world": "port-leitura",
+    "topic": "Histórias",
+    "level": "Fácil",
+    "prompt": "Quem participa dos acontecimentos de uma história?",
+    "options": [
+      "Personagem",
+      "Calendário",
+      "Título",
+      "Ponto final"
+    ],
+    "answer": 0,
+    "explanation": "Os personagens participam dos acontecimentos da história."
+  },
+  {
+    "subject": "portugues",
+    "world": "port-leitura",
+    "topic": "Histórias",
+    "level": "Médio",
+    "prompt": "Pense com atenção: Quem participa dos acontecimentos de uma história?",
+    "options": [
+      "Ponto final",
+      "Personagem",
+      "Calendário",
+      "Título"
+    ],
+    "answer": 1,
+    "explanation": "Os personagens participam dos acontecimentos da história."
+  },
+  {
+    "subject": "portugues",
+    "world": "port-leitura",
+    "topic": "Histórias",
+    "level": "Desafio",
+    "prompt": "Desafio: Quem participa dos acontecimentos de uma história?",
+    "options": [
+      "Calendário",
+      "Título",
+      "Ponto final",
+      "Personagem"
+    ],
+    "answer": 3,
+    "explanation": "Os personagens participam dos acontecimentos da história."
+  },
+  {
+    "subject": "portugues",
+    "world": "port-leitura",
+    "topic": "Sequência",
+    "level": "Fácil",
+    "prompt": "Em uma história, o que vem depois do começo?",
+    "options": [
+      "O título novamente",
+      "A capa",
+      "O meio",
+      "Nada"
+    ],
+    "answer": 2,
+    "explanation": "Uma história pode ser organizada em começo, meio e fim."
+  },
+  {
+    "subject": "portugues",
+    "world": "port-leitura",
+    "topic": "Sequência",
+    "level": "Médio",
+    "prompt": "Pense com atenção: Em uma história, o que vem depois do começo?",
+    "options": [
+      "A capa",
+      "O meio",
+      "Nada",
+      "O título novamente"
+    ],
+    "answer": 1,
+    "explanation": "Uma história pode ser organizada em começo, meio e fim."
+  },
+  {
+    "subject": "portugues",
+    "world": "port-leitura",
+    "topic": "Sequência",
+    "level": "Desafio",
+    "prompt": "Desafio: Em uma história, o que vem depois do começo?",
+    "options": [
+      "O título novamente",
+      "O meio",
+      "A capa",
+      "Nada"
+    ],
+    "answer": 1,
+    "explanation": "Uma história pode ser organizada em começo, meio e fim."
+  },
+  {
+    "subject": "portugues",
+    "world": "port-leitura",
+    "topic": "Quadrinhos",
+    "level": "Fácil",
+    "prompt": "Onde aparecem as falas dos personagens em muitos quadrinhos?",
+    "options": [
+      "Somente no título",
+      "Na numeração das páginas",
+      "Fora dos desenhos",
+      "Nos balões de fala"
+    ],
+    "answer": 3,
+    "explanation": "Os balões de fala mostram o que os personagens dizem."
+  },
+  {
+    "subject": "portugues",
+    "world": "port-leitura",
+    "topic": "Quadrinhos",
+    "level": "Médio",
+    "prompt": "Pense com atenção: Onde aparecem as falas dos personagens em muitos quadrinhos?",
+    "options": [
+      "Somente no título",
+      "Fora dos desenhos",
+      "Nos balões de fala",
+      "Na numeração das páginas"
+    ],
+    "answer": 2,
+    "explanation": "Os balões de fala mostram o que os personagens dizem."
+  },
+  {
+    "subject": "portugues",
+    "world": "port-leitura",
+    "topic": "Quadrinhos",
+    "level": "Desafio",
+    "prompt": "Desafio: Onde aparecem as falas dos personagens em muitos quadrinhos?",
+    "options": [
+      "Nos balões de fala",
+      "Somente no título",
+      "Na numeração das páginas",
+      "Fora dos desenhos"
+    ],
+    "answer": 0,
+    "explanation": "Os balões de fala mostram o que os personagens dizem."
+  },
+  {
+    "subject": "portugues",
+    "world": "port-leitura",
+    "topic": "Compreensão",
+    "level": "Fácil",
+    "prompt": "Para compreender um texto, o que devemos fazer?",
+    "options": [
+      "Pular todas as palavras",
+      "Ignorar as imagens",
+      "Ler com atenção",
+      "Ler somente o título"
+    ],
+    "answer": 2,
+    "explanation": "Ler com atenção ajuda a compreender o texto."
+  },
+  {
+    "subject": "portugues",
+    "world": "port-leitura",
+    "topic": "Compreensão",
+    "level": "Médio",
+    "prompt": "Pense com atenção: Para compreender um texto, o que devemos fazer?",
+    "options": [
+      "Pular todas as palavras",
+      "Ler com atenção",
+      "Ler somente o título",
+      "Ignorar as imagens"
+    ],
+    "answer": 1,
+    "explanation": "Ler com atenção ajuda a compreender o texto."
+  },
+  {
+    "subject": "portugues",
+    "world": "port-leitura",
+    "topic": "Compreensão",
+    "level": "Desafio",
+    "prompt": "Desafio: Para compreender um texto, o que devemos fazer?",
+    "options": [
+      "Ler com atenção",
+      "Ignorar as imagens",
+      "Ler somente o título",
+      "Pular todas as palavras"
+    ],
+    "answer": 0,
+    "explanation": "Ler com atenção ajuda a compreender o texto."
+  }
+]

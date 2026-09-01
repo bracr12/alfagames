@@ -1,0 +1,2252 @@
+[
+  {
+    "subject": "matematica",
+    "world": "mat-numeros",
+    "topic": "Números e quantidades",
+    "level": "Fácil",
+    "prompt": "Qual número vem depois do 5?",
+    "options": [
+      "6",
+      "4",
+      "8",
+      "7"
+    ],
+    "answer": 0,
+    "explanation": "Na sequência numérica, o número 6 vem depois do número 5."
+  },
+  {
+    "subject": "matematica",
+    "world": "mat-numeros",
+    "topic": "Números e quantidades",
+    "level": "Médio",
+    "prompt": "Pense com atenção: Qual número vem depois do 5?",
+    "options": [
+      "8",
+      "4",
+      "6",
+      "7"
+    ],
+    "answer": 2,
+    "explanation": "Na sequência numérica, o número 6 vem depois do número 5."
+  },
+  {
+    "subject": "matematica",
+    "world": "mat-numeros",
+    "topic": "Números e quantidades",
+    "level": "Desafio",
+    "prompt": "Desafio: Qual número vem depois do 5?",
+    "options": [
+      "7",
+      "8",
+      "4",
+      "6"
+    ],
+    "answer": 3,
+    "explanation": "Na sequência numérica, o número 6 vem depois do número 5."
+  },
+  {
+    "subject": "matematica",
+    "world": "mat-numeros",
+    "topic": "Números e quantidades",
+    "level": "Fácil",
+    "prompt": "Qual número vem antes do 9?",
+    "options": [
+      "8",
+      "10",
+      "9",
+      "7"
+    ],
+    "answer": 0,
+    "explanation": "Na sequência numérica, o número 8 vem antes do número 9."
+  },
+  {
+    "subject": "matematica",
+    "world": "mat-numeros",
+    "topic": "Números e quantidades",
+    "level": "Médio",
+    "prompt": "Pense com atenção: Qual número vem antes do 9?",
+    "options": [
+      "7",
+      "8",
+      "10",
+      "9"
+    ],
+    "answer": 1,
+    "explanation": "Na sequência numérica, o número 8 vem antes do número 9."
+  },
+  {
+    "subject": "matematica",
+    "world": "mat-numeros",
+    "topic": "Números e quantidades",
+    "level": "Desafio",
+    "prompt": "Desafio: Qual número vem antes do 9?",
+    "options": [
+      "8",
+      "10",
+      "9",
+      "7"
+    ],
+    "answer": 0,
+    "explanation": "Na sequência numérica, o número 8 vem antes do número 9."
+  },
+  {
+    "subject": "matematica",
+    "world": "mat-numeros",
+    "topic": "Números e quantidades",
+    "level": "Fácil",
+    "prompt": "Qual é o maior número?",
+    "options": [
+      "7",
+      "12",
+      "9",
+      "10"
+    ],
+    "answer": 1,
+    "explanation": "Entre as alternativas, 12 é o maior número."
+  },
+  {
+    "subject": "matematica",
+    "world": "mat-numeros",
+    "topic": "Números e quantidades",
+    "level": "Médio",
+    "prompt": "Pense com atenção: Qual é o maior número?",
+    "options": [
+      "10",
+      "12",
+      "7",
+      "9"
+    ],
+    "answer": 1,
+    "explanation": "Entre as alternativas, 12 é o maior número."
+  },
+  {
+    "subject": "matematica",
+    "world": "mat-numeros",
+    "topic": "Números e quantidades",
+    "level": "Desafio",
+    "prompt": "Desafio: Qual é o maior número?",
+    "options": [
+      "7",
+      "10",
+      "12",
+      "9"
+    ],
+    "answer": 2,
+    "explanation": "Entre as alternativas, 12 é o maior número."
+  },
+  {
+    "subject": "matematica",
+    "world": "mat-numeros",
+    "topic": "Números e quantidades",
+    "level": "Fácil",
+    "prompt": "Qual é o menor número?",
+    "options": [
+      "5",
+      "2",
+      "9",
+      "7"
+    ],
+    "answer": 1,
+    "explanation": "Entre as alternativas, 2 é o menor número."
+  },
+  {
+    "subject": "matematica",
+    "world": "mat-numeros",
+    "topic": "Números e quantidades",
+    "level": "Médio",
+    "prompt": "Pense com atenção: Qual é o menor número?",
+    "options": [
+      "7",
+      "2",
+      "5",
+      "9"
+    ],
+    "answer": 1,
+    "explanation": "Entre as alternativas, 2 é o menor número."
+  },
+  {
+    "subject": "matematica",
+    "world": "mat-numeros",
+    "topic": "Números e quantidades",
+    "level": "Desafio",
+    "prompt": "Desafio: Qual é o menor número?",
+    "options": [
+      "9",
+      "7",
+      "5",
+      "2"
+    ],
+    "answer": 3,
+    "explanation": "Entre as alternativas, 2 é o menor número."
+  },
+  {
+    "subject": "matematica",
+    "world": "mat-numeros",
+    "topic": "Números e quantidades",
+    "level": "Fácil",
+    "prompt": "Quantas unidades formam uma dezena?",
+    "options": [
+      "8",
+      "10",
+      "12",
+      "5"
+    ],
+    "answer": 1,
+    "explanation": "Uma dezena é formada por 10 unidades."
+  },
+  {
+    "subject": "matematica",
+    "world": "mat-numeros",
+    "topic": "Números e quantidades",
+    "level": "Médio",
+    "prompt": "Pense com atenção: Quantas unidades formam uma dezena?",
+    "options": [
+      "5",
+      "12",
+      "8",
+      "10"
+    ],
+    "answer": 3,
+    "explanation": "Uma dezena é formada por 10 unidades."
+  },
+  {
+    "subject": "matematica",
+    "world": "mat-numeros",
+    "topic": "Números e quantidades",
+    "level": "Desafio",
+    "prompt": "Desafio: Quantas unidades formam uma dezena?",
+    "options": [
+      "10",
+      "12",
+      "8",
+      "5"
+    ],
+    "answer": 0,
+    "explanation": "Uma dezena é formada por 10 unidades."
+  },
+  {
+    "subject": "matematica",
+    "world": "mat-numeros",
+    "topic": "Números e quantidades",
+    "level": "Fácil",
+    "prompt": "Qual número representa nenhuma quantidade?",
+    "options": [
+      "1",
+      "0",
+      "10",
+      "2"
+    ],
+    "answer": 1,
+    "explanation": "O zero representa nenhuma quantidade."
+  },
+  {
+    "subject": "matematica",
+    "world": "mat-numeros",
+    "topic": "Números e quantidades",
+    "level": "Médio",
+    "prompt": "Pense com atenção: Qual número representa nenhuma quantidade?",
+    "options": [
+      "1",
+      "0",
+      "2",
+      "10"
+    ],
+    "answer": 1,
+    "explanation": "O zero representa nenhuma quantidade."
+  },
+  {
+    "subject": "matematica",
+    "world": "mat-numeros",
+    "topic": "Números e quantidades",
+    "level": "Desafio",
+    "prompt": "Desafio: Qual número representa nenhuma quantidade?",
+    "options": [
+      "1",
+      "2",
+      "10",
+      "0"
+    ],
+    "answer": 3,
+    "explanation": "O zero representa nenhuma quantidade."
+  },
+  {
+    "subject": "matematica",
+    "world": "mat-numeros",
+    "topic": "Números e quantidades",
+    "level": "Fácil",
+    "prompt": "Complete a sequência: 2, 3, 4, qual é o próximo número?",
+    "options": [
+      "7",
+      "6",
+      "5",
+      "1"
+    ],
+    "answer": 2,
+    "explanation": "Depois do número 4 vem o número 5."
+  },
+  {
+    "subject": "matematica",
+    "world": "mat-numeros",
+    "topic": "Números e quantidades",
+    "level": "Médio",
+    "prompt": "Pense com atenção: Complete a sequência: 2, 3, 4, qual é o próximo número?",
+    "options": [
+      "6",
+      "1",
+      "7",
+      "5"
+    ],
+    "answer": 3,
+    "explanation": "Depois do número 4 vem o número 5."
+  },
+  {
+    "subject": "matematica",
+    "world": "mat-numeros",
+    "topic": "Números e quantidades",
+    "level": "Desafio",
+    "prompt": "Desafio: Complete a sequência: 2, 3, 4, qual é o próximo número?",
+    "options": [
+      "7",
+      "5",
+      "6",
+      "1"
+    ],
+    "answer": 1,
+    "explanation": "Depois do número 4 vem o número 5."
+  },
+  {
+    "subject": "matematica",
+    "world": "mat-numeros",
+    "topic": "Números e quantidades",
+    "level": "Fácil",
+    "prompt": "Qual sequência está em ordem crescente?",
+    "options": [
+      "3, 4, 1, 2",
+      "4, 3, 2, 1",
+      "1, 2, 3, 4",
+      "2, 1, 4, 3"
+    ],
+    "answer": 2,
+    "explanation": "Na ordem crescente, os números vão do menor para o maior."
+  },
+  {
+    "subject": "matematica",
+    "world": "mat-numeros",
+    "topic": "Números e quantidades",
+    "level": "Médio",
+    "prompt": "Pense com atenção: Qual sequência está em ordem crescente?",
+    "options": [
+      "4, 3, 2, 1",
+      "2, 1, 4, 3",
+      "3, 4, 1, 2",
+      "1, 2, 3, 4"
+    ],
+    "answer": 3,
+    "explanation": "Na ordem crescente, os números vão do menor para o maior."
+  },
+  {
+    "subject": "matematica",
+    "world": "mat-numeros",
+    "topic": "Números e quantidades",
+    "level": "Desafio",
+    "prompt": "Desafio: Qual sequência está em ordem crescente?",
+    "options": [
+      "4, 3, 2, 1",
+      "3, 4, 1, 2",
+      "1, 2, 3, 4",
+      "2, 1, 4, 3"
+    ],
+    "answer": 2,
+    "explanation": "Na ordem crescente, os números vão do menor para o maior."
+  },
+  {
+    "subject": "matematica",
+    "world": "mat-numeros",
+    "topic": "Números e quantidades",
+    "level": "Fácil",
+    "prompt": "Qual sequência está em ordem decrescente?",
+    "options": [
+      "8, 6, 9, 7",
+      "7, 9, 6, 8",
+      "9, 8, 7, 6",
+      "6, 7, 8, 9"
+    ],
+    "answer": 2,
+    "explanation": "Na ordem decrescente, os números vão do maior para o menor."
+  },
+  {
+    "subject": "matematica",
+    "world": "mat-numeros",
+    "topic": "Números e quantidades",
+    "level": "Médio",
+    "prompt": "Pense com atenção: Qual sequência está em ordem decrescente?",
+    "options": [
+      "9, 8, 7, 6",
+      "6, 7, 8, 9",
+      "8, 6, 9, 7",
+      "7, 9, 6, 8"
+    ],
+    "answer": 0,
+    "explanation": "Na ordem decrescente, os números vão do maior para o menor."
+  },
+  {
+    "subject": "matematica",
+    "world": "mat-numeros",
+    "topic": "Números e quantidades",
+    "level": "Desafio",
+    "prompt": "Desafio: Qual sequência está em ordem decrescente?",
+    "options": [
+      "9, 8, 7, 6",
+      "6, 7, 8, 9",
+      "8, 6, 9, 7",
+      "7, 9, 6, 8"
+    ],
+    "answer": 0,
+    "explanation": "Na ordem decrescente, os números vão do maior para o menor."
+  },
+  {
+    "subject": "matematica",
+    "world": "mat-numeros",
+    "topic": "Números e quantidades",
+    "level": "Fácil",
+    "prompt": "Qual número fica entre 6 e 8?",
+    "options": [
+      "5",
+      "8",
+      "9",
+      "7"
+    ],
+    "answer": 3,
+    "explanation": "O número 7 fica entre 6 e 8."
+  },
+  {
+    "subject": "matematica",
+    "world": "mat-numeros",
+    "topic": "Números e quantidades",
+    "level": "Médio",
+    "prompt": "Pense com atenção: Qual número fica entre 6 e 8?",
+    "options": [
+      "8",
+      "5",
+      "9",
+      "7"
+    ],
+    "answer": 3,
+    "explanation": "O número 7 fica entre 6 e 8."
+  },
+  {
+    "subject": "matematica",
+    "world": "mat-numeros",
+    "topic": "Números e quantidades",
+    "level": "Desafio",
+    "prompt": "Desafio: Qual número fica entre 6 e 8?",
+    "options": [
+      "5",
+      "9",
+      "8",
+      "7"
+    ],
+    "answer": 3,
+    "explanation": "O número 7 fica entre 6 e 8."
+  },
+  {
+    "subject": "matematica",
+    "world": "mat-adicao",
+    "topic": "Adição",
+    "level": "Fácil",
+    "prompt": "Quanto é 2 mais 3?",
+    "options": [
+      "4",
+      "6",
+      "7",
+      "5"
+    ],
+    "answer": 3,
+    "explanation": "Ao juntar 2 e 3, obtemos 5."
+  },
+  {
+    "subject": "matematica",
+    "world": "mat-adicao",
+    "topic": "Adição",
+    "level": "Médio",
+    "prompt": "Pense com atenção: Quanto é 2 mais 3?",
+    "options": [
+      "4",
+      "6",
+      "5",
+      "7"
+    ],
+    "answer": 2,
+    "explanation": "Ao juntar 2 e 3, obtemos 5."
+  },
+  {
+    "subject": "matematica",
+    "world": "mat-adicao",
+    "topic": "Adição",
+    "level": "Desafio",
+    "prompt": "Desafio: Quanto é 2 mais 3?",
+    "options": [
+      "5",
+      "4",
+      "7",
+      "6"
+    ],
+    "answer": 0,
+    "explanation": "Ao juntar 2 e 3, obtemos 5."
+  },
+  {
+    "subject": "matematica",
+    "world": "mat-adicao",
+    "topic": "Adição",
+    "level": "Fácil",
+    "prompt": "Quanto é 4 mais 1?",
+    "options": [
+      "4",
+      "3",
+      "6",
+      "5"
+    ],
+    "answer": 3,
+    "explanation": "Ao acrescentar 1 a 4, obtemos 5."
+  },
+  {
+    "subject": "matematica",
+    "world": "mat-adicao",
+    "topic": "Adição",
+    "level": "Médio",
+    "prompt": "Pense com atenção: Quanto é 4 mais 1?",
+    "options": [
+      "4",
+      "3",
+      "6",
+      "5"
+    ],
+    "answer": 3,
+    "explanation": "Ao acrescentar 1 a 4, obtemos 5."
+  },
+  {
+    "subject": "matematica",
+    "world": "mat-adicao",
+    "topic": "Adição",
+    "level": "Desafio",
+    "prompt": "Desafio: Quanto é 4 mais 1?",
+    "options": [
+      "6",
+      "5",
+      "3",
+      "4"
+    ],
+    "answer": 1,
+    "explanation": "Ao acrescentar 1 a 4, obtemos 5."
+  },
+  {
+    "subject": "matematica",
+    "world": "mat-adicao",
+    "topic": "Adição",
+    "level": "Fácil",
+    "prompt": "Quanto é 5 mais 5?",
+    "options": [
+      "11",
+      "8",
+      "10",
+      "9"
+    ],
+    "answer": 2,
+    "explanation": "Ao juntar 5 e 5, obtemos 10."
+  },
+  {
+    "subject": "matematica",
+    "world": "mat-adicao",
+    "topic": "Adição",
+    "level": "Médio",
+    "prompt": "Pense com atenção: Quanto é 5 mais 5?",
+    "options": [
+      "8",
+      "9",
+      "11",
+      "10"
+    ],
+    "answer": 3,
+    "explanation": "Ao juntar 5 e 5, obtemos 10."
+  },
+  {
+    "subject": "matematica",
+    "world": "mat-adicao",
+    "topic": "Adição",
+    "level": "Desafio",
+    "prompt": "Desafio: Quanto é 5 mais 5?",
+    "options": [
+      "10",
+      "11",
+      "9",
+      "8"
+    ],
+    "answer": 0,
+    "explanation": "Ao juntar 5 e 5, obtemos 10."
+  },
+  {
+    "subject": "matematica",
+    "world": "mat-adicao",
+    "topic": "Adição",
+    "level": "Fácil",
+    "prompt": "Quanto é 7 mais 2?",
+    "options": [
+      "9",
+      "10",
+      "7",
+      "8"
+    ],
+    "answer": 0,
+    "explanation": "Ao acrescentar 2 a 7, obtemos 9."
+  },
+  {
+    "subject": "matematica",
+    "world": "mat-adicao",
+    "topic": "Adição",
+    "level": "Médio",
+    "prompt": "Pense com atenção: Quanto é 7 mais 2?",
+    "options": [
+      "9",
+      "7",
+      "10",
+      "8"
+    ],
+    "answer": 0,
+    "explanation": "Ao acrescentar 2 a 7, obtemos 9."
+  },
+  {
+    "subject": "matematica",
+    "world": "mat-adicao",
+    "topic": "Adição",
+    "level": "Desafio",
+    "prompt": "Desafio: Quanto é 7 mais 2?",
+    "options": [
+      "8",
+      "9",
+      "10",
+      "7"
+    ],
+    "answer": 1,
+    "explanation": "Ao acrescentar 2 a 7, obtemos 9."
+  },
+  {
+    "subject": "matematica",
+    "world": "mat-adicao",
+    "topic": "Adição",
+    "level": "Fácil",
+    "prompt": "Quanto é 6 mais 3?",
+    "options": [
+      "10",
+      "8",
+      "9",
+      "11"
+    ],
+    "answer": 2,
+    "explanation": "Ao juntar 6 e 3, obtemos 9."
+  },
+  {
+    "subject": "matematica",
+    "world": "mat-adicao",
+    "topic": "Adição",
+    "level": "Médio",
+    "prompt": "Pense com atenção: Quanto é 6 mais 3?",
+    "options": [
+      "8",
+      "10",
+      "11",
+      "9"
+    ],
+    "answer": 3,
+    "explanation": "Ao juntar 6 e 3, obtemos 9."
+  },
+  {
+    "subject": "matematica",
+    "world": "mat-adicao",
+    "topic": "Adição",
+    "level": "Desafio",
+    "prompt": "Desafio: Quanto é 6 mais 3?",
+    "options": [
+      "11",
+      "10",
+      "9",
+      "8"
+    ],
+    "answer": 2,
+    "explanation": "Ao juntar 6 e 3, obtemos 9."
+  },
+  {
+    "subject": "matematica",
+    "world": "mat-adicao",
+    "topic": "Adição",
+    "level": "Fácil",
+    "prompt": "Uma cesta tem 3 maçãs e recebe mais 2. Quantas maçãs há agora?",
+    "options": [
+      "6",
+      "5",
+      "4",
+      "3"
+    ],
+    "answer": 1,
+    "explanation": "Três maçãs mais duas maçãs totalizam cinco maçãs."
+  },
+  {
+    "subject": "matematica",
+    "world": "mat-adicao",
+    "topic": "Adição",
+    "level": "Médio",
+    "prompt": "Pense com atenção: Uma cesta tem 3 maçãs e recebe mais 2. Quantas maçãs há agora?",
+    "options": [
+      "6",
+      "5",
+      "4",
+      "3"
+    ],
+    "answer": 1,
+    "explanation": "Três maçãs mais duas maçãs totalizam cinco maçãs."
+  },
+  {
+    "subject": "matematica",
+    "world": "mat-adicao",
+    "topic": "Adição",
+    "level": "Desafio",
+    "prompt": "Desafio: Uma cesta tem 3 maçãs e recebe mais 2. Quantas maçãs há agora?",
+    "options": [
+      "4",
+      "3",
+      "6",
+      "5"
+    ],
+    "answer": 3,
+    "explanation": "Três maçãs mais duas maçãs totalizam cinco maçãs."
+  },
+  {
+    "subject": "matematica",
+    "world": "mat-adicao",
+    "topic": "Adição",
+    "level": "Fácil",
+    "prompt": "Há 4 aves em uma árvore e chegam mais 3. Quantas aves ficam na árvore?",
+    "options": [
+      "5",
+      "7",
+      "6",
+      "8"
+    ],
+    "answer": 1,
+    "explanation": "Quatro aves mais três aves totalizam sete aves."
+  },
+  {
+    "subject": "matematica",
+    "world": "mat-adicao",
+    "topic": "Adição",
+    "level": "Médio",
+    "prompt": "Pense com atenção: Há 4 aves em uma árvore e chegam mais 3. Quantas aves ficam na árvore?",
+    "options": [
+      "8",
+      "5",
+      "6",
+      "7"
+    ],
+    "answer": 3,
+    "explanation": "Quatro aves mais três aves totalizam sete aves."
+  },
+  {
+    "subject": "matematica",
+    "world": "mat-adicao",
+    "topic": "Adição",
+    "level": "Desafio",
+    "prompt": "Desafio: Há 4 aves em uma árvore e chegam mais 3. Quantas aves ficam na árvore?",
+    "options": [
+      "6",
+      "5",
+      "8",
+      "7"
+    ],
+    "answer": 3,
+    "explanation": "Quatro aves mais três aves totalizam sete aves."
+  },
+  {
+    "subject": "matematica",
+    "world": "mat-adicao",
+    "topic": "Adição",
+    "level": "Fácil",
+    "prompt": "Qual conta tem resultado 8?",
+    "options": [
+      "6 + 1",
+      "4 + 1",
+      "2 + 3",
+      "5 + 3"
+    ],
+    "answer": 3,
+    "explanation": "Cinco mais três é igual a oito."
+  },
+  {
+    "subject": "matematica",
+    "world": "mat-adicao",
+    "topic": "Adição",
+    "level": "Médio",
+    "prompt": "Pense com atenção: Qual conta tem resultado 8?",
+    "options": [
+      "4 + 1",
+      "6 + 1",
+      "2 + 3",
+      "5 + 3"
+    ],
+    "answer": 3,
+    "explanation": "Cinco mais três é igual a oito."
+  },
+  {
+    "subject": "matematica",
+    "world": "mat-adicao",
+    "topic": "Adição",
+    "level": "Desafio",
+    "prompt": "Desafio: Qual conta tem resultado 8?",
+    "options": [
+      "2 + 3",
+      "6 + 1",
+      "4 + 1",
+      "5 + 3"
+    ],
+    "answer": 3,
+    "explanation": "Cinco mais três é igual a oito."
+  },
+  {
+    "subject": "matematica",
+    "world": "mat-adicao",
+    "topic": "Adição",
+    "level": "Fácil",
+    "prompt": "Qual é o resultado de 10 mais 2?",
+    "options": [
+      "13",
+      "11",
+      "10",
+      "12"
+    ],
+    "answer": 3,
+    "explanation": "Dez mais dois é igual a doze."
+  },
+  {
+    "subject": "matematica",
+    "world": "mat-adicao",
+    "topic": "Adição",
+    "level": "Médio",
+    "prompt": "Pense com atenção: Qual é o resultado de 10 mais 2?",
+    "options": [
+      "10",
+      "13",
+      "12",
+      "11"
+    ],
+    "answer": 2,
+    "explanation": "Dez mais dois é igual a doze."
+  },
+  {
+    "subject": "matematica",
+    "world": "mat-adicao",
+    "topic": "Adição",
+    "level": "Desafio",
+    "prompt": "Desafio: Qual é o resultado de 10 mais 2?",
+    "options": [
+      "12",
+      "11",
+      "13",
+      "10"
+    ],
+    "answer": 0,
+    "explanation": "Dez mais dois é igual a doze."
+  },
+  {
+    "subject": "matematica",
+    "world": "mat-adicao",
+    "topic": "Adição",
+    "level": "Fácil",
+    "prompt": "Se você tem 8 figurinhas e ganha 1, com quantas fica?",
+    "options": [
+      "7",
+      "9",
+      "10",
+      "8"
+    ],
+    "answer": 1,
+    "explanation": "Oito mais uma figurinha totaliza nove figurinhas."
+  },
+  {
+    "subject": "matematica",
+    "world": "mat-adicao",
+    "topic": "Adição",
+    "level": "Médio",
+    "prompt": "Pense com atenção: Se você tem 8 figurinhas e ganha 1, com quantas fica?",
+    "options": [
+      "9",
+      "8",
+      "7",
+      "10"
+    ],
+    "answer": 0,
+    "explanation": "Oito mais uma figurinha totaliza nove figurinhas."
+  },
+  {
+    "subject": "matematica",
+    "world": "mat-adicao",
+    "topic": "Adição",
+    "level": "Desafio",
+    "prompt": "Desafio: Se você tem 8 figurinhas e ganha 1, com quantas fica?",
+    "options": [
+      "7",
+      "10",
+      "8",
+      "9"
+    ],
+    "answer": 3,
+    "explanation": "Oito mais uma figurinha totaliza nove figurinhas."
+  },
+  {
+    "subject": "matematica",
+    "world": "mat-subtracao",
+    "topic": "Subtração",
+    "level": "Fácil",
+    "prompt": "Quanto é 7 menos 2?",
+    "options": [
+      "6",
+      "5",
+      "9",
+      "4"
+    ],
+    "answer": 1,
+    "explanation": "Ao retirar 2 de 7, restam 5."
+  },
+  {
+    "subject": "matematica",
+    "world": "mat-subtracao",
+    "topic": "Subtração",
+    "level": "Médio",
+    "prompt": "Pense com atenção: Quanto é 7 menos 2?",
+    "options": [
+      "9",
+      "6",
+      "4",
+      "5"
+    ],
+    "answer": 3,
+    "explanation": "Ao retirar 2 de 7, restam 5."
+  },
+  {
+    "subject": "matematica",
+    "world": "mat-subtracao",
+    "topic": "Subtração",
+    "level": "Desafio",
+    "prompt": "Desafio: Quanto é 7 menos 2?",
+    "options": [
+      "5",
+      "4",
+      "9",
+      "6"
+    ],
+    "answer": 0,
+    "explanation": "Ao retirar 2 de 7, restam 5."
+  },
+  {
+    "subject": "matematica",
+    "world": "mat-subtracao",
+    "topic": "Subtração",
+    "level": "Fácil",
+    "prompt": "Quanto é 9 menos 4?",
+    "options": [
+      "6",
+      "5",
+      "4",
+      "13"
+    ],
+    "answer": 1,
+    "explanation": "Ao retirar 4 de 9, restam 5."
+  },
+  {
+    "subject": "matematica",
+    "world": "mat-subtracao",
+    "topic": "Subtração",
+    "level": "Médio",
+    "prompt": "Pense com atenção: Quanto é 9 menos 4?",
+    "options": [
+      "5",
+      "6",
+      "13",
+      "4"
+    ],
+    "answer": 0,
+    "explanation": "Ao retirar 4 de 9, restam 5."
+  },
+  {
+    "subject": "matematica",
+    "world": "mat-subtracao",
+    "topic": "Subtração",
+    "level": "Desafio",
+    "prompt": "Desafio: Quanto é 9 menos 4?",
+    "options": [
+      "5",
+      "6",
+      "13",
+      "4"
+    ],
+    "answer": 0,
+    "explanation": "Ao retirar 4 de 9, restam 5."
+  },
+  {
+    "subject": "matematica",
+    "world": "mat-subtracao",
+    "topic": "Subtração",
+    "level": "Fácil",
+    "prompt": "Quanto é 10 menos 3?",
+    "options": [
+      "7",
+      "8",
+      "6",
+      "13"
+    ],
+    "answer": 0,
+    "explanation": "Ao retirar 3 de 10, restam 7."
+  },
+  {
+    "subject": "matematica",
+    "world": "mat-subtracao",
+    "topic": "Subtração",
+    "level": "Médio",
+    "prompt": "Pense com atenção: Quanto é 10 menos 3?",
+    "options": [
+      "13",
+      "8",
+      "6",
+      "7"
+    ],
+    "answer": 3,
+    "explanation": "Ao retirar 3 de 10, restam 7."
+  },
+  {
+    "subject": "matematica",
+    "world": "mat-subtracao",
+    "topic": "Subtração",
+    "level": "Desafio",
+    "prompt": "Desafio: Quanto é 10 menos 3?",
+    "options": [
+      "6",
+      "13",
+      "7",
+      "8"
+    ],
+    "answer": 2,
+    "explanation": "Ao retirar 3 de 10, restam 7."
+  },
+  {
+    "subject": "matematica",
+    "world": "mat-subtracao",
+    "topic": "Subtração",
+    "level": "Fácil",
+    "prompt": "Quanto é 6 menos 1?",
+    "options": [
+      "6",
+      "4",
+      "7",
+      "5"
+    ],
+    "answer": 3,
+    "explanation": "Ao retirar 1 de 6, restam 5."
+  },
+  {
+    "subject": "matematica",
+    "world": "mat-subtracao",
+    "topic": "Subtração",
+    "level": "Médio",
+    "prompt": "Pense com atenção: Quanto é 6 menos 1?",
+    "options": [
+      "5",
+      "7",
+      "4",
+      "6"
+    ],
+    "answer": 0,
+    "explanation": "Ao retirar 1 de 6, restam 5."
+  },
+  {
+    "subject": "matematica",
+    "world": "mat-subtracao",
+    "topic": "Subtração",
+    "level": "Desafio",
+    "prompt": "Desafio: Quanto é 6 menos 1?",
+    "options": [
+      "5",
+      "7",
+      "4",
+      "6"
+    ],
+    "answer": 0,
+    "explanation": "Ao retirar 1 de 6, restam 5."
+  },
+  {
+    "subject": "matematica",
+    "world": "mat-subtracao",
+    "topic": "Subtração",
+    "level": "Fácil",
+    "prompt": "Quanto é 8 menos 5?",
+    "options": [
+      "2",
+      "13",
+      "3",
+      "4"
+    ],
+    "answer": 2,
+    "explanation": "Ao retirar 5 de 8, restam 3."
+  },
+  {
+    "subject": "matematica",
+    "world": "mat-subtracao",
+    "topic": "Subtração",
+    "level": "Médio",
+    "prompt": "Pense com atenção: Quanto é 8 menos 5?",
+    "options": [
+      "3",
+      "2",
+      "13",
+      "4"
+    ],
+    "answer": 0,
+    "explanation": "Ao retirar 5 de 8, restam 3."
+  },
+  {
+    "subject": "matematica",
+    "world": "mat-subtracao",
+    "topic": "Subtração",
+    "level": "Desafio",
+    "prompt": "Desafio: Quanto é 8 menos 5?",
+    "options": [
+      "4",
+      "13",
+      "3",
+      "2"
+    ],
+    "answer": 2,
+    "explanation": "Ao retirar 5 de 8, restam 3."
+  },
+  {
+    "subject": "matematica",
+    "world": "mat-subtracao",
+    "topic": "Subtração",
+    "level": "Fácil",
+    "prompt": "Havia 6 balões e 2 estouraram. Quantos balões restaram?",
+    "options": [
+      "8",
+      "6",
+      "4",
+      "2"
+    ],
+    "answer": 2,
+    "explanation": "Se retirarmos dois balões de seis, restam quatro."
+  },
+  {
+    "subject": "matematica",
+    "world": "mat-subtracao",
+    "topic": "Subtração",
+    "level": "Médio",
+    "prompt": "Pense com atenção: Havia 6 balões e 2 estouraram. Quantos balões restaram?",
+    "options": [
+      "6",
+      "4",
+      "2",
+      "8"
+    ],
+    "answer": 1,
+    "explanation": "Se retirarmos dois balões de seis, restam quatro."
+  },
+  {
+    "subject": "matematica",
+    "world": "mat-subtracao",
+    "topic": "Subtração",
+    "level": "Desafio",
+    "prompt": "Desafio: Havia 6 balões e 2 estouraram. Quantos balões restaram?",
+    "options": [
+      "6",
+      "2",
+      "8",
+      "4"
+    ],
+    "answer": 3,
+    "explanation": "Se retirarmos dois balões de seis, restam quatro."
+  },
+  {
+    "subject": "matematica",
+    "world": "mat-subtracao",
+    "topic": "Subtração",
+    "level": "Fácil",
+    "prompt": "Uma caixa tinha 9 lápis e 3 foram usados. Quantos lápis ficaram?",
+    "options": [
+      "7",
+      "12",
+      "5",
+      "6"
+    ],
+    "answer": 3,
+    "explanation": "Nove menos três é igual a seis."
+  },
+  {
+    "subject": "matematica",
+    "world": "mat-subtracao",
+    "topic": "Subtração",
+    "level": "Médio",
+    "prompt": "Pense com atenção: Uma caixa tinha 9 lápis e 3 foram usados. Quantos lápis ficaram?",
+    "options": [
+      "6",
+      "5",
+      "12",
+      "7"
+    ],
+    "answer": 0,
+    "explanation": "Nove menos três é igual a seis."
+  },
+  {
+    "subject": "matematica",
+    "world": "mat-subtracao",
+    "topic": "Subtração",
+    "level": "Desafio",
+    "prompt": "Desafio: Uma caixa tinha 9 lápis e 3 foram usados. Quantos lápis ficaram?",
+    "options": [
+      "12",
+      "7",
+      "5",
+      "6"
+    ],
+    "answer": 3,
+    "explanation": "Nove menos três é igual a seis."
+  },
+  {
+    "subject": "matematica",
+    "world": "mat-subtracao",
+    "topic": "Subtração",
+    "level": "Fácil",
+    "prompt": "Qual conta tem resultado 5?",
+    "options": [
+      "7 - 1",
+      "10 - 4",
+      "9 - 2",
+      "8 - 3"
+    ],
+    "answer": 3,
+    "explanation": "Oito menos três é igual a cinco."
+  },
+  {
+    "subject": "matematica",
+    "world": "mat-subtracao",
+    "topic": "Subtração",
+    "level": "Médio",
+    "prompt": "Pense com atenção: Qual conta tem resultado 5?",
+    "options": [
+      "9 - 2",
+      "7 - 1",
+      "8 - 3",
+      "10 - 4"
+    ],
+    "answer": 2,
+    "explanation": "Oito menos três é igual a cinco."
+  },
+  {
+    "subject": "matematica",
+    "world": "mat-subtracao",
+    "topic": "Subtração",
+    "level": "Desafio",
+    "prompt": "Desafio: Qual conta tem resultado 5?",
+    "options": [
+      "8 - 3",
+      "7 - 1",
+      "10 - 4",
+      "9 - 2"
+    ],
+    "answer": 0,
+    "explanation": "Oito menos três é igual a cinco."
+  },
+  {
+    "subject": "matematica",
+    "world": "mat-subtracao",
+    "topic": "Subtração",
+    "level": "Fácil",
+    "prompt": "Quanto é 12 menos 2?",
+    "options": [
+      "8",
+      "14",
+      "10",
+      "9"
+    ],
+    "answer": 2,
+    "explanation": "Doze menos dois é igual a dez."
+  },
+  {
+    "subject": "matematica",
+    "world": "mat-subtracao",
+    "topic": "Subtração",
+    "level": "Médio",
+    "prompt": "Pense com atenção: Quanto é 12 menos 2?",
+    "options": [
+      "10",
+      "8",
+      "9",
+      "14"
+    ],
+    "answer": 0,
+    "explanation": "Doze menos dois é igual a dez."
+  },
+  {
+    "subject": "matematica",
+    "world": "mat-subtracao",
+    "topic": "Subtração",
+    "level": "Desafio",
+    "prompt": "Desafio: Quanto é 12 menos 2?",
+    "options": [
+      "8",
+      "14",
+      "9",
+      "10"
+    ],
+    "answer": 3,
+    "explanation": "Doze menos dois é igual a dez."
+  },
+  {
+    "subject": "matematica",
+    "world": "mat-subtracao",
+    "topic": "Subtração",
+    "level": "Fácil",
+    "prompt": "Você tem 7 carrinhos e entrega 1. Com quantos fica?",
+    "options": [
+      "5",
+      "8",
+      "6",
+      "7"
+    ],
+    "answer": 2,
+    "explanation": "Sete menos um é igual a seis."
+  },
+  {
+    "subject": "matematica",
+    "world": "mat-subtracao",
+    "topic": "Subtração",
+    "level": "Médio",
+    "prompt": "Pense com atenção: Você tem 7 carrinhos e entrega 1. Com quantos fica?",
+    "options": [
+      "8",
+      "7",
+      "5",
+      "6"
+    ],
+    "answer": 3,
+    "explanation": "Sete menos um é igual a seis."
+  },
+  {
+    "subject": "matematica",
+    "world": "mat-subtracao",
+    "topic": "Subtração",
+    "level": "Desafio",
+    "prompt": "Desafio: Você tem 7 carrinhos e entrega 1. Com quantos fica?",
+    "options": [
+      "8",
+      "7",
+      "5",
+      "6"
+    ],
+    "answer": 3,
+    "explanation": "Sete menos um é igual a seis."
+  },
+  {
+    "subject": "matematica",
+    "world": "mat-formas",
+    "topic": "Formas geométricas",
+    "level": "Fácil",
+    "prompt": "Qual forma possui três lados?",
+    "options": [
+      "Círculo",
+      "Quadrado",
+      "Retângulo",
+      "Triângulo"
+    ],
+    "answer": 3,
+    "explanation": "O triângulo possui três lados."
+  },
+  {
+    "subject": "matematica",
+    "world": "mat-formas",
+    "topic": "Formas geométricas",
+    "level": "Médio",
+    "prompt": "Pense com atenção: Qual forma possui três lados?",
+    "options": [
+      "Retângulo",
+      "Triângulo",
+      "Círculo",
+      "Quadrado"
+    ],
+    "answer": 1,
+    "explanation": "O triângulo possui três lados."
+  },
+  {
+    "subject": "matematica",
+    "world": "mat-formas",
+    "topic": "Formas geométricas",
+    "level": "Desafio",
+    "prompt": "Desafio: Qual forma possui três lados?",
+    "options": [
+      "Círculo",
+      "Triângulo",
+      "Retângulo",
+      "Quadrado"
+    ],
+    "answer": 1,
+    "explanation": "O triângulo possui três lados."
+  },
+  {
+    "subject": "matematica",
+    "world": "mat-formas",
+    "topic": "Formas geométricas",
+    "level": "Fácil",
+    "prompt": "Qual forma é redonda e não possui lados?",
+    "options": [
+      "Triângulo",
+      "Círculo",
+      "Retângulo",
+      "Quadrado"
+    ],
+    "answer": 1,
+    "explanation": "O círculo é redondo e não possui lados retos."
+  },
+  {
+    "subject": "matematica",
+    "world": "mat-formas",
+    "topic": "Formas geométricas",
+    "level": "Médio",
+    "prompt": "Pense com atenção: Qual forma é redonda e não possui lados?",
+    "options": [
+      "Quadrado",
+      "Retângulo",
+      "Círculo",
+      "Triângulo"
+    ],
+    "answer": 2,
+    "explanation": "O círculo é redondo e não possui lados retos."
+  },
+  {
+    "subject": "matematica",
+    "world": "mat-formas",
+    "topic": "Formas geométricas",
+    "level": "Desafio",
+    "prompt": "Desafio: Qual forma é redonda e não possui lados?",
+    "options": [
+      "Triângulo",
+      "Quadrado",
+      "Círculo",
+      "Retângulo"
+    ],
+    "answer": 2,
+    "explanation": "O círculo é redondo e não possui lados retos."
+  },
+  {
+    "subject": "matematica",
+    "world": "mat-formas",
+    "topic": "Formas geométricas",
+    "level": "Fácil",
+    "prompt": "Qual forma possui quatro lados do mesmo tamanho?",
+    "options": [
+      "Círculo",
+      "Retângulo",
+      "Quadrado",
+      "Triângulo"
+    ],
+    "answer": 2,
+    "explanation": "O quadrado possui quatro lados do mesmo tamanho."
+  },
+  {
+    "subject": "matematica",
+    "world": "mat-formas",
+    "topic": "Formas geométricas",
+    "level": "Médio",
+    "prompt": "Pense com atenção: Qual forma possui quatro lados do mesmo tamanho?",
+    "options": [
+      "Círculo",
+      "Quadrado",
+      "Retângulo",
+      "Triângulo"
+    ],
+    "answer": 1,
+    "explanation": "O quadrado possui quatro lados do mesmo tamanho."
+  },
+  {
+    "subject": "matematica",
+    "world": "mat-formas",
+    "topic": "Formas geométricas",
+    "level": "Desafio",
+    "prompt": "Desafio: Qual forma possui quatro lados do mesmo tamanho?",
+    "options": [
+      "Retângulo",
+      "Círculo",
+      "Triângulo",
+      "Quadrado"
+    ],
+    "answer": 3,
+    "explanation": "O quadrado possui quatro lados do mesmo tamanho."
+  },
+  {
+    "subject": "matematica",
+    "world": "mat-formas",
+    "topic": "Formas geométricas",
+    "level": "Fácil",
+    "prompt": "Qual forma se parece com uma porta?",
+    "options": [
+      "Retângulo",
+      "Círculo",
+      "Esfera",
+      "Triângulo"
+    ],
+    "answer": 0,
+    "explanation": "Uma porta geralmente tem forma retangular."
+  },
+  {
+    "subject": "matematica",
+    "world": "mat-formas",
+    "topic": "Formas geométricas",
+    "level": "Médio",
+    "prompt": "Pense com atenção: Qual forma se parece com uma porta?",
+    "options": [
+      "Triângulo",
+      "Retângulo",
+      "Esfera",
+      "Círculo"
+    ],
+    "answer": 1,
+    "explanation": "Uma porta geralmente tem forma retangular."
+  },
+  {
+    "subject": "matematica",
+    "world": "mat-formas",
+    "topic": "Formas geométricas",
+    "level": "Desafio",
+    "prompt": "Desafio: Qual forma se parece com uma porta?",
+    "options": [
+      "Triângulo",
+      "Esfera",
+      "Retângulo",
+      "Círculo"
+    ],
+    "answer": 2,
+    "explanation": "Uma porta geralmente tem forma retangular."
+  },
+  {
+    "subject": "matematica",
+    "world": "mat-formas",
+    "topic": "Formas geométricas",
+    "level": "Fácil",
+    "prompt": "Quantos lados possui um quadrado?",
+    "options": [
+      "5",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": 3,
+    "explanation": "O quadrado possui quatro lados."
+  },
+  {
+    "subject": "matematica",
+    "world": "mat-formas",
+    "topic": "Formas geométricas",
+    "level": "Médio",
+    "prompt": "Pense com atenção: Quantos lados possui um quadrado?",
+    "options": [
+      "3",
+      "4",
+      "2",
+      "5"
+    ],
+    "answer": 1,
+    "explanation": "O quadrado possui quatro lados."
+  },
+  {
+    "subject": "matematica",
+    "world": "mat-formas",
+    "topic": "Formas geométricas",
+    "level": "Desafio",
+    "prompt": "Desafio: Quantos lados possui um quadrado?",
+    "options": [
+      "5",
+      "3",
+      "4",
+      "2"
+    ],
+    "answer": 2,
+    "explanation": "O quadrado possui quatro lados."
+  },
+  {
+    "subject": "matematica",
+    "world": "mat-formas",
+    "topic": "Formas geométricas",
+    "level": "Fácil",
+    "prompt": "Quantos lados possui um triângulo?",
+    "options": [
+      "5",
+      "3",
+      "2",
+      "4"
+    ],
+    "answer": 1,
+    "explanation": "O triângulo possui três lados."
+  },
+  {
+    "subject": "matematica",
+    "world": "mat-formas",
+    "topic": "Formas geométricas",
+    "level": "Médio",
+    "prompt": "Pense com atenção: Quantos lados possui um triângulo?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "answer": 1,
+    "explanation": "O triângulo possui três lados."
+  },
+  {
+    "subject": "matematica",
+    "world": "mat-formas",
+    "topic": "Formas geométricas",
+    "level": "Desafio",
+    "prompt": "Desafio: Quantos lados possui um triângulo?",
+    "options": [
+      "2",
+      "5",
+      "4",
+      "3"
+    ],
+    "answer": 3,
+    "explanation": "O triângulo possui três lados."
+  },
+  {
+    "subject": "matematica",
+    "world": "mat-formas",
+    "topic": "Formas geométricas",
+    "level": "Fácil",
+    "prompt": "Qual objeto lembra um círculo?",
+    "options": [
+      "Porta",
+      "Régua",
+      "Livro",
+      "Moeda"
+    ],
+    "answer": 3,
+    "explanation": "Uma moeda vista de frente lembra um círculo."
+  },
+  {
+    "subject": "matematica",
+    "world": "mat-formas",
+    "topic": "Formas geométricas",
+    "level": "Médio",
+    "prompt": "Pense com atenção: Qual objeto lembra um círculo?",
+    "options": [
+      "Livro",
+      "Moeda",
+      "Porta",
+      "Régua"
+    ],
+    "answer": 1,
+    "explanation": "Uma moeda vista de frente lembra um círculo."
+  },
+  {
+    "subject": "matematica",
+    "world": "mat-formas",
+    "topic": "Formas geométricas",
+    "level": "Desafio",
+    "prompt": "Desafio: Qual objeto lembra um círculo?",
+    "options": [
+      "Porta",
+      "Moeda",
+      "Régua",
+      "Livro"
+    ],
+    "answer": 1,
+    "explanation": "Uma moeda vista de frente lembra um círculo."
+  },
+  {
+    "subject": "matematica",
+    "world": "mat-formas",
+    "topic": "Formas geométricas",
+    "level": "Fácil",
+    "prompt": "Qual objeto lembra um retângulo?",
+    "options": [
+      "Livro",
+      "Bola",
+      "Cone",
+      "Moeda"
+    ],
+    "answer": 0,
+    "explanation": "A capa de um livro geralmente lembra um retângulo."
+  },
+  {
+    "subject": "matematica",
+    "world": "mat-formas",
+    "topic": "Formas geométricas",
+    "level": "Médio",
+    "prompt": "Pense com atenção: Qual objeto lembra um retângulo?",
+    "options": [
+      "Bola",
+      "Livro",
+      "Cone",
+      "Moeda"
+    ],
+    "answer": 1,
+    "explanation": "A capa de um livro geralmente lembra um retângulo."
+  },
+  {
+    "subject": "matematica",
+    "world": "mat-formas",
+    "topic": "Formas geométricas",
+    "level": "Desafio",
+    "prompt": "Desafio: Qual objeto lembra um retângulo?",
+    "options": [
+      "Cone",
+      "Moeda",
+      "Livro",
+      "Bola"
+    ],
+    "answer": 2,
+    "explanation": "A capa de um livro geralmente lembra um retângulo."
+  },
+  {
+    "subject": "matematica",
+    "world": "mat-formas",
+    "topic": "Formas geométricas",
+    "level": "Fácil",
+    "prompt": "Qual forma tem quatro cantos?",
+    "options": [
+      "Esfera",
+      "Quadrado",
+      "Oval",
+      "Círculo"
+    ],
+    "answer": 1,
+    "explanation": "O quadrado possui quatro cantos."
+  },
+  {
+    "subject": "matematica",
+    "world": "mat-formas",
+    "topic": "Formas geométricas",
+    "level": "Médio",
+    "prompt": "Pense com atenção: Qual forma tem quatro cantos?",
+    "options": [
+      "Esfera",
+      "Quadrado",
+      "Círculo",
+      "Oval"
+    ],
+    "answer": 1,
+    "explanation": "O quadrado possui quatro cantos."
+  },
+  {
+    "subject": "matematica",
+    "world": "mat-formas",
+    "topic": "Formas geométricas",
+    "level": "Desafio",
+    "prompt": "Desafio: Qual forma tem quatro cantos?",
+    "options": [
+      "Esfera",
+      "Quadrado",
+      "Círculo",
+      "Oval"
+    ],
+    "answer": 1,
+    "explanation": "O quadrado possui quatro cantos."
+  },
+  {
+    "subject": "matematica",
+    "world": "mat-formas",
+    "topic": "Formas geométricas",
+    "level": "Fácil",
+    "prompt": "Qual alternativa apresenta apenas formas geométricas?",
+    "options": [
+      "Círculo, quadrado e triângulo",
+      "Mesa, cadeira e lápis",
+      "Azul, verde e amarelo",
+      "Dia, mês e ano"
+    ],
+    "answer": 0,
+    "explanation": "Círculo, quadrado e triângulo são formas geométricas."
+  },
+  {
+    "subject": "matematica",
+    "world": "mat-formas",
+    "topic": "Formas geométricas",
+    "level": "Médio",
+    "prompt": "Pense com atenção: Qual alternativa apresenta apenas formas geométricas?",
+    "options": [
+      "Mesa, cadeira e lápis",
+      "Círculo, quadrado e triângulo",
+      "Azul, verde e amarelo",
+      "Dia, mês e ano"
+    ],
+    "answer": 1,
+    "explanation": "Círculo, quadrado e triângulo são formas geométricas."
+  },
+  {
+    "subject": "matematica",
+    "world": "mat-formas",
+    "topic": "Formas geométricas",
+    "level": "Desafio",
+    "prompt": "Desafio: Qual alternativa apresenta apenas formas geométricas?",
+    "options": [
+      "Mesa, cadeira e lápis",
+      "Azul, verde e amarelo",
+      "Círculo, quadrado e triângulo",
+      "Dia, mês e ano"
+    ],
+    "answer": 2,
+    "explanation": "Círculo, quadrado e triângulo são formas geométricas."
+  },
+  {
+    "subject": "matematica",
+    "world": "mat-medidas",
+    "topic": "Medidas",
+    "level": "Fácil",
+    "prompt": "Qual instrumento mede o comprimento de um caderno?",
+    "options": [
+      "Copo",
+      "Calendário",
+      "Relógio",
+      "Régua"
+    ],
+    "answer": 3,
+    "explanation": "A régua mede o comprimento de objetos pequenos."
+  },
+  {
+    "subject": "matematica",
+    "world": "mat-medidas",
+    "topic": "Medidas",
+    "level": "Médio",
+    "prompt": "Pense com atenção: Qual instrumento mede o comprimento de um caderno?",
+    "options": [
+      "Copo",
+      "Relógio",
+      "Calendário",
+      "Régua"
+    ],
+    "answer": 3,
+    "explanation": "A régua mede o comprimento de objetos pequenos."
+  },
+  {
+    "subject": "matematica",
+    "world": "mat-medidas",
+    "topic": "Medidas",
+    "level": "Desafio",
+    "prompt": "Desafio: Qual instrumento mede o comprimento de um caderno?",
+    "options": [
+      "Calendário",
+      "Relógio",
+      "Copo",
+      "Régua"
+    ],
+    "answer": 3,
+    "explanation": "A régua mede o comprimento de objetos pequenos."
+  },
+  {
+    "subject": "matematica",
+    "world": "mat-medidas",
+    "topic": "Medidas",
+    "level": "Fácil",
+    "prompt": "Qual palavra indica maior altura?",
+    "options": [
+      "Curto",
+      "Baixo",
+      "Leve",
+      "Alto"
+    ],
+    "answer": 3,
+    "explanation": "Alto é uma palavra usada para comparar alturas."
+  },
+  {
+    "subject": "matematica",
+    "world": "mat-medidas",
+    "topic": "Medidas",
+    "level": "Médio",
+    "prompt": "Pense com atenção: Qual palavra indica maior altura?",
+    "options": [
+      "Leve",
+      "Baixo",
+      "Alto",
+      "Curto"
+    ],
+    "answer": 2,
+    "explanation": "Alto é uma palavra usada para comparar alturas."
+  },
+  {
+    "subject": "matematica",
+    "world": "mat-medidas",
+    "topic": "Medidas",
+    "level": "Desafio",
+    "prompt": "Desafio: Qual palavra indica maior altura?",
+    "options": [
+      "Leve",
+      "Baixo",
+      "Alto",
+      "Curto"
+    ],
+    "answer": 2,
+    "explanation": "Alto é uma palavra usada para comparar alturas."
+  },
+  {
+    "subject": "matematica",
+    "world": "mat-medidas",
+    "topic": "Medidas",
+    "level": "Fácil",
+    "prompt": "Qual palavra indica menor comprimento?",
+    "options": [
+      "Alto",
+      "Pesado",
+      "Longo",
+      "Curto"
+    ],
+    "answer": 3,
+    "explanation": "Curto indica menor comprimento."
+  },
+  {
+    "subject": "matematica",
+    "world": "mat-medidas",
+    "topic": "Medidas",
+    "level": "Médio",
+    "prompt": "Pense com atenção: Qual palavra indica menor comprimento?",
+    "options": [
+      "Curto",
+      "Alto",
+      "Pesado",
+      "Longo"
+    ],
+    "answer": 0,
+    "explanation": "Curto indica menor comprimento."
+  },
+  {
+    "subject": "matematica",
+    "world": "mat-medidas",
+    "topic": "Medidas",
+    "level": "Desafio",
+    "prompt": "Desafio: Qual palavra indica menor comprimento?",
+    "options": [
+      "Curto",
+      "Longo",
+      "Alto",
+      "Pesado"
+    ],
+    "answer": 0,
+    "explanation": "Curto indica menor comprimento."
+  },
+  {
+    "subject": "matematica",
+    "world": "mat-medidas",
+    "topic": "Medidas",
+    "level": "Fácil",
+    "prompt": "Qual objeto costuma ser mais pesado?",
+    "options": [
+      "Geladeira",
+      "Lápis",
+      "Borracha",
+      "Folha de papel"
+    ],
+    "answer": 0,
+    "explanation": "Uma geladeira costuma ser mais pesada que objetos escolares."
+  },
+  {
+    "subject": "matematica",
+    "world": "mat-medidas",
+    "topic": "Medidas",
+    "level": "Médio",
+    "prompt": "Pense com atenção: Qual objeto costuma ser mais pesado?",
+    "options": [
+      "Borracha",
+      "Folha de papel",
+      "Lápis",
+      "Geladeira"
+    ],
+    "answer": 3,
+    "explanation": "Uma geladeira costuma ser mais pesada que objetos escolares."
+  },
+  {
+    "subject": "matematica",
+    "world": "mat-medidas",
+    "topic": "Medidas",
+    "level": "Desafio",
+    "prompt": "Desafio: Qual objeto costuma ser mais pesado?",
+    "options": [
+      "Lápis",
+      "Geladeira",
+      "Borracha",
+      "Folha de papel"
+    ],
+    "answer": 1,
+    "explanation": "Uma geladeira costuma ser mais pesada que objetos escolares."
+  },
+  {
+    "subject": "matematica",
+    "world": "mat-medidas",
+    "topic": "Medidas",
+    "level": "Fácil",
+    "prompt": "Qual recipiente costuma ter maior capacidade?",
+    "options": [
+      "Colher",
+      "Xícara",
+      "Tampinha",
+      "Balde"
+    ],
+    "answer": 3,
+    "explanation": "Um balde costuma comportar mais líquido."
+  },
+  {
+    "subject": "matematica",
+    "world": "mat-medidas",
+    "topic": "Medidas",
+    "level": "Médio",
+    "prompt": "Pense com atenção: Qual recipiente costuma ter maior capacidade?",
+    "options": [
+      "Xícara",
+      "Tampinha",
+      "Balde",
+      "Colher"
+    ],
+    "answer": 2,
+    "explanation": "Um balde costuma comportar mais líquido."
+  },
+  {
+    "subject": "matematica",
+    "world": "mat-medidas",
+    "topic": "Medidas",
+    "level": "Desafio",
+    "prompt": "Desafio: Qual recipiente costuma ter maior capacidade?",
+    "options": [
+      "Colher",
+      "Balde",
+      "Xícara",
+      "Tampinha"
+    ],
+    "answer": 1,
+    "explanation": "Um balde costuma comportar mais líquido."
+  },
+  {
+    "subject": "matematica",
+    "world": "mat-medidas",
+    "topic": "Tempo",
+    "level": "Fácil",
+    "prompt": "Quantos dias formam uma semana?",
+    "options": [
+      "10",
+      "6",
+      "7",
+      "5"
+    ],
+    "answer": 2,
+    "explanation": "Uma semana é formada por sete dias."
+  },
+  {
+    "subject": "matematica",
+    "world": "mat-medidas",
+    "topic": "Tempo",
+    "level": "Médio",
+    "prompt": "Pense com atenção: Quantos dias formam uma semana?",
+    "options": [
+      "10",
+      "6",
+      "7",
+      "5"
+    ],
+    "answer": 2,
+    "explanation": "Uma semana é formada por sete dias."
+  },
+  {
+    "subject": "matematica",
+    "world": "mat-medidas",
+    "topic": "Tempo",
+    "level": "Desafio",
+    "prompt": "Desafio: Quantos dias formam uma semana?",
+    "options": [
+      "5",
+      "10",
+      "6",
+      "7"
+    ],
+    "answer": 3,
+    "explanation": "Uma semana é formada por sete dias."
+  },
+  {
+    "subject": "matematica",
+    "world": "mat-medidas",
+    "topic": "Tempo",
+    "level": "Fácil",
+    "prompt": "Qual instrumento usamos para saber as horas?",
+    "options": [
+      "Relógio",
+      "Termômetro",
+      "Balança",
+      "Régua"
+    ],
+    "answer": 0,
+    "explanation": "O relógio indica as horas."
+  },
+  {
+    "subject": "matematica",
+    "world": "mat-medidas",
+    "topic": "Tempo",
+    "level": "Médio",
+    "prompt": "Pense com atenção: Qual instrumento usamos para saber as horas?",
+    "options": [
+      "Régua",
+      "Relógio",
+      "Termômetro",
+      "Balança"
+    ],
+    "answer": 1,
+    "explanation": "O relógio indica as horas."
+  },
+  {
+    "subject": "matematica",
+    "world": "mat-medidas",
+    "topic": "Tempo",
+    "level": "Desafio",
+    "prompt": "Desafio: Qual instrumento usamos para saber as horas?",
+    "options": [
+      "Termômetro",
+      "Balança",
+      "Régua",
+      "Relógio"
+    ],
+    "answer": 3,
+    "explanation": "O relógio indica as horas."
+  },
+  {
+    "subject": "matematica",
+    "world": "mat-medidas",
+    "topic": "Tempo",
+    "level": "Fácil",
+    "prompt": "Qual recurso organiza os dias e os meses?",
+    "options": [
+      "Régua",
+      "Balança",
+      "Calendário",
+      "Copo medidor"
+    ],
+    "answer": 2,
+    "explanation": "O calendário organiza dias, semanas e meses."
+  },
+  {
+    "subject": "matematica",
+    "world": "mat-medidas",
+    "topic": "Tempo",
+    "level": "Médio",
+    "prompt": "Pense com atenção: Qual recurso organiza os dias e os meses?",
+    "options": [
+      "Balança",
+      "Calendário",
+      "Copo medidor",
+      "Régua"
+    ],
+    "answer": 1,
+    "explanation": "O calendário organiza dias, semanas e meses."
+  },
+  {
+    "subject": "matematica",
+    "world": "mat-medidas",
+    "topic": "Tempo",
+    "level": "Desafio",
+    "prompt": "Desafio: Qual recurso organiza os dias e os meses?",
+    "options": [
+      "Régua",
+      "Calendário",
+      "Balança",
+      "Copo medidor"
+    ],
+    "answer": 1,
+    "explanation": "O calendário organiza dias, semanas e meses."
+  },
+  {
+    "subject": "matematica",
+    "world": "mat-medidas",
+    "topic": "Comparação",
+    "level": "Fácil",
+    "prompt": "Se uma fita mede 10 centímetros e outra mede 5, qual é a mais longa?",
+    "options": [
+      "As duas têm o mesmo comprimento",
+      "A fita de 5 centímetros",
+      "Não é possível comparar",
+      "A fita de 10 centímetros"
+    ],
+    "answer": 3,
+    "explanation": "Dez centímetros é maior que cinco centímetros."
+  },
+  {
+    "subject": "matematica",
+    "world": "mat-medidas",
+    "topic": "Comparação",
+    "level": "Médio",
+    "prompt": "Pense com atenção: Se uma fita mede 10 centímetros e outra mede 5, qual é a mais longa?",
+    "options": [
+      "As duas têm o mesmo comprimento",
+      "Não é possível comparar",
+      "A fita de 10 centímetros",
+      "A fita de 5 centímetros"
+    ],
+    "answer": 2,
+    "explanation": "Dez centímetros é maior que cinco centímetros."
+  },
+  {
+    "subject": "matematica",
+    "world": "mat-medidas",
+    "topic": "Comparação",
+    "level": "Desafio",
+    "prompt": "Desafio: Se uma fita mede 10 centímetros e outra mede 5, qual é a mais longa?",
+    "options": [
+      "A fita de 10 centímetros",
+      "As duas têm o mesmo comprimento",
+      "A fita de 5 centímetros",
+      "Não é possível comparar"
+    ],
+    "answer": 0,
+    "explanation": "Dez centímetros é maior que cinco centímetros."
+  },
+  {
+    "subject": "matematica",
+    "world": "mat-medidas",
+    "topic": "Comparação",
+    "level": "Fácil",
+    "prompt": "Qual expressão indica que duas quantidades têm o mesmo valor?",
+    "options": [
+      "Maior que",
+      "Distante de",
+      "Igual a",
+      "Menor que"
+    ],
+    "answer": 2,
+    "explanation": "Usamos igual a quando duas quantidades têm o mesmo valor."
+  },
+  {
+    "subject": "matematica",
+    "world": "mat-medidas",
+    "topic": "Comparação",
+    "level": "Médio",
+    "prompt": "Pense com atenção: Qual expressão indica que duas quantidades têm o mesmo valor?",
+    "options": [
+      "Maior que",
+      "Igual a",
+      "Menor que",
+      "Distante de"
+    ],
+    "answer": 1,
+    "explanation": "Usamos igual a quando duas quantidades têm o mesmo valor."
+  },
+  {
+    "subject": "matematica",
+    "world": "mat-medidas",
+    "topic": "Comparação",
+    "level": "Desafio",
+    "prompt": "Desafio: Qual expressão indica que duas quantidades têm o mesmo valor?",
+    "options": [
+      "Igual a",
+      "Distante de",
+      "Menor que",
+      "Maior que"
+    ],
+    "answer": 0,
+    "explanation": "Usamos igual a quando duas quantidades têm o mesmo valor."
+  }
+]
