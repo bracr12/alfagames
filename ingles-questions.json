@@ -1,0 +1,3212 @@
+[
+  {
+    "subject": "ingles",
+    "world": "eng-family",
+    "topic": "Family",
+    "level": "Fácil",
+    "prompt": "Which word means “mãe”?",
+    "options": [
+      "mother",
+      "sister",
+      "brother",
+      "father"
+    ],
+    "answer": 0,
+    "explanation": "Mother means mãe."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-family",
+    "topic": "Family",
+    "level": "Fácil",
+    "prompt": "Which word means “pai”?",
+    "options": [
+      "father",
+      "grandmother",
+      "sister",
+      "mother"
+    ],
+    "answer": 0,
+    "explanation": "Father means pai."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-family",
+    "topic": "Family",
+    "level": "Fácil",
+    "prompt": "Complete: She is my ____.",
+    "options": [
+      "father",
+      "sister",
+      "brother",
+      "grandfather"
+    ],
+    "answer": 1,
+    "explanation": "Sister is used for irmã."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-family",
+    "topic": "Family",
+    "level": "Fácil",
+    "prompt": "Complete: He is my ____.",
+    "options": [
+      "sister",
+      "brother",
+      "mother",
+      "grandmother"
+    ],
+    "answer": 1,
+    "explanation": "Brother is used for irmão."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-family",
+    "topic": "Family",
+    "level": "Fácil",
+    "prompt": "Which word means “família”?",
+    "options": [
+      "garden",
+      "family",
+      "teacher",
+      "house"
+    ],
+    "answer": 1,
+    "explanation": "Family means família."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-family",
+    "topic": "Family",
+    "level": "Fácil",
+    "prompt": "Complete: My mother is a ____.",
+    "options": [
+      "teddy",
+      "table",
+      "train",
+      "teacher"
+    ],
+    "answer": 3,
+    "explanation": "Teacher is a profession."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-family",
+    "topic": "Family",
+    "level": "Fácil",
+    "prompt": "Complete: My father is a ____.",
+    "options": [
+      "doll",
+      "desk",
+      "doctor",
+      "dog"
+    ],
+    "answer": 2,
+    "explanation": "Doctor is a profession."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-family",
+    "topic": "Family",
+    "level": "Fácil",
+    "prompt": "How many children are there in the sentence “There are two children”?",
+    "options": [
+      "three",
+      "one",
+      "two",
+      "four"
+    ],
+    "answer": 2,
+    "explanation": "The sentence says two children."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-family",
+    "topic": "Family",
+    "level": "Fácil",
+    "prompt": "Which sentence introduces a name?",
+    "options": [
+      "She has got a doll.",
+      "There is a dog.",
+      "I like pizza.",
+      "My name is Lucas."
+    ],
+    "answer": 3,
+    "explanation": "My name is... is used to introduce a name."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-family",
+    "topic": "Family",
+    "level": "Fácil",
+    "prompt": "Choose the family word.",
+    "options": [
+      "cupboard",
+      "camera",
+      "chocolate",
+      "grandparents"
+    ],
+    "answer": 3,
+    "explanation": "Grandparents is a family word."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-family",
+    "topic": "Family",
+    "level": "Médio",
+    "prompt": "Complete: What ____ your name?",
+    "options": [
+      "has",
+      "are",
+      "is",
+      "am"
+    ],
+    "answer": 2,
+    "explanation": "We say: What is your name?"
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-family",
+    "topic": "Family",
+    "level": "Médio",
+    "prompt": "Complete: Who ____ your mother?",
+    "options": [
+      "are",
+      "am",
+      "is",
+      "have"
+    ],
+    "answer": 2,
+    "explanation": "Mother is singular, so we use is."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-family",
+    "topic": "Family",
+    "level": "Médio",
+    "prompt": "Complete: How many brothers ____ you got?",
+    "options": [
+      "have",
+      "has",
+      "are",
+      "is"
+    ],
+    "answer": 0,
+    "explanation": "With you, use have got."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-family",
+    "topic": "Family",
+    "level": "Médio",
+    "prompt": "Complete: I ____ two brothers.",
+    "options": [
+      "has got",
+      "have got",
+      "is",
+      "are"
+    ],
+    "answer": 1,
+    "explanation": "With I, use have got."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-family",
+    "topic": "Family",
+    "level": "Médio",
+    "prompt": "Complete: My sister ____ a doll.",
+    "options": [
+      "am",
+      "are",
+      "have got",
+      "has got"
+    ],
+    "answer": 3,
+    "explanation": "With my sister, use has got."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-family",
+    "topic": "Family",
+    "level": "Médio",
+    "prompt": "Complete: We ____ a big family.",
+    "options": [
+      "am",
+      "is",
+      "have got",
+      "has got"
+    ],
+    "answer": 2,
+    "explanation": "With we, use have got."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-family",
+    "topic": "Family",
+    "level": "Médio",
+    "prompt": "Complete: They ____ three children.",
+    "options": [
+      "have got",
+      "am",
+      "has got",
+      "is"
+    ],
+    "answer": 0,
+    "explanation": "With they, use have got."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-family",
+    "topic": "Family",
+    "level": "Médio",
+    "prompt": "Complete: He ____ my father.",
+    "options": [
+      "is",
+      "am",
+      "have",
+      "are"
+    ],
+    "answer": 0,
+    "explanation": "With he, use is."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-family",
+    "topic": "Family",
+    "level": "Médio",
+    "prompt": "Complete: They ____ my grandparents.",
+    "options": [
+      "are",
+      "am",
+      "has",
+      "is"
+    ],
+    "answer": 0,
+    "explanation": "With they, use are."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-family",
+    "topic": "Family",
+    "level": "Médio",
+    "prompt": "Choose the correct sentence.",
+    "options": [
+      "You is my best friend.",
+      "You has my best friend.",
+      "You are my best friend.",
+      "You am my best friend."
+    ],
+    "answer": 2,
+    "explanation": "With you, the verb to be is are."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-family",
+    "topic": "Family",
+    "level": "Desafio",
+    "prompt": "Put the words in order: father / is / my / He.",
+    "options": [
+      "He my father is.",
+      "He is my father.",
+      "My is he father.",
+      "Father he my is."
+    ],
+    "answer": 1,
+    "explanation": "The correct order is: He is my father."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-family",
+    "topic": "Family",
+    "level": "Desafio",
+    "prompt": "Put the words in order: parents / are / teachers / My.",
+    "options": [
+      "My are parents teachers.",
+      "Teachers are my parent.",
+      "My parents are teachers.",
+      "Parents my teachers are."
+    ],
+    "answer": 2,
+    "explanation": "The correct sentence is: My parents are teachers."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-family",
+    "topic": "Family",
+    "level": "Desafio",
+    "prompt": "Which question asks about identity?",
+    "options": [
+      "Who is your father?",
+      "How many is your father?",
+      "When is your father?",
+      "Where is your father?"
+    ],
+    "answer": 0,
+    "explanation": "Who asks about a person."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-family",
+    "topic": "Family",
+    "level": "Desafio",
+    "prompt": "Which question asks about quantity?",
+    "options": [
+      "How many brothers have you got?",
+      "Who brothers have you got?",
+      "Where brothers have you got?",
+      "Why brothers have you got?"
+    ],
+    "answer": 0,
+    "explanation": "How many asks about quantity."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-family",
+    "topic": "Family",
+    "level": "Desafio",
+    "prompt": "Read: Lucas lives with his father, mother and sister. Who is in Lucas’s family?",
+    "options": [
+      "His father, mother and sister.",
+      "His grandparents only.",
+      "His teacher and doctor.",
+      "His friends and dog only."
+    ],
+    "answer": 0,
+    "explanation": "The text names his father, mother and sister."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-family",
+    "topic": "Family",
+    "level": "Desafio",
+    "prompt": "Read: Julia is five years old. How old is Julia?",
+    "options": [
+      "The text does not say.",
+      "She is five years old.",
+      "She is ten years old.",
+      "She is seven years old."
+    ],
+    "answer": 1,
+    "explanation": "The text says Julia is five years old."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-family",
+    "topic": "Family",
+    "level": "Desafio",
+    "prompt": "Complete correctly: My brother and I ____ brothers.",
+    "options": [
+      "are",
+      "is",
+      "has",
+      "am"
+    ],
+    "answer": 0,
+    "explanation": "A plural subject uses are."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-family",
+    "topic": "Family",
+    "level": "Desafio",
+    "prompt": "Choose the correct negative sentence.",
+    "options": [
+      "She not has a bicycle.",
+      "She is not got a bicycle.",
+      "She has not got a bicycle.",
+      "She have not got a bicycle."
+    ],
+    "answer": 2,
+    "explanation": "With she, use has not got."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-family",
+    "topic": "Family",
+    "level": "Desafio",
+    "prompt": "Choose the correct question.",
+    "options": [
+      "Have you got a sister?",
+      "You have got a sister?",
+      "Are you got a sister?",
+      "Has you got a sister?"
+    ],
+    "answer": 0,
+    "explanation": "The question form with you is Have you got...?"
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-family",
+    "topic": "Family",
+    "level": "Desafio",
+    "prompt": "Which answer matches “How many children have they got?”",
+    "options": [
+      "They have got two children.",
+      "They are children.",
+      "They has got a child.",
+      "They live in a house."
+    ],
+    "answer": 0,
+    "explanation": "The answer gives the number of children."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-grammar",
+    "topic": "Grammar",
+    "level": "Fácil",
+    "prompt": "Complete: I ____ a student.",
+    "options": [
+      "are",
+      "am",
+      "has",
+      "is"
+    ],
+    "answer": 1,
+    "explanation": "With I, use am."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-grammar",
+    "topic": "Grammar",
+    "level": "Fácil",
+    "prompt": "Complete: He ____ my father.",
+    "options": [
+      "have",
+      "am",
+      "are",
+      "is"
+    ],
+    "answer": 3,
+    "explanation": "With he, use is."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-grammar",
+    "topic": "Grammar",
+    "level": "Fácil",
+    "prompt": "Complete: She ____ my mother.",
+    "options": [
+      "am",
+      "is",
+      "are",
+      "have"
+    ],
+    "answer": 1,
+    "explanation": "With she, use is."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-grammar",
+    "topic": "Grammar",
+    "level": "Fácil",
+    "prompt": "Complete: It ____ a dog.",
+    "options": [
+      "am",
+      "is",
+      "have",
+      "are"
+    ],
+    "answer": 1,
+    "explanation": "With it, use is."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-grammar",
+    "topic": "Grammar",
+    "level": "Fácil",
+    "prompt": "Complete: We ____ a happy family.",
+    "options": [
+      "are",
+      "has",
+      "am",
+      "is"
+    ],
+    "answer": 0,
+    "explanation": "With we, use are."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-grammar",
+    "topic": "Grammar",
+    "level": "Fácil",
+    "prompt": "Complete: They ____ my grandparents.",
+    "options": [
+      "is",
+      "are",
+      "has",
+      "am"
+    ],
+    "answer": 1,
+    "explanation": "With they, use are."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-grammar",
+    "topic": "Grammar",
+    "level": "Fácil",
+    "prompt": "Complete: You ____ my friend.",
+    "options": [
+      "is",
+      "am",
+      "are",
+      "has"
+    ],
+    "answer": 2,
+    "explanation": "With you, use are."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-grammar",
+    "topic": "Grammar",
+    "level": "Fácil",
+    "prompt": "Choose the singular form.",
+    "options": [
+      "We are",
+      "They are",
+      "There are",
+      "There is"
+    ],
+    "answer": 3,
+    "explanation": "There is is used with one thing."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-grammar",
+    "topic": "Grammar",
+    "level": "Fácil",
+    "prompt": "Choose the plural form.",
+    "options": [
+      "There are",
+      "He is",
+      "It is",
+      "There is"
+    ],
+    "answer": 0,
+    "explanation": "There are is used with two or more things."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-grammar",
+    "topic": "Grammar",
+    "level": "Fácil",
+    "prompt": "Complete: There ____ a cat.",
+    "options": [
+      "am",
+      "is",
+      "have",
+      "are"
+    ],
+    "answer": 1,
+    "explanation": "One cat takes There is."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-grammar",
+    "topic": "Grammar",
+    "level": "Médio",
+    "prompt": "Complete: There ____ two children.",
+    "options": [
+      "are",
+      "is",
+      "am",
+      "has"
+    ],
+    "answer": 0,
+    "explanation": "Two children is plural, so use are."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-grammar",
+    "topic": "Grammar",
+    "level": "Médio",
+    "prompt": "Complete: There ____ a dog.",
+    "options": [
+      "am",
+      "is",
+      "have",
+      "are"
+    ],
+    "answer": 1,
+    "explanation": "A dog is singular, so use is."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-grammar",
+    "topic": "Grammar",
+    "level": "Médio",
+    "prompt": "Complete: There ____ four people.",
+    "options": [
+      "has",
+      "is",
+      "am",
+      "are"
+    ],
+    "answer": 3,
+    "explanation": "Four people is plural, so use are."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-grammar",
+    "topic": "Grammar",
+    "level": "Médio",
+    "prompt": "Complete: There ____ a picture on the wall.",
+    "options": [
+      "have",
+      "are",
+      "am",
+      "is"
+    ],
+    "answer": 3,
+    "explanation": "A picture is singular."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-grammar",
+    "topic": "Grammar",
+    "level": "Médio",
+    "prompt": "Complete: There ____ two windows in the room.",
+    "options": [
+      "is",
+      "has",
+      "am",
+      "are"
+    ],
+    "answer": 3,
+    "explanation": "Two windows is plural."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-grammar",
+    "topic": "Grammar",
+    "level": "Médio",
+    "prompt": "Complete: My cat ____ small.",
+    "options": [
+      "are",
+      "am",
+      "is",
+      "have"
+    ],
+    "answer": 2,
+    "explanation": "My cat is singular, so use is."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-grammar",
+    "topic": "Grammar",
+    "level": "Médio",
+    "prompt": "Complete: The books ____ on the table.",
+    "options": [
+      "has",
+      "am",
+      "are",
+      "is"
+    ],
+    "answer": 2,
+    "explanation": "Books is plural, so use are."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-grammar",
+    "topic": "Grammar",
+    "level": "Médio",
+    "prompt": "Choose the correct sentence.",
+    "options": [
+      "The baby are sleeping.",
+      "The baby is sleeping.",
+      "The baby am sleeping.",
+      "The baby have sleeping."
+    ],
+    "answer": 1,
+    "explanation": "Baby is singular, so use is."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-grammar",
+    "topic": "Grammar",
+    "level": "Médio",
+    "prompt": "Choose the correct sentence.",
+    "options": [
+      "My parents is at work.",
+      "My parents are at work.",
+      "My parents am at work.",
+      "My parents has at work."
+    ],
+    "answer": 1,
+    "explanation": "Parents is plural, so use are."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-grammar",
+    "topic": "Grammar",
+    "level": "Médio",
+    "prompt": "Choose the correct sentence.",
+    "options": [
+      "The dogs is in the yard.",
+      "The dogs are in the yard.",
+      "The dogs am in the yard.",
+      "The dogs has in the yard."
+    ],
+    "answer": 1,
+    "explanation": "Dogs is plural, so use are."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-grammar",
+    "topic": "Grammar",
+    "level": "Desafio",
+    "prompt": "Choose the correct sentence.",
+    "options": [
+      "There has three chairs in the room.",
+      "There am three chairs in the room.",
+      "There is three chairs in the room.",
+      "There are three chairs in the room."
+    ],
+    "answer": 3,
+    "explanation": "Three chairs requires There are."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-grammar",
+    "topic": "Grammar",
+    "level": "Desafio",
+    "prompt": "Choose the correct sentence.",
+    "options": [
+      "There have one cupboard in the kitchen.",
+      "There am one cupboard in the kitchen.",
+      "There are one cupboard in the kitchen.",
+      "There is one cupboard in the kitchen."
+    ],
+    "answer": 3,
+    "explanation": "One cupboard requires There is."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-grammar",
+    "topic": "Grammar",
+    "level": "Desafio",
+    "prompt": "Put the words in order: a / there / dog / is.",
+    "options": [
+      "Dog is there a.",
+      "A there is dog.",
+      "There is a dog.",
+      "There a dog is."
+    ],
+    "answer": 2,
+    "explanation": "The correct order is There is a dog."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-grammar",
+    "topic": "Grammar",
+    "level": "Desafio",
+    "prompt": "Complete: ____ is your birthday? My birthday is in May.",
+    "options": [
+      "Where",
+      "When",
+      "Who",
+      "How many"
+    ],
+    "answer": 1,
+    "explanation": "When asks about time."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-grammar",
+    "topic": "Grammar",
+    "level": "Desafio",
+    "prompt": "Complete: ____ do you live? I live in Rio.",
+    "options": [
+      "When",
+      "What",
+      "How many",
+      "Where"
+    ],
+    "answer": 3,
+    "explanation": "Where asks about place."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-grammar",
+    "topic": "Grammar",
+    "level": "Desafio",
+    "prompt": "Complete: ____ do you like pizza? Because it is delicious.",
+    "options": [
+      "Why",
+      "Who",
+      "What",
+      "Where"
+    ],
+    "answer": 0,
+    "explanation": "Why asks for a reason."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-grammar",
+    "topic": "Grammar",
+    "level": "Desafio",
+    "prompt": "Complete: ____ is your name? My name is Ana.",
+    "options": [
+      "Where",
+      "When",
+      "What",
+      "Why"
+    ],
+    "answer": 2,
+    "explanation": "What is used to ask a name."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-grammar",
+    "topic": "Grammar",
+    "level": "Desafio",
+    "prompt": "Complete: ____ pets have you got?",
+    "options": [
+      "How many",
+      "Where",
+      "Who",
+      "When"
+    ],
+    "answer": 0,
+    "explanation": "How many asks about quantity."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-grammar",
+    "topic": "Grammar",
+    "level": "Desafio",
+    "prompt": "Choose the correct pair.",
+    "options": [
+      "I has / They have",
+      "I is / They am",
+      "I am / They are",
+      "I are / They is"
+    ],
+    "answer": 2,
+    "explanation": "I takes am, and they takes are."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-grammar",
+    "topic": "Grammar",
+    "level": "Desafio",
+    "prompt": "Choose the correct sentence.",
+    "options": [
+      "We has a happy family.",
+      "We am a happy family.",
+      "We is a happy family.",
+      "We are a happy family."
+    ],
+    "answer": 3,
+    "explanation": "With we, use are."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-food",
+    "topic": "Food and likes",
+    "level": "Fácil",
+    "prompt": "Which word names a fruit?",
+    "options": [
+      "chair",
+      "teacher",
+      "train",
+      "banana"
+    ],
+    "answer": 3,
+    "explanation": "Banana is a fruit."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-food",
+    "topic": "Food and likes",
+    "level": "Fácil",
+    "prompt": "Which word names a drink?",
+    "options": [
+      "table",
+      "camera",
+      "doll",
+      "milk"
+    ],
+    "answer": 3,
+    "explanation": "Milk is a drink."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-food",
+    "topic": "Food and likes",
+    "level": "Fácil",
+    "prompt": "Which word names a vegetable?",
+    "options": [
+      "ball",
+      "broccoli",
+      "cake",
+      "teddy"
+    ],
+    "answer": 1,
+    "explanation": "Broccoli is a vegetable."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-food",
+    "topic": "Food and likes",
+    "level": "Fácil",
+    "prompt": "Which word names a dessert?",
+    "options": [
+      "ice cream",
+      "fish",
+      "carrot",
+      "salad"
+    ],
+    "answer": 0,
+    "explanation": "Ice cream is a dessert."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-food",
+    "topic": "Food and likes",
+    "level": "Fácil",
+    "prompt": "Which word means “maçã”?",
+    "options": [
+      "apple",
+      "bean",
+      "grape",
+      "orange"
+    ],
+    "answer": 0,
+    "explanation": "Apple means maçã."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-food",
+    "topic": "Food and likes",
+    "level": "Fácil",
+    "prompt": "Which word means “cenoura”?",
+    "options": [
+      "milk",
+      "carrot",
+      "fish",
+      "cake"
+    ],
+    "answer": 1,
+    "explanation": "Carrot means cenoura."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-food",
+    "topic": "Food and likes",
+    "level": "Fácil",
+    "prompt": "Which word means “peixe”?",
+    "options": [
+      "fish",
+      "chocolate",
+      "salad",
+      "pizza"
+    ],
+    "answer": 0,
+    "explanation": "Fish means peixe."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-food",
+    "topic": "Food and likes",
+    "level": "Fácil",
+    "prompt": "Complete: I ____ pizza.",
+    "options": [
+      "like",
+      "there are",
+      "am",
+      "has got"
+    ],
+    "answer": 0,
+    "explanation": "Like expresses preference."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-food",
+    "topic": "Food and likes",
+    "level": "Fácil",
+    "prompt": "Complete: I ____ broccoli.",
+    "options": [
+      "do not like",
+      "is",
+      "has got",
+      "there is"
+    ],
+    "answer": 0,
+    "explanation": "Do not like expresses a negative preference."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-food",
+    "topic": "Food and likes",
+    "level": "Fácil",
+    "prompt": "Choose the food word.",
+    "options": [
+      "cake",
+      "garden",
+      "bike",
+      "eyes"
+    ],
+    "answer": 0,
+    "explanation": "Cake is food."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-food",
+    "topic": "Food and likes",
+    "level": "Médio",
+    "prompt": "Choose the correct sentence.",
+    "options": [
+      "I have bananas like.",
+      "I like bananas.",
+      "I am like bananas.",
+      "I likes bananas."
+    ],
+    "answer": 1,
+    "explanation": "With I, use like."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-food",
+    "topic": "Food and likes",
+    "level": "Médio",
+    "prompt": "Choose the correct sentence.",
+    "options": [
+      "I am not like apples.",
+      "I do not like apples.",
+      "I does not like apples.",
+      "I not like apples."
+    ],
+    "answer": 1,
+    "explanation": "The negative form is I do not like."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-food",
+    "topic": "Food and likes",
+    "level": "Médio",
+    "prompt": "Choose the correct question.",
+    "options": [
+      "Do you like rice?",
+      "Does you like rice?",
+      "Are you like rice?",
+      "You do like rice?"
+    ],
+    "answer": 0,
+    "explanation": "With you, the question is Do you like...?"
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-food",
+    "topic": "Food and likes",
+    "level": "Médio",
+    "prompt": "Complete: We ____ pizza, but we do not like salad.",
+    "options": [
+      "has got",
+      "like",
+      "likes",
+      "are"
+    ],
+    "answer": 1,
+    "explanation": "With we, use like."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-food",
+    "topic": "Food and likes",
+    "level": "Médio",
+    "prompt": "Complete: They ____ apples.",
+    "options": [
+      "is",
+      "has",
+      "like",
+      "likes"
+    ],
+    "answer": 2,
+    "explanation": "With they, use like."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-food",
+    "topic": "Food and likes",
+    "level": "Médio",
+    "prompt": "Complete: I ____ eggs.",
+    "options": [
+      "has not got",
+      "am not like",
+      "does not like",
+      "do not like"
+    ],
+    "answer": 3,
+    "explanation": "With I, use do not like."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-food",
+    "topic": "Food and likes",
+    "level": "Médio",
+    "prompt": "Which response matches “Do you like orange?”",
+    "options": [
+      "Yes, I do.",
+      "Yes, there is.",
+      "Yes, I am.",
+      "Yes, I have."
+    ],
+    "answer": 0,
+    "explanation": "Questions with Do are answered with do or do not."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-food",
+    "topic": "Food and likes",
+    "level": "Médio",
+    "prompt": "Which response matches a negative preference?",
+    "options": [
+      "No, I do not.",
+      "No, I have got.",
+      "No, I am not.",
+      "No, there are not."
+    ],
+    "answer": 0,
+    "explanation": "No, I do not is a negative response to Do you like...?."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-food",
+    "topic": "Food and likes",
+    "level": "Médio",
+    "prompt": "Choose the correct plural food word.",
+    "options": [
+      "grapes",
+      "grape is",
+      "a grapes",
+      "grapess"
+    ],
+    "answer": 0,
+    "explanation": "Grapes is the correct plural form."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-food",
+    "topic": "Food and likes",
+    "level": "Médio",
+    "prompt": "Which sentence talks about a preference?",
+    "options": [
+      "I have got chocolate.",
+      "I like chocolate.",
+      "There is chocolate.",
+      "Chocolate is brown."
+    ],
+    "answer": 1,
+    "explanation": "I like... expresses preference."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-food",
+    "topic": "Food and likes",
+    "level": "Desafio",
+    "prompt": "Put the words in order: like / do not / I / vegetables.",
+    "options": [
+      "I like not do vegetables.",
+      "I vegetables do not like.",
+      "Do not vegetables I like.",
+      "I do not like vegetables."
+    ],
+    "answer": 3,
+    "explanation": "The correct order is I do not like vegetables."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-food",
+    "topic": "Food and likes",
+    "level": "Desafio",
+    "prompt": "Put the words in order: you / do / like / apples?",
+    "options": [
+      "Do apples you like?",
+      "Like do you apples?",
+      "Do you like apples?",
+      "You do like apples?"
+    ],
+    "answer": 2,
+    "explanation": "The correct question is Do you like apples?"
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-food",
+    "topic": "Food and likes",
+    "level": "Desafio",
+    "prompt": "Choose the best answer: Why do you like pizza?",
+    "options": [
+      "There are two pizzas.",
+      "It is in the kitchen.",
+      "Because it is delicious.",
+      "I am seven."
+    ],
+    "answer": 2,
+    "explanation": "Because gives a reason."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-food",
+    "topic": "Food and likes",
+    "level": "Desafio",
+    "prompt": "Read: Ana likes pizza and milk, but she does not like fish. What does Ana not like?",
+    "options": [
+      "cake",
+      "pizza",
+      "fish",
+      "milk"
+    ],
+    "answer": 2,
+    "explanation": "The sentence says she does not like fish."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-food",
+    "topic": "Food and likes",
+    "level": "Desafio",
+    "prompt": "Read: Tom likes bananas and grapes. Which two fruits does Tom like?",
+    "options": [
+      "bananas and grapes",
+      "apples and oranges",
+      "milk and cake",
+      "carrots and broccoli"
+    ],
+    "answer": 0,
+    "explanation": "The text names bananas and grapes."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-food",
+    "topic": "Food and likes",
+    "level": "Desafio",
+    "prompt": "Complete correctly: ____ you ____ watermelon?",
+    "options": [
+      "Have / got",
+      "Do / like",
+      "Does / likes",
+      "Are / like"
+    ],
+    "answer": 1,
+    "explanation": "With you, use Do you like...?."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-food",
+    "topic": "Food and likes",
+    "level": "Desafio",
+    "prompt": "Which sentence is grammatically correct?",
+    "options": [
+      "They likes apples.",
+      "They is like apples.",
+      "They like apples.",
+      "They does like apples."
+    ],
+    "answer": 2,
+    "explanation": "With they, use like."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-food",
+    "topic": "Food and likes",
+    "level": "Desafio",
+    "prompt": "Which sentence is grammatically correct?",
+    "options": [
+      "She do not like salad.",
+      "She not likes salad.",
+      "She does not like salad.",
+      "She is not like salad."
+    ],
+    "answer": 2,
+    "explanation": "With she, the negative is does not like."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-food",
+    "topic": "Food and likes",
+    "level": "Desafio",
+    "prompt": "Choose the correct food group.",
+    "options": [
+      "eyes, ears, mouth and legs",
+      "pizza, carrots, fish and cake",
+      "chair, table, camera and ball",
+      "mother, father, sister and brother"
+    ],
+    "answer": 1,
+    "explanation": "All four words are foods."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-food",
+    "topic": "Food and likes",
+    "level": "Desafio",
+    "prompt": "Complete: I like chocolate, but I ____ broccoli.",
+    "options": [
+      "there are not",
+      "am not",
+      "has not got",
+      "do not like"
+    ],
+    "answer": 3,
+    "explanation": "The contrast requires do not like."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-home-toys",
+    "topic": "Home and toys",
+    "level": "Fácil",
+    "prompt": "Which word names a room?",
+    "options": [
+      "banana",
+      "brother",
+      "kitchen",
+      "happy"
+    ],
+    "answer": 2,
+    "explanation": "Kitchen is a room."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-home-toys",
+    "topic": "Home and toys",
+    "level": "Fácil",
+    "prompt": "Which word names a room?",
+    "options": [
+      "grape",
+      "teacher",
+      "living room",
+      "ear"
+    ],
+    "answer": 2,
+    "explanation": "Living room is a room."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-home-toys",
+    "topic": "Home and toys",
+    "level": "Fácil",
+    "prompt": "Which word names an outdoor place at home?",
+    "options": [
+      "milk",
+      "garden",
+      "teddy",
+      "camera"
+    ],
+    "answer": 1,
+    "explanation": "A garden is an outdoor place."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-home-toys",
+    "topic": "Home and toys",
+    "level": "Fácil",
+    "prompt": "Which word names a toy?",
+    "options": [
+      "mouth",
+      "mother",
+      "ball",
+      "paper"
+    ],
+    "answer": 2,
+    "explanation": "A ball is a toy."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-home-toys",
+    "topic": "Home and toys",
+    "level": "Fácil",
+    "prompt": "Which word names a toy?",
+    "options": [
+      "apple",
+      "kitchen",
+      "doll",
+      "doctor"
+    ],
+    "answer": 2,
+    "explanation": "A doll is a toy."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-home-toys",
+    "topic": "Home and toys",
+    "level": "Fácil",
+    "prompt": "Which word names a toy?",
+    "options": [
+      "fish",
+      "family",
+      "train",
+      "fabric"
+    ],
+    "answer": 2,
+    "explanation": "A train can be a toy."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-home-toys",
+    "topic": "Home and toys",
+    "level": "Fácil",
+    "prompt": "Which word means “ursinho”?",
+    "options": [
+      "tissue",
+      "teacher",
+      "table",
+      "teddy"
+    ],
+    "answer": 3,
+    "explanation": "Teddy means teddy bear or ursinho."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-home-toys",
+    "topic": "Home and toys",
+    "level": "Fácil",
+    "prompt": "Which word means “avião”?",
+    "options": [
+      "plant",
+      "paper",
+      "plate",
+      "plane"
+    ],
+    "answer": 3,
+    "explanation": "Plane means avião."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-home-toys",
+    "topic": "Home and toys",
+    "level": "Fácil",
+    "prompt": "Which object is used to take photos?",
+    "options": [
+      "ball",
+      "chair",
+      "camera",
+      "orange"
+    ],
+    "answer": 2,
+    "explanation": "A camera is used to take photos."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-home-toys",
+    "topic": "Home and toys",
+    "level": "Fácil",
+    "prompt": "Which object can you sit on?",
+    "options": [
+      "chair",
+      "cat",
+      "cake",
+      "car"
+    ],
+    "answer": 0,
+    "explanation": "You can sit on a chair."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-home-toys",
+    "topic": "Home and toys",
+    "level": "Médio",
+    "prompt": "Complete: The ball is ____ the box.",
+    "options": [
+      "long",
+      "under",
+      "in",
+      "on"
+    ],
+    "answer": 2,
+    "explanation": "In means inside."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-home-toys",
+    "topic": "Home and toys",
+    "level": "Médio",
+    "prompt": "Complete: The ball is ____ the table.",
+    "options": [
+      "big",
+      "in",
+      "under",
+      "on"
+    ],
+    "answer": 2,
+    "explanation": "Under means below."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-home-toys",
+    "topic": "Home and toys",
+    "level": "Médio",
+    "prompt": "Complete: The ball is ____ the chair.",
+    "options": [
+      "in",
+      "on",
+      "under",
+      "short"
+    ],
+    "answer": 1,
+    "explanation": "On means on top of."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-home-toys",
+    "topic": "Home and toys",
+    "level": "Médio",
+    "prompt": "Complete: There is a lamp in the ____.",
+    "options": [
+      "living room",
+      "body",
+      "brother",
+      "banana"
+    ],
+    "answer": 0,
+    "explanation": "A lamp can be in the living room."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-home-toys",
+    "topic": "Home and toys",
+    "level": "Médio",
+    "prompt": "Complete: There is one ____ in the picture.",
+    "options": [
+      "children",
+      "dogs",
+      "cupboard",
+      "apples"
+    ],
+    "answer": 2,
+    "explanation": "One takes a singular noun, cupboard."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-home-toys",
+    "topic": "Home and toys",
+    "level": "Médio",
+    "prompt": "Complete: There are three ____ in the room.",
+    "options": [
+      "chair is",
+      "chairs",
+      "chair",
+      "a chair"
+    ],
+    "answer": 1,
+    "explanation": "Three requires the plural chairs."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-home-toys",
+    "topic": "Home and toys",
+    "level": "Médio",
+    "prompt": "Choose the correct sentence.",
+    "options": [
+      "There is one table.",
+      "There are one table.",
+      "There is two tables.",
+      "There are a table."
+    ],
+    "answer": 0,
+    "explanation": "One table uses There is."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-home-toys",
+    "topic": "Home and toys",
+    "level": "Médio",
+    "prompt": "Choose the correct sentence.",
+    "options": [
+      "There are three apples.",
+      "There is three apples.",
+      "There are one apple.",
+      "There is apples."
+    ],
+    "answer": 0,
+    "explanation": "Three apples uses There are."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-home-toys",
+    "topic": "Home and toys",
+    "level": "Médio",
+    "prompt": "Which word names a house object?",
+    "options": [
+      "bookshelf",
+      "brother",
+      "broccoli",
+      "beautiful"
+    ],
+    "answer": 0,
+    "explanation": "A bookshelf is an object found in a house."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-home-toys",
+    "topic": "Home and toys",
+    "level": "Médio",
+    "prompt": "Which word names a floor covering?",
+    "options": [
+      "carpet",
+      "camera",
+      "carrot",
+      "cat"
+    ],
+    "answer": 0,
+    "explanation": "A carpet covers part of the floor."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-home-toys",
+    "topic": "Home and toys",
+    "level": "Desafio",
+    "prompt": "Put the words in order: ball / the / under / is / table / The.",
+    "options": [
+      "The ball under is table the.",
+      "Under the ball the table is.",
+      "The table is under the ball.",
+      "The ball is under the table."
+    ],
+    "answer": 3,
+    "explanation": "The sentence describes the ball below the table."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-home-toys",
+    "topic": "Home and toys",
+    "level": "Desafio",
+    "prompt": "Choose the correct answer: How many cupboards are there?",
+    "options": [
+      "There is one cupboard.",
+      "It has got cupboard.",
+      "There is two cupboards.",
+      "There are one cupboard."
+    ],
+    "answer": 0,
+    "explanation": "One cupboard takes There is."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-home-toys",
+    "topic": "Home and toys",
+    "level": "Desafio",
+    "prompt": "Choose the correct answer: How many apples are there?",
+    "options": [
+      "There are one apple.",
+      "There is three apples.",
+      "There are three apples.",
+      "They has got apples."
+    ],
+    "answer": 2,
+    "explanation": "Three apples takes There are."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-home-toys",
+    "topic": "Home and toys",
+    "level": "Desafio",
+    "prompt": "Read: There is a sofa, a lamp and a carpet. Which room is most likely described?",
+    "options": [
+      "classroom",
+      "living room",
+      "bathroom",
+      "garden"
+    ],
+    "answer": 1,
+    "explanation": "A sofa, lamp and carpet are typical living room objects."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-home-toys",
+    "topic": "Home and toys",
+    "level": "Desafio",
+    "prompt": "Read: There is a fridge and a cupboard. Which room is described?",
+    "options": [
+      "kitchen",
+      "garden",
+      "yard",
+      "bedroom"
+    ],
+    "answer": 0,
+    "explanation": "A fridge and cupboard are common kitchen objects."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-home-toys",
+    "topic": "Home and toys",
+    "level": "Desafio",
+    "prompt": "Choose the correctly spelled toy.",
+    "options": [
+      "balloon",
+      "balon",
+      "ballloon",
+      "ballon"
+    ],
+    "answer": 0,
+    "explanation": "Balloon is spelled B-A-L-L-O-O-N."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-home-toys",
+    "topic": "Home and toys",
+    "level": "Desafio",
+    "prompt": "Choose the correct sentence.",
+    "options": [
+      "She is got a teddy.",
+      "She has got a teddy.",
+      "She has get a teddy.",
+      "She have got a teddy."
+    ],
+    "answer": 1,
+    "explanation": "With she, use has got."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-home-toys",
+    "topic": "Home and toys",
+    "level": "Desafio",
+    "prompt": "Choose the correct negative sentence.",
+    "options": [
+      "He have not got long hair.",
+      "He is not got long hair.",
+      "He has not got long hair.",
+      "He not has long hair."
+    ],
+    "answer": 2,
+    "explanation": "With he, use has not got."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-home-toys",
+    "topic": "Home and toys",
+    "level": "Desafio",
+    "prompt": "Which list contains only toys?",
+    "options": [
+      "apple, banana, grapes, rice",
+      "ball, doll, train, teddy",
+      "table, chair, cupboard, carpet",
+      "eyes, ears, mouth, legs"
+    ],
+    "answer": 1,
+    "explanation": "All four words are toys."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-home-toys",
+    "topic": "Home and toys",
+    "level": "Desafio",
+    "prompt": "Complete: Has the child got a ball? Yes, the child ____.",
+    "options": [
+      "has",
+      "are",
+      "is",
+      "have"
+    ],
+    "answer": 0,
+    "explanation": "The short answer uses has."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-body-description",
+    "topic": "Body and descriptions",
+    "level": "Fácil",
+    "prompt": "Which body part do we use to see?",
+    "options": [
+      "ears",
+      "eyes",
+      "legs",
+      "mouth"
+    ],
+    "answer": 1,
+    "explanation": "We see with our eyes."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-body-description",
+    "topic": "Body and descriptions",
+    "level": "Fácil",
+    "prompt": "Which body part do we use to hear?",
+    "options": [
+      "eyes",
+      "ears",
+      "mouth",
+      "hair"
+    ],
+    "answer": 1,
+    "explanation": "We hear with our ears."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-body-description",
+    "topic": "Body and descriptions",
+    "level": "Fácil",
+    "prompt": "Which body part do we use to eat?",
+    "options": [
+      "mouth",
+      "hair",
+      "legs",
+      "ears"
+    ],
+    "answer": 0,
+    "explanation": "We eat with our mouth."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-body-description",
+    "topic": "Body and descriptions",
+    "level": "Fácil",
+    "prompt": "Which word names a body part?",
+    "options": [
+      "banana",
+      "table",
+      "legs",
+      "garden"
+    ],
+    "answer": 2,
+    "explanation": "Legs are body parts."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-body-description",
+    "topic": "Body and descriptions",
+    "level": "Fácil",
+    "prompt": "Which word names the hair on the head?",
+    "options": [
+      "ear",
+      "hair",
+      "air",
+      "chair"
+    ],
+    "answer": 1,
+    "explanation": "Hair is on the head."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-body-description",
+    "topic": "Body and descriptions",
+    "level": "Fácil",
+    "prompt": "Choose the opposite of big.",
+    "options": [
+      "long",
+      "happy",
+      "small",
+      "beautiful"
+    ],
+    "answer": 2,
+    "explanation": "Small is the opposite of big."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-body-description",
+    "topic": "Body and descriptions",
+    "level": "Fácil",
+    "prompt": "Choose the opposite of long.",
+    "options": [
+      "big",
+      "short",
+      "red",
+      "angry"
+    ],
+    "answer": 1,
+    "explanation": "Short is the opposite of long."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-body-description",
+    "topic": "Body and descriptions",
+    "level": "Fácil",
+    "prompt": "Which word describes a positive appearance?",
+    "options": [
+      "beautiful",
+      "banana",
+      "kitchen",
+      "metal"
+    ],
+    "answer": 0,
+    "explanation": "Beautiful is a descriptive adjective."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-body-description",
+    "topic": "Body and descriptions",
+    "level": "Fácil",
+    "prompt": "Which word describes a feeling?",
+    "options": [
+      "train",
+      "paper",
+      "table",
+      "happy"
+    ],
+    "answer": 3,
+    "explanation": "Happy describes a feeling."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-body-description",
+    "topic": "Body and descriptions",
+    "level": "Fácil",
+    "prompt": "Which word describes a feeling?",
+    "options": [
+      "mouth",
+      "ball",
+      "chair",
+      "angry"
+    ],
+    "answer": 3,
+    "explanation": "Angry describes a feeling."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-body-description",
+    "topic": "Body and descriptions",
+    "level": "Médio",
+    "prompt": "Complete: Liza has got ____ hair.",
+    "options": [
+      "big",
+      "metal",
+      "small",
+      "long"
+    ],
+    "answer": 3,
+    "explanation": "Long describes hair length."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-body-description",
+    "topic": "Body and descriptions",
+    "level": "Médio",
+    "prompt": "Complete: Patricia has got ____ hair.",
+    "options": [
+      "short",
+      "wood",
+      "long",
+      "paper"
+    ],
+    "answer": 0,
+    "explanation": "Short describes hair length."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-body-description",
+    "topic": "Body and descriptions",
+    "level": "Médio",
+    "prompt": "Complete: This is a ____ house.",
+    "options": [
+      "small",
+      "eyes",
+      "short hair",
+      "happy"
+    ],
+    "answer": 0,
+    "explanation": "Small can describe a house."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-body-description",
+    "topic": "Body and descriptions",
+    "level": "Médio",
+    "prompt": "Complete: This is a ____ house.",
+    "options": [
+      "big",
+      "ears",
+      "long hair",
+      "angry"
+    ],
+    "answer": 0,
+    "explanation": "Big can describe a house."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-body-description",
+    "topic": "Body and descriptions",
+    "level": "Médio",
+    "prompt": "Choose the correct sentence.",
+    "options": [
+      "The monster has three eye.",
+      "The monster have got three eyes.",
+      "The monster has got three eyes.",
+      "The monster is got three eyes."
+    ],
+    "answer": 2,
+    "explanation": "With the monster, use has got; three requires eyes."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-body-description",
+    "topic": "Body and descriptions",
+    "level": "Médio",
+    "prompt": "Choose the correct sentence.",
+    "options": [
+      "The dog are two ears.",
+      "The dog have got two ears.",
+      "The dog has got two ears.",
+      "The dog has got two ear."
+    ],
+    "answer": 2,
+    "explanation": "With dog, use has got; two requires ears."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-body-description",
+    "topic": "Body and descriptions",
+    "level": "Médio",
+    "prompt": "Complete: It ____ a big mouth.",
+    "options": [
+      "has got",
+      "are",
+      "have got",
+      "am"
+    ],
+    "answer": 0,
+    "explanation": "With it, use has got."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-body-description",
+    "topic": "Body and descriptions",
+    "level": "Médio",
+    "prompt": "Complete: He ____ long hair.",
+    "options": [
+      "have not got",
+      "are not",
+      "is not got",
+      "has not got"
+    ],
+    "answer": 3,
+    "explanation": "With he, use has not got."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-body-description",
+    "topic": "Body and descriptions",
+    "level": "Médio",
+    "prompt": "Which question asks about appearance?",
+    "options": [
+      "Where is the monster?",
+      "Has the monster got three eyes?",
+      "When is the monster?",
+      "How many is the monster?"
+    ],
+    "answer": 1,
+    "explanation": "Has ... got asks about a characteristic or possession."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-body-description",
+    "topic": "Body and descriptions",
+    "level": "Médio",
+    "prompt": "Choose the correct answer: Is the child happy?",
+    "options": [
+      "Yes, the child are.",
+      "Yes, the child has.",
+      "Yes, there is.",
+      "Yes, the child is."
+    ],
+    "answer": 3,
+    "explanation": "Questions with is use is in the short answer."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-body-description",
+    "topic": "Body and descriptions",
+    "level": "Desafio",
+    "prompt": "Read: The lion has got four legs, two ears and brown eyes. How many ears has the lion got?",
+    "options": [
+      "two",
+      "four",
+      "three",
+      "one"
+    ],
+    "answer": 0,
+    "explanation": "The text says two ears."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-body-description",
+    "topic": "Body and descriptions",
+    "level": "Desafio",
+    "prompt": "Read: The lion is big and very fast. Which two words describe the lion?",
+    "options": [
+      "big and fast",
+      "young and sad",
+      "small and slow",
+      "short and angry"
+    ],
+    "answer": 0,
+    "explanation": "The text uses big and fast."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-body-description",
+    "topic": "Body and descriptions",
+    "level": "Desafio",
+    "prompt": "Read: The monster has got three eyes, two legs and one nose. Which statement is true?",
+    "options": [
+      "The monster has got one nose.",
+      "The monster has got five arms.",
+      "The monster has got one eye.",
+      "The monster has got four legs."
+    ],
+    "answer": 0,
+    "explanation": "The description says one nose."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-body-description",
+    "topic": "Body and descriptions",
+    "level": "Desafio",
+    "prompt": "Choose the correct negative sentence.",
+    "options": [
+      "The cat have not got a big mouth.",
+      "The cat has not got a big mouth.",
+      "The cat not has a big mouth.",
+      "The cat is not got a big mouth."
+    ],
+    "answer": 1,
+    "explanation": "With cat, use has not got."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-body-description",
+    "topic": "Body and descriptions",
+    "level": "Desafio",
+    "prompt": "Put the words in order: got / has / hair / long / She.",
+    "options": [
+      "She got has long hair.",
+      "Long hair she got has.",
+      "Has she long hair got.",
+      "She has got long hair."
+    ],
+    "answer": 3,
+    "explanation": "The correct order is She has got long hair."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-body-description",
+    "topic": "Body and descriptions",
+    "level": "Desafio",
+    "prompt": "Which pair contains opposites?",
+    "options": [
+      "big and small",
+      "happy and excited",
+      "chair and table",
+      "eyes and ears"
+    ],
+    "answer": 0,
+    "explanation": "Big and small are opposites."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-body-description",
+    "topic": "Body and descriptions",
+    "level": "Desafio",
+    "prompt": "Which pair contains opposites?",
+    "options": [
+      "long and short",
+      "red and blue",
+      "teddy and doll",
+      "mouth and eyes"
+    ],
+    "answer": 0,
+    "explanation": "Long and short are opposites."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-body-description",
+    "topic": "Body and descriptions",
+    "level": "Desafio",
+    "prompt": "Complete correctly: Has the child got long hair? No, the child ____.",
+    "options": [
+      "are not",
+      "has not",
+      "is not",
+      "have not"
+    ],
+    "answer": 1,
+    "explanation": "The subject child uses has not."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-body-description",
+    "topic": "Body and descriptions",
+    "level": "Desafio",
+    "prompt": "Choose the best description: A person has hair that does not reach the shoulders.",
+    "options": [
+      "The person has got small ears.",
+      "The person has got long hair.",
+      "The person has got big hair.",
+      "The person has got short hair."
+    ],
+    "answer": 3,
+    "explanation": "Hair that does not reach the shoulders is short hair."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-body-description",
+    "topic": "Body and descriptions",
+    "level": "Desafio",
+    "prompt": "Read: The animal is big, fast and lives in Africa. It has got four legs. What animal is described?",
+    "options": [
+      "lion",
+      "fish",
+      "bird",
+      "cat"
+    ],
+    "answer": 0,
+    "explanation": "The description matches the lion text in the study material."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-reading-dictation",
+    "topic": "Reading",
+    "level": "Fácil",
+    "prompt": "Read: This is the Smith family. Mr Smith is 40 years old and is a doctor. Mrs Smith is 38 years old and is a teacher. They have got two children, Tom and Lily. Tom is 10 and Lily is 8. They have got a dog called Max. They live in a big house. What is the family name?",
+    "options": [
+      "Lucas",
+      "Smith",
+      "Max",
+      "Katie"
+    ],
+    "answer": 1,
+    "explanation": "The text says this is the Smith family."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-reading-dictation",
+    "topic": "Reading",
+    "level": "Fácil",
+    "prompt": "Read: This is the Smith family. Mr Smith is 40 years old and is a doctor. Mrs Smith is 38 years old and is a teacher. They have got two children, Tom and Lily. Tom is 10 and Lily is 8. They have got a dog called Max. They live in a big house. What is the dog’s name?",
+    "options": [
+      "Lily",
+      "Bob",
+      "Max",
+      "Tom"
+    ],
+    "answer": 2,
+    "explanation": "The dog is called Max."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-reading-dictation",
+    "topic": "Reading",
+    "level": "Fácil",
+    "prompt": "Read: This is the Smith family. Mr Smith is 40 years old and is a doctor. Mrs Smith is 38 years old and is a teacher. They have got two children, Tom and Lily. Tom is 10 and Lily is 8. They have got a dog called Max. They live in a big house. How many children have they got?",
+    "options": [
+      "one",
+      "three",
+      "four",
+      "two"
+    ],
+    "answer": 3,
+    "explanation": "The text says they have got two children."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-reading-dictation",
+    "topic": "Reading",
+    "level": "Fácil",
+    "prompt": "Read: This is the Smith family. Mr Smith is 40 years old and is a doctor. Mrs Smith is 38 years old and is a teacher. They have got two children, Tom and Lily. Tom is 10 and Lily is 8. They have got a dog called Max. They live in a big house. Where do they live?",
+    "options": [
+      "in a garden",
+      "in a hospital",
+      "in a big house",
+      "at school"
+    ],
+    "answer": 2,
+    "explanation": "The text says they live in a big house."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-reading-dictation",
+    "topic": "Reading",
+    "level": "Fácil",
+    "prompt": "Read: Lucas is seven years old. He lives with his father, mother, sister Julia and dog Bob. How old is Lucas?",
+    "options": [
+      "eight",
+      "ten",
+      "five",
+      "seven"
+    ],
+    "answer": 3,
+    "explanation": "The text says Lucas is seven."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-reading-dictation",
+    "topic": "Reading",
+    "level": "Fácil",
+    "prompt": "Read: Lucas’s father is a teacher and his mother is a nurse. What is his mother?",
+    "options": [
+      "a teacher",
+      "a doctor",
+      "a nurse",
+      "a student"
+    ],
+    "answer": 2,
+    "explanation": "The text says his mother is a nurse."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-reading-dictation",
+    "topic": "Reading",
+    "level": "Fácil",
+    "prompt": "Read: Julia is five years old. How old is Julia?",
+    "options": [
+      "eight",
+      "seven",
+      "five",
+      "ten"
+    ],
+    "answer": 2,
+    "explanation": "The text says Julia is five."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-reading-dictation",
+    "topic": "Reading",
+    "level": "Fácil",
+    "prompt": "Read: Katie puts water and tissue paper in a jar. What does Katie put in the jar?",
+    "options": [
+      "water and tissue paper",
+      "soil and a toy",
+      "milk and paper",
+      "rice and fruit"
+    ],
+    "answer": 0,
+    "explanation": "The text says water and tissue paper."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-reading-dictation",
+    "topic": "Reading",
+    "level": "Fácil",
+    "prompt": "Read: Katie has got one bean. How many beans has Katie got?",
+    "options": [
+      "three",
+      "two",
+      "four",
+      "one"
+    ],
+    "answer": 3,
+    "explanation": "The sentence says one bean."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-reading-dictation",
+    "topic": "Reading",
+    "level": "Fácil",
+    "prompt": "Read: A lion is big and fast. It lives in Africa. Where does the lion live?",
+    "options": [
+      "the sea",
+      "Africa",
+      "the classroom",
+      "the kitchen"
+    ],
+    "answer": 1,
+    "explanation": "The text says the lion lives in Africa."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-reading-dictation",
+    "topic": "Reading",
+    "level": "Médio",
+    "prompt": "Read: This is the Smith family. Mr Smith is 40 years old and is a doctor. Mrs Smith is 38 years old and is a teacher. They have got two children, Tom and Lily. Tom is 10 and Lily is 8. They have got a dog called Max. They live in a big house. How old is Mrs Smith?",
+    "options": [
+      "40",
+      "8",
+      "10",
+      "38"
+    ],
+    "answer": 3,
+    "explanation": "The text says Mrs Smith is 38."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-reading-dictation",
+    "topic": "Reading",
+    "level": "Médio",
+    "prompt": "Read: This is the Smith family. Mr Smith is 40 years old and is a doctor. Mrs Smith is 38 years old and is a teacher. They have got two children, Tom and Lily. Tom is 10 and Lily is 8. They have got a dog called Max. They live in a big house. What is Mr Smith’s job?",
+    "options": [
+      "teacher",
+      "nurse",
+      "student",
+      "doctor"
+    ],
+    "answer": 3,
+    "explanation": "The text says Mr Smith is a doctor."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-reading-dictation",
+    "topic": "Reading",
+    "level": "Médio",
+    "prompt": "Read: This is the Smith family. Mr Smith is 40 years old and is a doctor. Mrs Smith is 38 years old and is a teacher. They have got two children, Tom and Lily. Tom is 10 and Lily is 8. They have got a dog called Max. They live in a big house. Who is 10 years old?",
+    "options": [
+      "Mrs Smith",
+      "Tom",
+      "Max",
+      "Lily"
+    ],
+    "answer": 1,
+    "explanation": "The text says Tom is 10."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-reading-dictation",
+    "topic": "Reading",
+    "level": "Médio",
+    "prompt": "Read: This is the Smith family. Mr Smith is 40 years old and is a doctor. Mrs Smith is 38 years old and is a teacher. They have got two children, Tom and Lily. Tom is 10 and Lily is 8. They have got a dog called Max. They live in a big house. Who is 8 years old?",
+    "options": [
+      "Mr Smith",
+      "Tom",
+      "Lily",
+      "Max"
+    ],
+    "answer": 2,
+    "explanation": "The text says Lily is 8."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-reading-dictation",
+    "topic": "Reading",
+    "level": "Médio",
+    "prompt": "Read: Katie grows vegetables in her garden. She grows carrots and beans. Which statement is true?",
+    "options": [
+      "Katie grows bananas.",
+      "Katie is at school.",
+      "Katie grows toys.",
+      "Katie grows vegetables."
+    ],
+    "answer": 3,
+    "explanation": "The text says Katie grows vegetables."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-reading-dictation",
+    "topic": "Reading",
+    "level": "Médio",
+    "prompt": "Read: Katie puts water and tissue paper in a jar, then adds one bean. Which item goes into the jar?",
+    "options": [
+      "a ball",
+      "a bean",
+      "a teddy",
+      "a camera"
+    ],
+    "answer": 1,
+    "explanation": "The text says she adds one bean."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-reading-dictation",
+    "topic": "Reading",
+    "level": "Médio",
+    "prompt": "Read: The lion has got four legs and two ears. Which statement is true?",
+    "options": [
+      "The lion has got two legs.",
+      "The lion has got five legs.",
+      "The lion has got two ears.",
+      "The lion has got no ears."
+    ],
+    "answer": 2,
+    "explanation": "The description says two ears."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-reading-dictation",
+    "topic": "Reading",
+    "level": "Médio",
+    "prompt": "Read: The child has got a ball but has not got a train. What has the child got?",
+    "options": [
+      "a train",
+      "a ball",
+      "a plane",
+      "a doll"
+    ],
+    "answer": 1,
+    "explanation": "The text says the child has got a ball."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-reading-dictation",
+    "topic": "Reading",
+    "level": "Médio",
+    "prompt": "Read: There is a cat, a dog and two plants in the room. How many animals are there?",
+    "options": [
+      "three",
+      "two",
+      "four",
+      "one"
+    ],
+    "answer": 1,
+    "explanation": "The cat and dog are two animals."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-reading-dictation",
+    "topic": "Reading",
+    "level": "Médio",
+    "prompt": "Read: There are four people in the family picture. How many people are there?",
+    "options": [
+      "one",
+      "three",
+      "two",
+      "four"
+    ],
+    "answer": 3,
+    "explanation": "The sentence says four people."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-reading-dictation",
+    "topic": "Reading",
+    "level": "Desafio",
+    "prompt": "Read: Mr Smith is 40 and Mrs Smith is 38. Who is older?",
+    "options": [
+      "Mrs Smith",
+      "Tom",
+      "Lily",
+      "Mr Smith"
+    ],
+    "answer": 3,
+    "explanation": "Forty is greater than thirty-eight."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-reading-dictation",
+    "topic": "Reading",
+    "level": "Desafio",
+    "prompt": "Read: Tom is 10 and Lily is 8. How many years older is Tom?",
+    "options": [
+      "three years",
+      "two years",
+      "one year",
+      "eight years"
+    ],
+    "answer": 1,
+    "explanation": "Ten minus eight equals two."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-reading-dictation",
+    "topic": "Reading",
+    "level": "Desafio",
+    "prompt": "Read: Lucas lives with his father, mother, sister and dog. Which family member is also named?",
+    "options": [
+      "an aunt called Katie",
+      "Julia, his sister",
+      "a brother called Tom",
+      "a grandfather called Max"
+    ],
+    "answer": 1,
+    "explanation": "The text names Julia as the sister."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-reading-dictation",
+    "topic": "Reading",
+    "level": "Desafio",
+    "prompt": "Read: Katie puts water and tissue paper in a jar and adds one bean. Which action happens before adding the bean?",
+    "options": [
+      "She puts water and tissue paper in the jar.",
+      "She eats the bean.",
+      "She gives the jar to a lion.",
+      "She puts the jar in a toy box."
+    ],
+    "answer": 0,
+    "explanation": "Water and tissue paper are added first."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-reading-dictation",
+    "topic": "Reading",
+    "level": "Desafio",
+    "prompt": "Read: The lion is big, fast, has four legs and lives in Africa. Which sentence is false?",
+    "options": [
+      "The lion is fast.",
+      "The lion has got two legs.",
+      "The lion is big.",
+      "The lion lives in Africa."
+    ],
+    "answer": 1,
+    "explanation": "The text says four legs, not two."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-reading-dictation",
+    "topic": "Reading",
+    "level": "Desafio",
+    "prompt": "Read: There is one cat, one dog, two plants and four people. How many living things are mentioned?",
+    "options": [
+      "six",
+      "four",
+      "seven",
+      "eight"
+    ],
+    "answer": 3,
+    "explanation": "1 cat + 1 dog + 2 plants + 4 people = 8."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-reading-dictation",
+    "topic": "Reading",
+    "level": "Desafio",
+    "prompt": "Read: I like pizza and bananas, but I do not like broccoli. Which food is not liked?",
+    "options": [
+      "pizza",
+      "bananas",
+      "cake",
+      "broccoli"
+    ],
+    "answer": 3,
+    "explanation": "The sentence says do not like broccoli."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-reading-dictation",
+    "topic": "Reading",
+    "level": "Desafio",
+    "prompt": "Read: The child is in the living room. The ball is under the table. Where is the ball?",
+    "options": [
+      "on the chair",
+      "in the box",
+      "in the garden",
+      "under the table"
+    ],
+    "answer": 3,
+    "explanation": "The text states under the table."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-reading-dictation",
+    "topic": "Reading",
+    "level": "Desafio",
+    "prompt": "Read: My father is a teacher. My mother is a nurse. Which statement is correct?",
+    "options": [
+      "Both parents are teachers.",
+      "My parents have different jobs.",
+      "Neither parent works.",
+      "Both parents are nurses."
+    ],
+    "answer": 1,
+    "explanation": "The jobs are teacher and nurse."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-reading-dictation",
+    "topic": "Reading",
+    "level": "Desafio",
+    "prompt": "Read: There are three apples and one orange in the basket. How many pieces of fruit are there?",
+    "options": [
+      "one",
+      "three",
+      "four",
+      "two"
+    ],
+    "answer": 2,
+    "explanation": "Three plus one equals four."
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-reading-dictation",
+    "topic": "Dictation",
+    "level": "Fácil",
+    "prompt": "🔊 Listen and choose the word or expression you hear.",
+    "options": [
+      "surprised",
+      "hungry",
+      "happy",
+      "angry"
+    ],
+    "answer": 2,
+    "explanation": "The word or expression is “happy”.",
+    "speakText": "happy",
+    "mode": "dictation"
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-reading-dictation",
+    "topic": "Dictation",
+    "level": "Fácil",
+    "prompt": "🔊 Listen and choose the word or expression you hear.",
+    "options": [
+      "chair",
+      "small",
+      "short",
+      "long"
+    ],
+    "answer": 2,
+    "explanation": "The word or expression is “short”.",
+    "speakText": "short",
+    "mode": "dictation"
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-reading-dictation",
+    "topic": "Dictation",
+    "level": "Fácil",
+    "prompt": "🔊 Listen and choose the word or expression you hear.",
+    "options": [
+      "eyes",
+      "chair",
+      "hair",
+      "ears"
+    ],
+    "answer": 2,
+    "explanation": "The word or expression is “hair”.",
+    "speakText": "hair",
+    "mode": "dictation"
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-reading-dictation",
+    "topic": "Dictation",
+    "level": "Fácil",
+    "prompt": "🔊 Listen and choose the word or expression you hear.",
+    "options": [
+      "doll",
+      "boat",
+      "bike",
+      "balloon"
+    ],
+    "answer": 2,
+    "explanation": "The word or expression is “bike”.",
+    "speakText": "bike",
+    "mode": "dictation"
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-reading-dictation",
+    "topic": "Dictation",
+    "level": "Fácil",
+    "prompt": "🔊 Listen and choose the word or expression you hear.",
+    "options": [
+      "bed",
+      "pig",
+      "big",
+      "bag"
+    ],
+    "answer": 2,
+    "explanation": "The word or expression is “big”.",
+    "speakText": "big",
+    "mode": "dictation"
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-reading-dictation",
+    "topic": "Dictation",
+    "level": "Fácil",
+    "prompt": "🔊 Listen and choose the word or expression you hear.",
+    "options": [
+      "toy",
+      "table",
+      "teddy",
+      "teacher"
+    ],
+    "answer": 2,
+    "explanation": "The word or expression is “teddy”.",
+    "speakText": "teddy",
+    "mode": "dictation"
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-reading-dictation",
+    "topic": "Dictation",
+    "level": "Fácil",
+    "prompt": "🔊 Listen and choose the word or expression you hear.",
+    "options": [
+      "hi",
+      "bed",
+      "red",
+      "all"
+    ],
+    "answer": 2,
+    "explanation": "The word or expression is “red”.",
+    "speakText": "red",
+    "mode": "dictation"
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-reading-dictation",
+    "topic": "Dictation",
+    "level": "Fácil",
+    "prompt": "🔊 Listen and choose the word or expression you hear.",
+    "options": [
+      "banana",
+      "mother",
+      "brother",
+      "boat"
+    ],
+    "answer": 2,
+    "explanation": "The word or expression is “brother”.",
+    "speakText": "brother",
+    "mode": "dictation"
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-reading-dictation",
+    "topic": "Dictation",
+    "level": "Fácil",
+    "prompt": "🔊 Listen and choose the word or expression you hear.",
+    "options": [
+      "hair",
+      "legs",
+      "eyes",
+      "ears"
+    ],
+    "answer": 2,
+    "explanation": "The word or expression is “eyes”.",
+    "speakText": "eyes",
+    "mode": "dictation"
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-reading-dictation",
+    "topic": "Dictation",
+    "level": "Fácil",
+    "prompt": "🔊 Listen and choose the word or expression you hear.",
+    "options": [
+      "train",
+      "chair",
+      "ball",
+      "doll"
+    ],
+    "answer": 2,
+    "explanation": "The word or expression is “ball”.",
+    "speakText": "ball",
+    "mode": "dictation"
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-reading-dictation",
+    "topic": "Dictation",
+    "level": "Médio",
+    "prompt": "🔊 Listen and choose the word or expression you hear.",
+    "options": [
+      "angry",
+      "happy",
+      "excited",
+      "surprised"
+    ],
+    "answer": 3,
+    "explanation": "The word or expression is “surprised”.",
+    "speakText": "surprised",
+    "mode": "dictation"
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-reading-dictation",
+    "topic": "Dictation",
+    "level": "Médio",
+    "prompt": "🔊 Listen and choose the word or expression you hear.",
+    "options": [
+      "bike",
+      "board game",
+      "balloon",
+      "beautiful"
+    ],
+    "answer": 3,
+    "explanation": "The word or expression is “beautiful”.",
+    "speakText": "beautiful",
+    "mode": "dictation"
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-reading-dictation",
+    "topic": "Dictation",
+    "level": "Médio",
+    "prompt": "🔊 Listen and choose the word or expression you hear.",
+    "options": [
+      "toy",
+      "teddy",
+      "brother",
+      "teacher"
+    ],
+    "answer": 3,
+    "explanation": "The word or expression is “teacher”.",
+    "speakText": "teacher",
+    "mode": "dictation"
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-reading-dictation",
+    "topic": "Dictation",
+    "level": "Médio",
+    "prompt": "🔊 Listen and choose the word or expression you hear.",
+    "options": [
+      "boat",
+      "brother",
+      "balloon",
+      "banana"
+    ],
+    "answer": 3,
+    "explanation": "The word or expression is “banana”.",
+    "speakText": "banana",
+    "mode": "dictation"
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-reading-dictation",
+    "topic": "Dictation",
+    "level": "Médio",
+    "prompt": "🔊 Listen and choose the word or expression you hear.",
+    "options": [
+      "family",
+      "kitchen",
+      "living room",
+      "garden"
+    ],
+    "answer": 3,
+    "explanation": "The word or expression is “garden”.",
+    "speakText": "garden",
+    "mode": "dictation"
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-reading-dictation",
+    "topic": "Dictation",
+    "level": "Médio",
+    "prompt": "🔊 Listen and choose the word or expression you hear.",
+    "options": [
+      "carrot",
+      "car",
+      "carpet",
+      "camera"
+    ],
+    "answer": 3,
+    "explanation": "The word or expression is “camera”.",
+    "speakText": "camera",
+    "mode": "dictation"
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-reading-dictation",
+    "topic": "Dictation",
+    "level": "Médio",
+    "prompt": "🔊 Listen and choose the word or expression you hear.",
+    "options": [
+      "metal",
+      "paper",
+      "fabric",
+      "plastic"
+    ],
+    "answer": 3,
+    "explanation": "The word or expression is “plastic”.",
+    "speakText": "plastic",
+    "mode": "dictation"
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-reading-dictation",
+    "topic": "Dictation",
+    "level": "Médio",
+    "prompt": "🔊 Listen and choose the word or expression you hear.",
+    "options": [
+      "table",
+      "chair",
+      "bookshelf",
+      "cupboard"
+    ],
+    "answer": 3,
+    "explanation": "The word or expression is “cupboard”.",
+    "speakText": "cupboard",
+    "mode": "dictation"
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-reading-dictation",
+    "topic": "Dictation",
+    "level": "Médio",
+    "prompt": "🔊 Listen and choose the word or expression you hear.",
+    "options": [
+      "beans",
+      "eggs",
+      "oranges",
+      "grapes"
+    ],
+    "answer": 3,
+    "explanation": "The word or expression is “grapes”.",
+    "speakText": "grapes",
+    "mode": "dictation"
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-reading-dictation",
+    "topic": "Dictation",
+    "level": "Médio",
+    "prompt": "🔊 Listen and choose the word or expression you hear.",
+    "options": [
+      "metal",
+      "mouth",
+      "milk",
+      "mother"
+    ],
+    "answer": 3,
+    "explanation": "The word or expression is “mother”.",
+    "speakText": "mother",
+    "mode": "dictation"
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-reading-dictation",
+    "topic": "Dictation",
+    "level": "Desafio",
+    "prompt": "🔊 Listen and choose the word or expression you hear.",
+    "options": [
+      "balloon",
+      "board game",
+      "bike",
+      "beautiful"
+    ],
+    "answer": 1,
+    "explanation": "The word or expression is “board game”.",
+    "speakText": "board game",
+    "mode": "dictation"
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-reading-dictation",
+    "topic": "Dictation",
+    "level": "Desafio",
+    "prompt": "🔊 Listen and choose the word or expression you hear.",
+    "options": [
+      "family",
+      "living room",
+      "garden",
+      "kitchen"
+    ],
+    "answer": 1,
+    "explanation": "The word or expression is “living room”.",
+    "speakText": "living room",
+    "mode": "dictation"
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-reading-dictation",
+    "topic": "Dictation",
+    "level": "Desafio",
+    "prompt": "🔊 Listen and choose the word or expression you hear.",
+    "options": [
+      "teddy",
+      "tissue paper",
+      "table",
+      "teacher"
+    ],
+    "answer": 1,
+    "explanation": "The word or expression is “tissue paper”.",
+    "speakText": "tissue paper",
+    "mode": "dictation"
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-reading-dictation",
+    "topic": "Dictation",
+    "level": "Desafio",
+    "prompt": "🔊 Listen and choose the word or expression you hear.",
+    "options": [
+      "big seed",
+      "bean seed",
+      "green seed",
+      "beans"
+    ],
+    "answer": 1,
+    "explanation": "The word or expression is “bean seed”.",
+    "speakText": "bean seed",
+    "mode": "dictation"
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-reading-dictation",
+    "topic": "Dictation",
+    "level": "Desafio",
+    "prompt": "🔊 Listen and choose the word or expression you hear.",
+    "options": [
+      "teachers",
+      "grandparents",
+      "brothers",
+      "parents"
+    ],
+    "answer": 1,
+    "explanation": "The word or expression is “grandparents”.",
+    "speakText": "grandparents",
+    "mode": "dictation"
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-reading-dictation",
+    "topic": "Dictation",
+    "level": "Desafio",
+    "prompt": "🔊 Listen and choose the word or expression you hear.",
+    "options": [
+      "metal",
+      "watermelon",
+      "woman",
+      "water"
+    ],
+    "answer": 1,
+    "explanation": "The word or expression is “watermelon”.",
+    "speakText": "watermelon",
+    "mode": "dictation"
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-reading-dictation",
+    "topic": "Dictation",
+    "level": "Desafio",
+    "prompt": "🔊 Listen and choose the word or expression you hear.",
+    "options": [
+      "is got",
+      "has got",
+      "there is",
+      "have got"
+    ],
+    "answer": 1,
+    "explanation": "The word or expression is “has got”.",
+    "speakText": "has got",
+    "mode": "dictation"
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-reading-dictation",
+    "topic": "Dictation",
+    "level": "Desafio",
+    "prompt": "🔊 Listen and choose the word or expression you hear.",
+    "options": [
+      "are not",
+      "do not like",
+      "have not got",
+      "does not like"
+    ],
+    "answer": 1,
+    "explanation": "The word or expression is “do not like”.",
+    "speakText": "do not like",
+    "mode": "dictation"
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-reading-dictation",
+    "topic": "Dictation",
+    "level": "Desafio",
+    "prompt": "🔊 Listen and choose the word or expression you hear.",
+    "options": [
+      "we are",
+      "there are",
+      "they are",
+      "there is"
+    ],
+    "answer": 1,
+    "explanation": "The word or expression is “there are”.",
+    "speakText": "there are",
+    "mode": "dictation"
+  },
+  {
+    "subject": "ingles",
+    "world": "eng-reading-dictation",
+    "topic": "Dictation",
+    "level": "Desafio",
+    "prompt": "🔊 Listen and choose the word or expression you hear.",
+    "options": [
+      "when",
+      "how many",
+      "where",
+      "what"
+    ],
+    "answer": 1,
+    "explanation": "The word or expression is “how many”.",
+    "speakText": "how many",
+    "mode": "dictation"
+  }
+]
